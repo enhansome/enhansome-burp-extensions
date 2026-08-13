@@ -1,0 +1,4753 @@
+{
+  "items": [
+    {
+      "description": "Extensions rel)ated to customizing Burp features and extend the functionality of Burp Suite in numerous ways.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HaE - Highlighter and Extractor",
+          "description": "HaE is used to highlight HTTP requests and extract information from HTTP response messages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-31T07:40:27Z",
+            "owner": "overspace-labs",
+            "repo": "HaE",
+            "stars": 4359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Bounty - Scan Check Builder",
+          "description": "This BurpSuite extension allows you, in a quick and simple way, to improve the active and passive burpsuite scanner by means of personalized rules through a very intuitive graphical interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-04-26T01:17:17Z",
+            "owner": "wagiro",
+            "repo": "BurpBounty",
+            "stars": 1810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GAP-Burp-Extension",
+          "description": "This is an evolution of the original getAllParams extension for Burp. Not only does it find more potential parameters for you to investigate, but it also finds potential links to try these parameters on, and produces a target specific wordlist to use for fuzzing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-08T19:23:17Z",
+            "owner": "xnl-h4ck3r",
+            "repo": "GAP-Burp-Extension",
+            "stars": 1528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PwnFox",
+          "description": "PwnFox is a Firefox/Burp extension that provide usefull tools for your security audit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-07T14:49:45Z",
+            "owner": "yeswehack",
+            "repo": "PwnFox",
+            "stars": 1334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IP Rotate",
+          "description": "Extension for Burp Suite which uses AWS API Gateway to rotate your IP on every request.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-23T15:30:35Z",
+            "owner": "RhinoSecurityLabs",
+            "repo": "IPRotate_Burp_Extension",
+            "stars": 893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Customizer",
+          "description": "Because just a dark theme wasn't enough.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-12-17T09:12:47Z",
+            "owner": "C0DEbrained",
+            "repo": "BurpCustomizer",
+            "stars": 586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BurpSuiteSharpener",
+          "description": "This extension should add a number of UI and functional features to Burp Suite to make working with it easier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-06-05T08:39:05Z",
+            "owner": "mdsecresearch",
+            "repo": "BurpSuiteSharpener",
+            "stars": 523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "match-replace-burp",
+          "description": "Useful Match and Replace BurpSuite Rules",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-26T23:41:07Z",
+            "owner": "daffainfo",
+            "repo": "match-replace-burp",
+            "stars": 375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BadIntent",
+          "description": "Intercept, modify, repeat and attack Android's Binder transactions using Burp Suite.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2017-08-20T20:32:29Z",
+            "owner": "1ultimat3",
+            "repo": "BadIntent",
+            "stars": 323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cstc",
+          "description": "CSTC is a Burp Suite extension that allows request/response modification using a GUI analogous to CyberChef.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T06:02:38Z",
+            "owner": "usdAG",
+            "repo": "cstc",
+            "stars": 265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hackvertor",
+          "description": "Hackvertor is a tag-based conversion tool that supports various escapes and encodings including HTML5 entities, hex, octal, unicode, url encoding etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-03T20:27:45Z",
+            "owner": "hackvertor",
+            "repo": "hackvertor",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stepper",
+          "description": "A Multi-Stage Repeater Replacement For Burp Suite.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2026-04-15T15:16:03Z",
+            "owner": "C0DEbrained",
+            "repo": "Stepper",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scope Monitor",
+          "description": "A Burp Suite Extension to monitor and keep track of tested endpoints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-31T06:22:47Z",
+            "owner": "Regala",
+            "repo": "burp-scope-monitor",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp-Send-To-Extension",
+          "description": "Adds a customizable \"Send to...\"-context-menu to your BurpSuite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-11-27T21:11:47Z",
+            "owner": "bytebutcher",
+            "repo": "burp-send-to",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backup Finder",
+          "description": "A burp suite extension that reviews backup, old, temporary, and unreferenced files on the webserver for sensitive information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-03-27T10:49:15Z",
+            "owner": "moeinfatehi",
+            "repo": "Backup-Finder",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wildcard",
+          "description": "There is number of great Burp extension out there. Most of them create their own tabs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-12-28T18:35:23Z",
+            "owner": "hvqzao",
+            "repo": "burp-wildcard",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Piper for Burp Suite",
+          "description": "Piper Burp Suite Extender plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-01-14T14:34:23Z",
+            "owner": "silentsignal",
+            "repo": "burp-piper",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Attack Surface Detector",
+          "description": "The Attack Surface Detector uses static code analyses to identify web app endpoints by parsing routes and identifying parameters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-12-17T03:35:11Z",
+            "owner": "secdec",
+            "repo": "attack-surface-detector-burp",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reshaper for Burp",
+          "description": "Extension for Burp Suite to trigger actions and reshape HTTP request and response traffic using configurable rules",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-11-16T16:24:35Z",
+            "owner": "synfron",
+            "repo": "ReshaperForBurp",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SocketSleuth",
+          "description": "SocketSleuth aims to enhance Burp Suite's websocket testing capabilities and make testing websocket based applications easier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T19:31:13Z",
+            "owner": "snyk",
+            "repo": "socketsleuth",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SocketSleuth",
+          "description": "Burp Extension to add additional functionality for pentesting websocket based applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T19:31:13Z",
+            "owner": "snyk",
+            "repo": "socketsleuth",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyCript WebSocket",
+          "description": "PyCript WebSocket is a Burp Suite extension that enables users to encrypt and decrypt WebSocket messages.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2025-12-29T21:49:23Z",
+            "owner": "Anof-cyber",
+            "repo": "PyCript-WebSocket",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bookmarks",
+          "description": "A Burp Suite extension to bookmark requests for later, instead of those 100 unnamed repeater tabs you've got open.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-06-19T11:50:35Z",
+            "owner": "TypeError",
+            "repo": "Bookmarks",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp-IndicatorsOfVulnerability",
+          "description": "Burp extension that checks application requests and responses for indicators of vulnerability or targets for attack",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-12-23T19:34:51Z",
+            "owner": "codewatchorg",
+            "repo": "Burp-IndicatorsOfVulnerability",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Copy Regex Matches",
+          "description": "Copy Regex Matches is a Burp Suite plugin to copy regex matches from selected requests and/or responses to the clipboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-02-12T19:47:22Z",
+            "owner": "honoki",
+            "repo": "burp-copy-regex-matches",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Copy Request & Response",
+          "description": "The Copy Request & Response Burp Suite extension adds new context menu entries that can be used to simply copy the request and response from the selected message to the clipboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-12T12:04:03Z",
+            "owner": "CompassSecurity",
+            "repo": "burp-copy-request-response",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorTrafficProcessor (BTP)",
+          "description": "A BurpSuite extension to aid pentesting web applications that use Blazor Server/BlazorPack. Primary functionality includes converting BlazorPack messages to JSON and vice versa, introduces tamperability for BlazorPack serialized messages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-10-20T12:21:20Z",
+            "owner": "strozfriedberg",
+            "repo": "BlazorTrafficProcessor",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MagicByteSelector",
+          "description": "Burp Suite Extension for inserting a magic byte into responder's request",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-22T13:18:56Z",
+            "owner": "websecnl",
+            "repo": "MagicByteSelector",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taborator",
+          "description": "Improved Collaborator client in its own tab.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-12-23T13:54:44Z",
+            "owner": "hackvertor",
+            "repo": "taborator",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Timeinator",
+          "description": "Timeinator is an extension for Burp Suite that can be used to perform timing attacks over an unreliable network such as the internet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-09T13:38:28Z",
+            "owner": "FSecureLABS",
+            "repo": "timeinator",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Timeinator",
+          "description": "Timeinator is an extension for Burp Suite that can be used to perform timing attacks over an unreliable network such as the internet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-09T13:38:28Z",
+            "owner": "FSecureLABS",
+            "repo": "timeinator",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DNS-Exfilnspector",
+          "description": "Automagically decode DNS Exfiltration queries to convert Blind RCE into proper RCE via Burp Collaborator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-07T13:38:39Z",
+            "owner": "LazyTitan33",
+            "repo": "DNS-Exfilnspector",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebSocket Turbo Intruder",
+          "description": "Extension to fuzz WebSocket messages using custom code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-08-21T16:36:37Z",
+            "owner": "Hannah-PortSwigger",
+            "repo": "WebSocketTurboIntruder",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Response Pattern Matcher",
+          "description": "Adds extensibility to Burp by using a list of payloads to pattern match on HTTP responses highlighting interesting and potentially vulnerable areas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-08-04T12:40:58Z",
+            "owner": "jackj07",
+            "repo": "Response-Pattern-Matcher",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reDOM",
+          "description": "reDOM is Burp Suite extension that brings full DOM rendering capabilities directly into Burp, enabling effective security testing of modern JavaScript-heavy applications built with frameworks like ReactJS, VueJS, Angular, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-11T19:32:27Z",
+            "owner": "weirdmachine64",
+            "repo": "reDOM",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auto-Drop Requests",
+          "description": "Burp extension to automatically drop requests that match a certain regex.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-03-10T13:03:35Z",
+            "owner": "sunny0day",
+            "repo": "burp-auto-drop",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auto Drop",
+          "description": "This extension allows you to automatically Drop requests that match a certain regex. Helpful in case the target has logging or tracking services enabled.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-03-10T13:03:35Z",
+            "owner": "sunny0day",
+            "repo": "burp-auto-drop",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Custom Send To",
+          "description": "Adds a customizable \"Send to...\"-context-menu to your BurpSuite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-02-10T13:35:13Z",
+            "owner": "PortSwigger",
+            "repo": "custom-send-to",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Request Highlighter",
+          "description": "Request Highlighter is a simple extension for Burp Suite tool (for both community and professional editions) that provides an automatic way to highlight HTTP requests based on headers content (eg. Host, User-Agent, Cookies, Auth token, custom headers etc.).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-07-23T09:48:34Z",
+            "owner": "BeDefended",
+            "repo": "RequestHighlighter",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Add & Track Custom Issues",
+          "description": "This extension allows custom scan issues to be added and tracked within Burp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-19T15:50:48Z",
+            "owner": "jamesm0rr1s",
+            "repo": "BurpSuite-Add-and-Track-Custom-Issues",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Add & Track Custom Issues",
+          "description": "This extension allows custom scan issues to be added and tracked within Burp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-19T15:50:48Z",
+            "owner": "jamesm0rr1s",
+            "repo": "BurpSuite-Add-and-Track-Custom-Issues",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RepeaterClips",
+          "description": "The RepeaterClips extension lets you share requests with just two clicks and a paste.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-01-16T02:36:30Z",
+            "owner": "0xd0ug",
+            "repo": "burpExtensions-clipboardRepeater",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BatchRepeater",
+          "description": "BatchRepeater is a BurpSuite extension that enhances the functionality of the Repeater tool by allowing users to send multiple selected HTTP requests to the Repeater in a single action.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-08-26T19:59:44Z",
+            "owner": "Mathemag1cian",
+            "repo": "BatchRepeater",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pip3line",
+          "description": "Raw bytes manipulation utility, able to apply well known and less well known transformations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-07-12T14:15:43Z",
+            "owner": "PortSwigger",
+            "repo": "pip3line",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Response Grepper",
+          "description": "This Burp extension will auto-extract and display values from HTTP Response bodies based on a Regular Expression.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-04T09:50:17Z",
+            "owner": "b4dpxl",
+            "repo": "Burp-ResponseGrepper",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HAR Importer",
+          "description": "A HAR importer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-07-17T13:19:19Z",
+            "owner": "fortalice",
+            "repo": "HARImporter",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CookieMonster",
+          "description": "A Burp Suite plugin to easily manage cookies",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-03-25T13:54:48Z",
+            "owner": "baegmon",
+            "repo": "CookieMonster",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Decoder Pro",
+          "description": "Burp Suite Plugin to decode and clean up garbage response text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-07-24T17:40:01Z",
+            "owner": "Matanatr96",
+            "repo": "DecoderProBurpSuite",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conditional Match and Replace (CMAR)",
+          "description": "An extension allowing you to create match and replace operations that execute only when a condition is matched (or not matched). The condition can be matched against the request Header/Body/All, or the response Header/Body/All. If the condition is matched, you can apply a match and replace rule against the specified area. You can create a condition that matches a request, then performs a match and replace in the response.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-10-22T03:59:15Z",
+            "owner": "CyberCX-STA",
+            "repo": "cmar",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebAuthn CBOR Decoder",
+          "description": "WebAuthn CBOR is a Burp Extension to decode WebAuthn CBOR format. WebAuthn is a W3C Standard to support strong authentication of users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-07-05T06:52:48Z",
+            "owner": "srikanthramu",
+            "repo": "webauthn-cbor-burp",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Diff Last Response",
+          "description": "Diff last response will show the difference between the previous and current response.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-07-25T09:52:23Z",
+            "owner": "hackvertor",
+            "repo": "diffy",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Custom Features"
+    },
+    {
+      "description": "Extensions related to beautifying and decoding data formats.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cyber Security Transformation Chef",
+          "description": "The Cyber Security Transformation Chef (CSTC) is a Burp Suite extension. It is build for security experts to extend Burp Suite for chaining simple operations for each incomming or outgoing message.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T06:02:38Z",
+            "owner": "usdAG",
+            "repo": "cstc",
+            "stars": 265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BurpAMFDSer",
+          "description": "BurpAMFDSer is a Burp plugin that will deserialze/serialize AMF request and response to and from XML with the use of Xtream library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-11-18T10:49:25Z",
+            "owner": "NetSPI",
+            "repo": "Burp-Extensions",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Decoder Improved",
+          "description": "Improved decoder for Burp Suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-08-30T21:07:33Z",
+            "owner": "nccgroup",
+            "repo": "Decoder-Improved",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "burp-protobuf-decoder",
+          "description": "A simple Google Protobuf Decoder for Burp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-03-04T19:42:58Z",
+            "owner": "mwielgoszewski",
+            "repo": "burp-protobuf-decoder",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JS Beautifier",
+          "description": "Burp Suite JS Beautifier",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2014-05-20T18:35:50Z",
+            "owner": "irsdl",
+            "repo": "BurpSuiteJSBeautifier",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GQL Parser",
+          "description": "A repository for GraphQL Extension for Burp Suite",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-10-31T12:18:44Z",
+            "owner": "br3akp0int",
+            "repo": "GQLParser",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON Beautifier",
+          "description": "JSON Beautifier for Burp written in Java",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-11-20T17:55:53Z",
+            "owner": "NetSPI",
+            "repo": "JSONBeautifier",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON JTree viewer for Burp Suite",
+          "description": "JSON JTree viewer for Burp Suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-10-04T07:14:05Z",
+            "owner": "silentsignal",
+            "repo": "burp-json-jtree",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSONPath",
+          "description": "Burp Suite extension to view and extract data from JSON responses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-11-02T02:34:22Z",
+            "owner": "augustd",
+            "repo": "burp-suite-jsonpath",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "burp-suite-jsonpath",
+          "description": "Burp Suite extension to view and extract data from JSON responses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-11-02T02:34:22Z",
+            "owner": "augustd",
+            "repo": "burp-suite-jsonpath",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GraphQL Beautifier",
+          "description": "Burp Suite extension to help make Graphql request more readable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-12-07T00:21:10Z",
+            "owner": "zidekmat",
+            "repo": "graphql_beautifier",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GraphQL Raider",
+          "description": "GraphQL Raider is a Burp Suite Extension for testing endpoints implementing GraphQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-09-16T21:06:37Z",
+            "owner": "denniskniep",
+            "repo": "GQLRaider",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ViewState Editor",
+          "description": "This extension allows Burp users to view & edit the contents of ViewState.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-02-23T09:35:25Z",
+            "owner": "PortSwigger",
+            "repo": "viewstate-editor",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON/JS Beautifier",
+          "description": "This is a Burp Extension for beautifying JSON and JavaScript output to make the body parameters more human readable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-09-17T11:44:11Z",
+            "owner": "Manjesh24",
+            "repo": "JSON-JS-Beautifier",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deflate Burp Plugin",
+          "description": "The Deflate Burp Plugin is a plug-in for Burp Proxy (it implements the IBurpExtender interface) that decompresses HTTP response content in the ZLIB (RFC1950) and DEFLATE (RFC1951) compression formats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2011-07-19T13:43:02Z",
+            "owner": "GDSSecurity",
+            "repo": "Deflate-Burp-Plugin",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ".NET Beautifier",
+          "description": "A BurpSuite extension for beautifying .NET message parameters and hiding some of the extra clutter that comes with .NET web apps (i.e. __VIEWSTATE).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2015-06-29T23:22:14Z",
+            "owner": "allfro",
+            "repo": "dotNetBeautifier",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Browser Repeater",
+          "description": "BurpSuite extension for Repeater tool that renders responses in a real browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2014-04-01T15:05:44Z",
+            "owner": "allfro",
+            "repo": "browserRepeater",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Suite GWT wrapper",
+          "description": "Burp Suite GWT wrapper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2013-05-02T11:13:39Z",
+            "owner": "dnet",
+            "repo": "burp-gwt-wrapper",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp-Timestamp-Editor",
+          "description": "Provides a GUI to view and edit Unix timestamps in Burp message editors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-05-27T10:07:42Z",
+            "owner": "b4dpxl",
+            "repo": "Burp-Timestamp-Editor",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp ASN1 Toolbox",
+          "description": "ASN.1 toolbox for Burp Suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-12-06T10:33:45Z",
+            "owner": "silentsignal",
+            "repo": "burp-asn1",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Beautifier",
+          "description": "BurpBeautifier is a Burpsuite extension for beautifying request/response body, supporting JS, JSON, HTML, XML format, writing in Jython 2.7.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-15T14:54:22Z",
+            "owner": "Ovi3",
+            "repo": "BurpBeautifier",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Beautifiers and Decoders"
+    },
+    {
+      "description": "Plugins related to assessing Cloud Security services such as Amazon AWS.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cloud_enum",
+          "description": "Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud. Must be run from a *nix environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T03:20:37Z",
+            "owner": "initstring",
+            "repo": "cloud_enum",
+            "stars": 2131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS Extender",
+          "description": "AWS Extender (Cloud Storage Tester) is a Burp plugin to assess permissions of cloud storage containers on AWS, Google Cloud and Azure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-23T20:53:52Z",
+            "owner": "VirtueSecurity",
+            "repo": "aws-extender",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS Signer",
+          "description": "Burp Extension for AWS Signing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-01-10T19:07:35Z",
+            "owner": "NetSPI",
+            "repo": "AWSSigner",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp-AnonymousCloud",
+          "description": "Burp extension that performs a passive scan to identify cloud buckets and then test them for publicly accessible vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-01-11T21:25:31Z",
+            "owner": "codewatchorg",
+            "repo": "Burp-AnonymousCloud",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS Security Checks",
+          "description": "This extensions provides additional Scanner checks for AWS security issues.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-01-18T10:30:29Z",
+            "owner": "PortSwigger",
+            "repo": "aws-security-checks",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS Cognito",
+          "description": "This extension helps identify key information from requests to AWS Cognito, provides several passive scan checks, and suggests HTTP request templates for exploiting several known vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-11-29T15:37:46Z",
+            "owner": "ncoblentz",
+            "repo": "BurpMontoyaCognito",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS SigV4",
+          "description": "This is a Burp extension for signing AWS requests with SigV4.",
+          "children": []
+        }
+      ],
+      "title": "Cloud Security"
+    },
+    {
+      "description": "Extensions related to Scripting.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Burpkit",
+          "description": "BurpKit is a BurpSuite plugin which helps in assessing complex web apps that render the contents of their pages dynamically.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-01-27T04:36:45Z",
+            "owner": "allfro",
+            "repo": "BurpKit",
+            "stars": 459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Buddy",
+          "description": "burpbuddy exposes Burp Suites's extender API over the network through various mediums, with the goal of enabling development in any language without the restrictions of the JVM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-11-29T22:00:12Z",
+            "owner": "tomsteele",
+            "repo": "burpbuddy",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Requests",
+          "description": "Copy as requests plugin for Burp Suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-08-22T19:53:24Z",
+            "owner": "silentsignal",
+            "repo": "burp-requests",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burpy",
+          "description": "Portable and flexible web application security assessment tool.It parses Burp Suite log and performs various tests depending on the module provided and finally generate a HTML report.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-04-04T05:27:35Z",
+            "owner": "debasishm89",
+            "repo": "burpy",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Copy As Python-Requests",
+          "description": "This extension copies selected request(s) as Python-Requests invocations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-09-24T15:17:33Z",
+            "owner": "PortSwigger",
+            "repo": "copy-as-python-requests",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python Scripter",
+          "description": "This extension allows execution of a custom Python script on each HTTP request and response processed by Burp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-20T12:49:10Z",
+            "owner": "PortSwigger",
+            "repo": "python-scripter",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Buby",
+          "description": "A JRuby implementation of the BurpExtender interface for PortSwigger Burp Suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2015-05-01T17:01:40Z",
+            "owner": "tduehr",
+            "repo": "buby",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BcryptMontoya",
+          "description": "BcryptMontoya is a powerful plugin for Burp Suite that allows you to effortlessly modify HTTP requests and responses passing through the Burp Suite proxy using Jython code or gRPC, especially when dealing with encrypted requests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-24T00:34:54Z",
+            "owner": "cyal1",
+            "repo": "PyBurp",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burpee",
+          "description": "Python object interface to requests/responses recorded by Burp Suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-01-21T17:12:32Z",
+            "owner": "GDSSecurity",
+            "repo": "burpee",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JScriptor",
+          "description": "Pre-Script and Post-Script like Postman extension for Burpsuite",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-07T10:34:23Z",
+            "owner": "ngduyquockhanh",
+            "repo": "JScriptor",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BReWSki",
+          "description": "BReWSki (Burp Rhino Web Scanner) is a Java extension for Burp Suite that allows user to write custom scanner checks in JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2014-12-04T22:21:58Z",
+            "owner": "Burp-BReWSki",
+            "repo": "BReWSki",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Copy as JavaScript Request",
+          "description": "This Burp Extension copies the selected request to the clipboard as JavaScript Fetch API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-05-31T14:29:47Z",
+            "owner": "celsogbezerra",
+            "repo": "Copy-as-JavaScript-Request",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Jython Tab",
+          "description": "Description not available.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-02-11T23:36:48Z",
+            "owner": "mwielgoszewski",
+            "repo": "burp-jython-tab",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kollaborator Module Builder",
+          "description": "Burp suite extension to build and handle collaborator interaction.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-11-14T05:58:53Z",
+            "owner": "mbkunal",
+            "repo": "KollaboratorModuleBuilder",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Scripting"
+    },
+    {
+      "description": "Extensions for assessing Single sign-on (SSO) and OAuth related applications.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SAML Raider",
+          "description": "SAML Raider is a Burp Suite extension for testing SAML infrastructures. It contains two core functionalities: Manipulating SAML Messages and manage X.509 certificates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-24T06:00:40Z",
+            "owner": "CompassSecurity",
+            "repo": "SAMLRaider",
+            "stars": 447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OAUTHScan",
+          "description": "OAUTHScan is a Burp Suite Extension written in Java with the aim to provide some automatic security checks, which could be useful during penetration testing on applications implementing OAUTHv2 and OpenID standards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-10-26T15:28:32Z",
+            "owner": "akabe1",
+            "repo": "OAUTHScan",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SignSaboteur",
+          "description": "SignSaboteur is a Burp Suite extension for editing, signing, verifying various signed web tokens",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-11-29T15:45:38Z",
+            "owner": "d0ge",
+            "repo": "sign-saboteur",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dupe Key Injector",
+          "description": "Dupe Key Injetctor is a Burp Suite extension implementing Dupe Key Confusion, a new XML signature bypass technique presented at BSides/BlackHat/DEFCON 2019 \"SSO Wars: The Token Menace\" presentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-04-16T04:24:25Z",
+            "owner": "pwntester",
+            "repo": "DupeKeyInjector",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EsPReSSO",
+          "description": "An extension for BurpSuite that highlights SSO messages in Burp's proxy window..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-04-26T17:37:43Z",
+            "owner": "RUB-NDS",
+            "repo": "BurpSSOExtension",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JWT Re-auth",
+          "description": "Burp plugin to cache authentication tokens from an \"auth\" URL, and then add them as headers on all requests going to a certain scope.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-01-03T03:59:37Z",
+            "owner": "nccgroup",
+            "repo": "jwt-reauth",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp OAuth",
+          "description": "OAuth plugin for Burp Suite Extender.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-06-27T11:07:53Z",
+            "owner": "dnet",
+            "repo": "burp-oauth",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SAMLReQuest",
+          "description": "Enables you to view, decode, and modify SAML requests and responses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-06-16T20:12:28Z",
+            "owner": "ernw",
+            "repo": "burpsuite-extensions",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JWT Editor",
+          "description": "A Burp Suite extension for creating and editing JSON Web Tokens.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T17:44:12Z",
+            "owner": "DolphFlynn",
+            "repo": "jwt-editor",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AuthHeader Updater",
+          "description": "Burp extension to specify the token value for the Authenication header while scanning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-09-18T02:29:36Z",
+            "owner": "sampsonc",
+            "repo": "AuthHeaderUpdater",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OAuthv1 - Signing",
+          "description": "The purpose of this extension is to provide an additional authentication method that is not natively supported by Burp Suite. Currently, this tool only supports OAuth v1.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-11T03:57:10Z",
+            "owner": "Sean-McRae",
+            "repo": "OAuthv1---Signing-Burp-Extension-",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "OAuth and SSO"
+    },
+    {
+      "description": "Extensions related to Discovery, Spidering and Information Gathering.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "domain_hunter",
+          "description": "A Burp Suite extender that try to find sub-domains,similar domains and related domains of an organization, not only domain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-07-16T02:34:50Z",
+            "owner": "bit4woo",
+            "repo": "domain_hunter",
+            "stars": 673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Asset Discover",
+          "description": "Burp Suite extension to discover assets from HTTP response using passive scanning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-22T10:48:26Z",
+            "owner": "redhuntlabs",
+            "repo": "BurpSuite-Asset_Discover",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PwnBack/Wayback Machine",
+          "description": "Burp Extender plugin that generates a sitemap of a website using Wayback Machine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-05-08T16:52:22Z",
+            "owner": "P3GLEG",
+            "repo": "PwnBack",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dr. Watson",
+          "description": "Dr. Watson is a simple Burp Suite extension that helps find assets, keys, subdomains, IP addresses, and other useful information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-31T05:51:59Z",
+            "owner": "prodigysml",
+            "repo": "Dr.-Watson",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AdminPanelFinder",
+          "description": "A burp suite extension that enumerates infrastructure and application Admin Interfaces (OWASP OTG-CONFIG-005).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-06-16T13:02:49Z",
+            "owner": "moeinfatehi",
+            "repo": "Admin-Panel_Finder",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Subdomain Extractor",
+          "description": "A very simple, straightforward extension to export sub domains from Burp using a context menu option.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-29T15:02:46Z",
+            "owner": "Regala",
+            "repo": "burp-subdomains",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DirectoryImporter",
+          "description": "This is a Burpsuite plugin built to enable you to import your directory bruteforcing results into burp for easy viewing later.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-03-01T21:21:06Z",
+            "owner": "Static-Flow",
+            "repo": "DirectoryImporter",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp CSJ",
+          "description": "This extension integrates Crawljax, Selenium and JUnit together. The intent of this extension is to aid web application security testing, increase web application crawling capability and speed-up complex test-cases execution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2014-12-22T17:40:44Z",
+            "owner": "malerisch",
+            "repo": "burp-csj",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BigIP Discover",
+          "description": "A extension of Burp suite. The cookie set by the BipIP server may include a private IP, which is an extension to detect that IP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-10T10:01:06Z",
+            "owner": "raise-isayan",
+            "repo": "BigIPDiscover",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Filter OPTIONS Method",
+          "description": "A Burp extension that filters out OPTIONS requests from populating Burp's Proxy history.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-01T08:53:11Z",
+            "owner": "capt-meelo",
+            "repo": "filter-options-method",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Directory File Listing Parser Importer",
+          "description": "This is a Burp Suite extension in Python to parse a directory and file listing text file of a web application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2013-07-15T21:50:47Z",
+            "owner": "SmeegeSec",
+            "repo": "Directory_File_Listing_Parser_Importer",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SAN Scanner",
+          "description": "SAN Scanner is a Burp Suite extension for enumerating associated domains & services via the Subject Alt Names section of SSL certificates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-10-01T04:40:37Z",
+            "owner": "seisvelas",
+            "repo": "SAN-Scanner",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Add to sitemap++",
+          "description": "Add to sitemap++ is a BURP extension that can read URLs from files or clipboard and add the discovered information on the site map of the selected host(s).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-27T16:57:11Z",
+            "owner": "quahac",
+            "repo": "burp-add-to-sitemap-plusplus",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Look Over There",
+          "description": "This is a Burp Suite extension to help Burp know where to look during scanning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-26T15:45:34Z",
+            "owner": "yg-ht",
+            "repo": "Burp-LookOverThere",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Information Gathering"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Vulnerability Specific Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Reflector",
+          "description": "Burp plugin able to find reflected XSS on page in real-time while browsing on site",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-02-02T15:54:40Z",
+            "owner": "elkokc",
+            "repo": "reflector",
+            "stars": 1212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XSS Validator",
+          "description": "This is a burp intruder extender that is designed for automation and validation of XSS vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2022-02-24T20:00:28Z",
+            "owner": "NetSPI",
+            "repo": "xssValidator",
+            "stars": 421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "feminda",
+          "description": "An automated blind-xss search plugin for Burp Suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-10T15:02:41Z",
+            "owner": "wish-i-was",
+            "repo": "femida",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsonp",
+          "description": "jsonp is a Burp Extension which attempts to reveal JSONP functionality behind JSON endpoints. This could help reveal cross-site script inclusion vulnerabilities or aid in bypassing content security policies.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-02-15T10:34:00Z",
+            "owner": "kapytein",
+            "repo": "jsonp",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Hunter",
+          "description": "XSS Hunter Burp Plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-08-31T19:33:01Z",
+            "owner": "mystech7",
+            "repo": "Burp-Hunter",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BitBlinder",
+          "description": "Burp extension helps in finding blind xss vulnerabilities",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-12T16:05:41Z",
+            "owner": "BitTheByte",
+            "repo": "BitBlinder",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "burp-xss-sql-plugin",
+          "description": "Publishing plugin which I used for years which helped me to find several bugbounty-worthy XSSes, OpenRedirects and SQLi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-09-28T21:46:18Z",
+            "owner": "attackercan",
+            "repo": "burp-xss-sql-plugin",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JavaScript Security",
+          "description": "A Burp Suite extension which performs checks for cross-domain scripting against the DOM, subresource integrity checks, and evaluates JavaScript resources against threat intelligence data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-03-23T03:16:59Z",
+            "owner": "phefley",
+            "repo": "burp-javascript-security-extension",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reflected Parameters",
+          "description": "This extension monitors traffic and looks for request parameter values (longer than 3 characters) that are reflected in the response.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-03-03T08:46:16Z",
+            "owner": "PortSwigger",
+            "repo": "reflected-parameters",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XSS Cheatsheet",
+          "description": "An extension to incorporate PortSwigger's Cross-site scripting cheat sheet in to Burp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-09-29T10:45:24Z",
+            "owner": "0kman",
+            "repo": "XSS-Cheatsheet",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Cross-site scripting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Autorize",
+          "description": "Automatic authorization enforcement detection extension for burp suite written in Jython developed by Barak Tawily in order to ease application security people work and allow them perform an automatic authorization tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-21T06:00:34Z",
+            "owner": "Quitten",
+            "repo": "Autorize",
+            "stars": 1168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoRepeater",
+          "description": "Automated HTTP Request Repeating With Burp Suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-12-15T10:37:26Z",
+            "owner": "nccgroup",
+            "repo": "AutoRepeater",
+            "stars": 895
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AuthMatrix",
+          "description": "AuthMatrix is a Burp Suite extension that provides a simple way to test authorization in web applications and web services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-07T14:57:34Z",
+            "owner": "SecurityInnovation",
+            "repo": "AuthMatrix",
+            "stars": 646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auth Analyzer",
+          "description": "This Burp Extension helps you to find authorization bugs by repeating Proxy requests with self defined headers and tokens.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-11-04T15:44:03Z",
+            "owner": "simioni87",
+            "repo": "auth_analyzer",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paramalyzer",
+          "description": "Paramalyzer - Burp extension for parameter analysis of large-scale web application penetration tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-07-10T15:17:18Z",
+            "owner": "JGillam",
+            "repo": "burp-paramalyzer",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AdminPanelFinder",
+          "description": "A burp suite extension that enumerates infrastructure and application Admin Interfaces (OWASP OTG-CONFIG-005)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-06-16T13:02:49Z",
+            "owner": "moeinfatehi",
+            "repo": "Admin-Panel_Finder",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burplay/Multi Session Replay",
+          "description": "Burplay is a Burp Extension allowing for replaying any number of requests using same modifications definition. Its main purpose is to aid in searching for Privilege Escalation issues.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-09-19T07:31:43Z",
+            "owner": "SpiderLabs",
+            "repo": "burplay",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Authz",
+          "description": "Burp plugin to test for authorization flaws.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2013-07-22T21:00:45Z",
+            "owner": "wuntee",
+            "repo": "BurpAuthzPlugin",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UUID issues for Burp Suite",
+          "description": "UUID issues for Burp Suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-06-02T06:50:27Z",
+            "owner": "silentsignal",
+            "repo": "burp-uuid",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp SessionAuth",
+          "description": "Burp plugin which supports in finding privilege escalation vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-04-22T17:14:00Z",
+            "owner": "thomaspatzke",
+            "repo": "Burp-SessionAuthTool",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IncrementMe Please",
+          "description": "Burp extension to increment a parameter in each active scan request.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-06T00:30:03Z",
+            "owner": "alexlauerman",
+            "repo": "IncrementMePlease",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Broken Access Control"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Additional CSRF Checks/EasyCSRF",
+          "description": "EasyCSRF helps to find weak CSRF-protection in WebApp which can be easily bypassed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-12-07T10:10:11Z",
+            "owner": "0ang3el",
+            "repo": "EasyCSRF",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "burp-multistep-csrf-poc",
+          "description": "Burp extension to generate multi-step CSRF POC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-09-23T00:34:04Z",
+            "owner": "wrvenkat",
+            "repo": "burp-multistep-csrf-poc",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSRF Scanner",
+          "description": "CSRF Scanner Extension for Burp Suite Pro.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-06-05T19:35:48Z",
+            "owner": "ah8r",
+            "repo": "csrf",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSurfer",
+          "description": "CSurfer is a CSRF guard hiding extension that keeps track of the latest guard value per session and update new requests accordingly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2015-10-07T14:08:59Z",
+            "owner": "asaafan",
+            "repo": "CSurfer",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Token Rewrite",
+          "description": "This extension lets you search for specific values like CSRF tokens in responses and use their values to modify parameters in future requests or set a cookie.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-02-27T14:16:02Z",
+            "owner": "hvqzao",
+            "repo": "burp-token-rewrite",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "burp-samesite-reporter",
+          "description": "Burp extension that passively reports various SameSite flags.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-06-01T17:16:12Z",
+            "owner": "ldionmarcil",
+            "repo": "burp-samesite-reporter",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anti-CSRF Token From Referer",
+          "description": "The extension works by registering a new session handling rule called \"Anti-CSRF token from referer\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-23T12:27:21Z",
+            "owner": "CompassSecurity",
+            "repo": "anti-csrf-token-from-referer",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Cross-Site Request Forgery"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Java-Deserialization-Scanner",
+          "description": "All-in-one plugin for Burp Suite for the detection and the exploitation of Java deserialization vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-11-07T18:30:53Z",
+            "owner": "federicodotta",
+            "repo": "Java-Deserialization-Scanner",
+            "stars": 802
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GadgetProbe",
+          "description": "This extension augments Intruder to probe endpoints consuming Java serialized objects to identify classes, libraries, and library versions on remote Java classpaths.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-03-04T21:32:45Z",
+            "owner": "BishopFox",
+            "repo": "GadgetProbe",
+            "stars": 620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fastjson-check",
+          "description": "fastjson payload creator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-11-19T04:46:45Z",
+            "owner": "bigsizeme",
+            "repo": "fastjson-check",
+            "stars": 368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Java Serial Killer",
+          "description": "Burp extension to perform Java Deserialization Attacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-02-02T20:35:42Z",
+            "owner": "NetSPI",
+            "repo": "JavaSerialKiller",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BurpJDSer",
+          "description": "BurpJDSer is a Burp plugin that will deserialze/serialize Java request and response to and from XML with the use of Xtream library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-11-18T10:49:25Z",
+            "owner": "NetSPI",
+            "repo": "Burp-Extensions",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP Object Injection Slinger",
+          "description": "Designed to help you find PHP Object Injection vulnerabilities on popular PHP Frameworks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-07-07T18:36:08Z",
+            "owner": "ricardojba",
+            "repo": "poi-slinger",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BurpJDSer-ng",
+          "description": "Allows you to deserialize java objects to XML and lets you dynamically load classes/jars as needed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2014-06-12T14:09:11Z",
+            "owner": "IOActive",
+            "repo": "BurpJDSer-ng",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Deserialization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GAP-Burp-Extension",
+          "description": "This is an evolution of the original getAllParams extension for Burp. Not only does it find more potential parameters for you to investigate, but it also finds potential links to try these parameters on.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-08T19:23:17Z",
+            "owner": "xnl-h4ck3r",
+            "repo": "GAP-Burp-Extension",
+            "stars": 1528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JS Link Finder",
+          "description": "Burp Extension for a passively scanning JavaScript files for endpoint links. - Export results the text file - Exclude specific 'js' files e.g. jquery, google-analytics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-22T18:00:59Z",
+            "owner": "InitRoot",
+            "repo": "BurpJSLinkFinder",
+            "stars": 820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Smart Buster",
+          "description": "A Burp Suite content discovery plugin that add the smart into the Buster!.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-12T16:00:14Z",
+            "owner": "pathetiq",
+            "repo": "BurpSmartBuster",
+            "stars": 378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xkeys",
+          "description": "A Burp Suite Extension to extract interesting strings (key, secret, token, or etc.) from a webpage. and lists them as information issues.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-09T23:32:40Z",
+            "owner": "vsec7",
+            "repo": "BurpSuite-Xkeys",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Interesting Files Scanner",
+          "description": "Interesting Files Scanner extends Burp Suite's active scanner, with scans for interesting files and directories. A main feature of the extension is the check for false positives with tested patterns for each case.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-06-18T08:57:44Z",
+            "owner": "modzero",
+            "repo": "interestingFileScanner",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp JS Miner",
+          "description": "This tool tries to find interesting stuff inside static files; mainly JavaScript and JSON files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-05-30T21:08:16Z",
+            "owner": "minamo7sen",
+            "repo": "burp-JS-Miner",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BeanStack - Stack-trace Fingerprinter",
+          "description": "Java Fingerprinting using Stack Traces. Note that this extension sends potentially private stack-traces to a third party for processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-12-03T10:30:41Z",
+            "owner": "x41sec",
+            "repo": "BeanStack",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CYS4-SensitiveDiscoverer",
+          "description": "CYS4-SensitiveDiscoverer is a Burp Suite tool used to extract Regular Expression or File Extension form HTTP response automatically or at the end of all tests or during the test.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-26T21:53:27Z",
+            "owner": "CYS4srl",
+            "repo": "SensitiveDiscoverer",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sensitive Discoverer",
+          "description": "Sensitive Discoverer, a Burp extension to discovers sensitive information inside HTTP messages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-26T21:53:27Z",
+            "owner": "CYS4srl",
+            "repo": "SensitiveDiscoverer",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HTTP Methods Discloser",
+          "description": "This extension makes a OPTIONS request and determines if other HTTP methods than the original request are available.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-04-30T19:37:46Z",
+            "owner": "xxux11",
+            "repo": "http-methods-discloser",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Directory Importer",
+          "description": "This is a Burpsuite plugin for importing directory bruteforcing results into Burp for futher analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-03-01T21:21:06Z",
+            "owner": "Static-Flow",
+            "repo": "DirectoryImporter",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Hash",
+          "description": "Many applications will hash parameters such as ID numbers and email addresses for use in secure tokens, like session cookies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2015-08-05T22:40:40Z",
+            "owner": "burp-hash",
+            "repo": "burp-hash",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Levo Burp Extension",
+          "description": "Build OpenApi specs from Burp's traffic using Levo.ai. Also detect and classify the PII, and annotate specs with the PII details.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T02:04:55Z",
+            "owner": "levoai",
+            "repo": "levoai-burp-extension",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpyDir",
+          "description": "BurpSuite extension to assist with Automated Forced Browsing/Endpoint Enumeration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-04-11T16:29:09Z",
+            "owner": "aur3lius-dev",
+            "repo": "SpyDir",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Headers Burp Extension",
+          "description": "It removes the hassle of reporting missing security headers in your pentest reports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-07T06:57:52Z",
+            "owner": "antlarac",
+            "repo": "Headers",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PDF Metadata",
+          "description": "The PDF Metadata Burp Extension provides an additional passive Scanner check for metadata in PDF files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-01-10T13:18:08Z",
+            "owner": "luh2",
+            "repo": "PDFMetadata",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Secret Finder",
+          "description": "A Burp Suite extension to help pentesters to discover a apikeys,accesstokens and more sensitive data using a regular expressions.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Secret Finder (beta v0.1)",
+          "description": "A Burp Suite extension to help pentesters to discover a apikeys,accesstokens and more sensitive data using a regular expressions.",
+          "children": []
+        }
+      ],
+      "title": "Sensitive Data Exposure"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SQLiPy",
+          "description": "SQLiPy is a Python plugin for Burp Suite that integrates SQLMap using the SQLMap API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-16T20:08:44Z",
+            "owner": "codewatchorg",
+            "repo": "sqlipy",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLi Query Tampering",
+          "description": "SQLi Query Tampering extends and adds custom Payload Generator/Processor in Burp Suite's Intruder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-21T15:36:19Z",
+            "owner": "xer0times",
+            "repo": "SQLi-Query-Tampering",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CO2",
+          "description": "A collection of enhancements for Portswigger's popular Burp Suite web penetration testing tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-02-21T02:23:00Z",
+            "owner": "JGillam",
+            "repo": "burp-co2",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InjectMate",
+          "description": "Burp Extension that generates payloads for XSS, SQLi, and Header injection vulns",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-08T00:49:45Z",
+            "owner": "laconicwolf",
+            "repo": "burp-extensions",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "burp-xss-sql-plugin",
+          "description": "ublishing plugin which I used for years which helped me to find several bugbounty-worthy XSSes, OpenRedirects and SQLi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-09-28T21:46:18Z",
+            "owner": "attackercan",
+            "repo": "burp-xss-sql-plugin",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp NoSQLi Scanner",
+          "description": "NoSQL Injection scans for Burp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-09-07T15:25:52Z",
+            "owner": "matrix",
+            "repo": "Burp-NoSQLiScanner",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLMap DNS Collaborator",
+          "description": "SqlmapDnsCollaborator is a Burp Extension that lets you perform DNS exfiltration with Sqlmap with zero configuration needed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-10-07T07:46:49Z",
+            "owner": "lucacapacci",
+            "repo": "SqlmapDnsCollaborator",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burptime",
+          "description": "Show time cost in burp proxy history, it's useful when testing time-based sql injection..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-06-21T10:25:10Z",
+            "owner": "virusdefender",
+            "repo": "burptime",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "SQL/NoSQL Injection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Content Type Converter",
+          "description": "Burp extension to convert XML to JSON, JSON to XML, x-www-form-urlencoded to XML, and x-www-form-urlencoded to JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-11-18T10:49:25Z",
+            "owner": "NetSPI",
+            "repo": "Burp-Extensions",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Office OpenXML Editor",
+          "description": "Burp extension that add a tab to edit Office Open XML document (xlsx,docx,pptx).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-01-05T11:11:25Z",
+            "owner": "PortSwigger",
+            "repo": "office-open-xml-editor",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "XXE"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Upload Scanner",
+          "description": "A Burp Suite Pro extension to do security tests for HTTP file uploads.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Perl",
+            "last_commit": "2023-12-25T23:25:05Z",
+            "owner": "modzero",
+            "repo": "mod0BurpUploadScanner",
+            "stars": 494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZIP File Raider",
+          "description": "Burp Extension for ZIP File Payload Testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-31T10:58:59Z",
+            "owner": "destine21",
+            "repo": "ZIPFileRaider",
+            "stars": 71
+          }
+        }
+      ],
+      "title": "Insecure File Uploads"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "off-by-slash",
+          "description": "Burp extension to detect alias traversal via NGINX misconfiguration at scale.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-18T15:08:36Z",
+            "owner": "bayotop",
+            "repo": "off-by-slash",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uploader",
+          "description": "Burp extension to test for directory traversal attacks in insecure file uploads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-08-02T06:56:28Z",
+            "owner": "thec00n",
+            "repo": "Uploader",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Directory Traversal"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Authentication Token Obtain and Replace (ATOR)",
+          "description": "The plugin is created to help automated scanning using Burp in certain session management scenarios.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-04-24T11:56:38Z",
+            "owner": "synopsys-sig",
+            "repo": "ATOR-Burp",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BearerAuthToken",
+          "description": "This burpsuite extender provides a solution on testing Enterprise applications that involve security Authorization tokens into every HTTP requests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-02-27T16:38:44Z",
+            "owner": "twelvesec",
+            "repo": "BearerAuthToken",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cookie Decrypter",
+          "description": "A Burp Suite Professional extension for decrypting/decoding various types of cookies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-12T18:02:59Z",
+            "owner": "SolomonSklash",
+            "repo": "cookie-decrypter",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AuthHeader Updater",
+          "description": "Burp extension to specify the token value for the Authenication header while scanning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-09-18T02:29:36Z",
+            "owner": "sampsonc",
+            "repo": "AuthHeaderUpdater",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Add Request to Macro",
+          "description": "This Burp extension lets you add a request to an existing macro.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-07-12T15:04:12Z",
+            "owner": "pajswigger",
+            "repo": "add-request-to-macro",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Session-Handler-Plus",
+          "description": "The Session Handler Plus (SH+) Burp Suite extension offers enhanced session handling capabilities for JWTs, access tokens, refresh tokens, and CSRF tokens. Additionally, it allows for custom scripts to be launched through session handling actions, and facilitates the triggering of Selenium automation to execute complex or JavaScript based login procedures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-22T17:54:41Z",
+            "owner": "V9Y1nf0S3C",
+            "repo": "Session-Handler-Plus",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Wicket Handler",
+          "description": "Used as part of Burps Session Handling, Record a Macro which just gets the page you want to submit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2013-07-12T10:17:19Z",
+            "owner": "Meatballs1",
+            "repo": "burp_wicket_handler",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Session Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Argument Injection Hammer",
+          "description": "it is used to identify argument injection vulnerabilities, like curl awk etc, and sth just like these",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-16T16:45:33Z",
+            "owner": "nccgroup",
+            "repo": "argumentinjectionhammer",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Command Injection Attacker",
+          "description": "a comprehensive OS command injection payload generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-06-18T13:08:14Z",
+            "owner": "PortSwigger",
+            "repo": "command-injection-attacker",
+            "stars": 112
+          }
+        }
+      ],
+      "title": "Command Injection"
+    },
+    {
+      "description": "The following extensions can aid during WAF evasion.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Chunked coding converter",
+          "description": "This entension use a Transfer-Encoding technology to bypass the waf.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-02-23T01:54:14Z",
+            "owner": "c0ny1",
+            "repo": "chunked-coding-converter",
+            "stars": 2030
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome TLS",
+          "description": "This extension overrides Burp Suite's default HTTP and TLS stack to make it immune to WAF fingerprinting methods such as JA3, HTTP2 frames, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-06T17:57:32Z",
+            "owner": "sleeyax",
+            "repo": "burp-awesome-tls",
+            "stars": 1887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Suite HTTP Smuggler",
+          "description": "A Burp Suite extension to help pentesters to bypass WAFs or test their effectiveness using a number of techniques.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-05-04T06:15:42Z",
+            "owner": "nccgroup",
+            "repo": "BurpSuiteHTTPSmuggler",
+            "stars": 745
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BurpSuiteHTTPSmuggler",
+          "description": "A Burp Suite extension to help pentesters to bypass WAFs or test their effectiveness using a number of techniques.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-05-04T06:15:42Z",
+            "owner": "nccgroup",
+            "repo": "BurpSuiteHTTPSmuggler",
+            "stars": 745
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bypass WAF",
+          "description": "Add headers to all Burp requests to bypass some WAF products.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-01-28T13:13:39Z",
+            "owner": "codewatchorg",
+            "repo": "bypasswaf",
+            "stars": 328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "403Bypasser",
+          "description": "A Burp Suite extension made to automate the process of bypassing 403 pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-27T10:23:30Z",
+            "owner": "Gilzy",
+            "repo": "403Bypasser",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WAF Bypadd",
+          "description": "This Burp Suite extension is designed to bypass Web Application Firewalls (WAFs) by padding HTTP requests with dummy data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-23T17:41:09Z",
+            "owner": "julianjm",
+            "repo": "waf_bypadd",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Random IP Address Header",
+          "description": "This extension automatically generates IPV6 and IPV4 fake source address headers to evade WAF filtering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-02-13T12:39:38Z",
+            "owner": "PortSwigger",
+            "repo": "random-ip-address-header",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON Escaper",
+          "description": "The JSON Escaper Burp Suite plugin simplifies the process of escaping JSON payloads for pentesters, as there is no built-in option for this in Burp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-20T16:44:20Z",
+            "owner": "akashc99",
+            "repo": "JSON-Escaper-Burp-Suite-Python-plugin",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Web Application Firewall Evasion"
+    },
+    {
+      "description": "Extensions related to logging HTTP traffic during assessments and storing Burp traffic.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Logger++",
+          "description": "Burp Suite Logger++: Log activities of all the tools in Burp Suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-05-31T05:48:24Z",
+            "owner": "nccgroup",
+            "repo": "LoggerPlusPlus",
+            "stars": 712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Scope Monitor Extension",
+          "description": "A Burp Suite Extension to monitor and keep track of tested endpoints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-31T06:22:47Z",
+            "owner": "Regala",
+            "repo": "burp-scope-monitor",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pentest Mapper",
+          "description": "A Burp Suite Extension for Application Penetration Testing to map flows and vulnerabilities and write test cases for each flow, API and http request.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-02T12:40:02Z",
+            "owner": "Anof-cyber",
+            "repo": "Pentest-Mapper",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Replicator",
+          "description": "Burp extension to help developers replicate findings from pen tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-07-22T15:07:55Z",
+            "owner": "PortSwigger",
+            "repo": "replicator",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bookmarks",
+          "description": "A Burp Suite extension to bookmark requests for later, instead of those 100 unnamed repeater tabs you've got open.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-06-19T11:50:35Z",
+            "owner": "TypeError",
+            "repo": "Bookmarks",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Notes",
+          "description": "Burp Notes Extension is a plugin for Burp Suite that adds a Notes tab. The tool aims to better organize external files that are created during penetration testing..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-05-16T22:53:45Z",
+            "owner": "SpiderLabs",
+            "repo": "BurpNotesExtension",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Log Requests to SQLite",
+          "description": "BURP extension to record every HTTP request send via BURP and create an audit trail log of an assessment.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2025-05-02T13:28:53Z",
+            "owner": "righettod",
+            "repo": "log-requests-to-sqlite",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Progress Tracker",
+          "description": "Burp Suite extension to track vulnerability assessment progress.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-07T16:20:55Z",
+            "owner": "dariusztytko",
+            "repo": "progress-burp",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Suite Importer",
+          "description": "Connect to multiple web servers while populating the sitemap.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-15T16:09:29Z",
+            "owner": "SmeegeSec",
+            "repo": "Burp-Importer",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sink Logger",
+          "description": "Sink Logger is a Burp Suite Extension that allows to transparently monitor various JavaScript sinks.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-07-20T14:21:13Z",
+            "owner": "bayotop",
+            "repo": "sink-logger",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Savetofile",
+          "description": "BurpSuite plugin to save just the body of a request or response to a file",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-10-02T13:56:00Z",
+            "owner": "jeromekleinen",
+            "repo": "burp_savetofile",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scope Monitor",
+          "description": "A Burp Suite Extension to monitor and keep track of tested endpoints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-03-31T06:27:48Z",
+            "owner": "PortSwigger",
+            "repo": "scope-monitor",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Response Clusterer",
+          "description": "Burp plugin that clusters responses to show an overview of received responses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-07T06:11:37Z",
+            "owner": "modzero",
+            "repo": "burp-ResponseClusterer",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Log Viewer",
+          "description": "Lets you view log files generated by Burp in a graphical enviroment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-11-15T07:46:24Z",
+            "owner": "ax",
+            "repo": "burp-logs",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rapid",
+          "description": "A fairly simple Burp Suite extension that enables you to save HTTP Requests and Responses to files a lot faster and in one go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-04-18T19:29:43Z",
+            "owner": "iamaldi",
+            "repo": "rapid",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Git Version",
+          "description": "Description not available.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-09-29T11:31:31Z",
+            "owner": "silentsignal",
+            "repo": "burp-git-version",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Commentator",
+          "description": "Generates comments for selected request(s) based on regular expressions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-06-28T12:27:04Z",
+            "owner": "silentsignal",
+            "repo": "burp-commentator",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Collect500",
+          "description": "Burp plugin that collects all HTTP 500 messages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-01-17T15:33:16Z",
+            "owner": "floyd-fuh",
+            "repo": "burp-Collect500",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp SQLite logger",
+          "description": "SQLite logger for Burp Suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-08-30T08:18:57Z",
+            "owner": "silentsignal",
+            "repo": "burp-sqlite-logger",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Dump",
+          "description": "A Burp plugin to dump HTTP(S) requests/responses to a file system.",
+          "children": []
+        }
+      ],
+      "title": "Logging and Notes"
+    },
+    {
+      "description": "Wordlist/payload generators and fuzzers.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Turbo Intruder",
+          "description": "Turbo Intruder is a Burp Suite extension for sending large numbers of HTTP requests and analyzing the results.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-06T19:41:58Z",
+            "owner": "PortSwigger",
+            "repo": "turbo-intruder",
+            "stars": 1795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HackBar",
+          "description": "HackBar plugin for Burpsuite v1.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-04-15T11:26:55Z",
+            "owner": "d3vilbug",
+            "repo": "HackBar",
+            "stars": 1633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GAP (Get All Parameters, Links, and Words)",
+          "description": "This extension helps find potential endpoints, parameters, and generate a custom target wordlist.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-08T19:23:17Z",
+            "owner": "xnl-h4ck3r",
+            "repo": "GAP-Burp-Extension",
+            "stars": 1528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HopLa",
+          "description": "This extension adds autocompletion support and useful payloads in Burp Suite to make your intrusion easier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-01T19:51:55Z",
+            "owner": "synacktiv",
+            "repo": "HopLa",
+            "stars": 836
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reCAPTCHA",
+          "description": "A burp plugin that automatically recognizes the graphics verification code and is used for Payload in Intruder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-11-23T07:25:15Z",
+            "owner": "bit4woo",
+            "repo": "reCAPTCHA",
+            "stars": 808
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agartha - LFI, RCE, SQLi, Authentication, Authorization and Copy as JavaScript",
+          "description": "Agartha is a penetration testing tool which creates dynamic payload lists and user access matrix to reveal injection flaws and authentication/authorization issues.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-28T09:08:34Z",
+            "owner": "volkandindar",
+            "repo": "agartha",
+            "stars": 401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gather Contacts",
+          "description": "A Burp Suite Extension to pull Employee Names from Google and Bing LinkedIn Search Results.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-07-06T09:18:54Z",
+            "owner": "clr2of8",
+            "repo": "GatherContacts",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stepper",
+          "description": "Stepper is designed to be a natural evolution of Burp Suite's Repeater tool, providing the ability to create sequences of steps and define regular expressions to extract values from responses which can then be used in subsequent steps.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2026-04-15T15:16:03Z",
+            "owner": "C0DEbrained",
+            "repo": "Stepper",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CO2",
+          "description": "A collection of enhancements for Portswigger's popular Burp Suite web penetration testing tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-02-21T02:23:00Z",
+            "owner": "JGillam",
+            "repo": "burp-co2",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ParaForge",
+          "description": "ParaForge is a simple Burp Suite extension to extract the paramters and endpoints from the request to create custom wordlist for fuzzing and enumeration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-27T16:56:14Z",
+            "owner": "Anof-cyber",
+            "repo": "ParaForge",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bradamsa",
+          "description": "Burp Suite extension to generate Intruder payloads using Radamsa.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-09-07T13:30:43Z",
+            "owner": "ikkisoft",
+            "repo": "bradamsa",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Virtual Host Payload Generator",
+          "description": "Burp extension providing a set of values for the HTTP request Host header for the Burp Intruder in order to abuse virtual host resolution.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2017-10-08T07:11:00Z",
+            "owner": "righettod",
+            "repo": "virtualhost-payload-generator",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazer",
+          "description": "Burp Suite AMF Extension.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-09-24T19:20:13Z",
+            "owner": "ikkisoft",
+            "repo": "blazer",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "burpContextAwareFuzzer",
+          "description": "BurpSuite's payload-generation extension aiming at applying fuzzed test-cases depending on the type of payload (integer, string, path; JSON; XML; GWT; binary) and following encoding-scheme applied originally.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-03-15T01:49:59Z",
+            "owner": "mgeeky",
+            "repo": "burpContextAwareFuzzer",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hashcat Maskprocessor Intruder Payloads",
+          "description": "Burp Hashcat Maskprocessor Extension, inspired by hashcat maskprocessor https://github.com/hashcat/maskprocessor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-05T18:39:24Z",
+            "owner": "quahac",
+            "repo": "burp-intruder-hashcat-maskprocessor",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Luhn Payload Processor",
+          "description": "A plugin for Burp Suite Pro to work with attacker payloads and automatically generate check digits for credit card numbers and similar numbers that end with a check digit generated using the Luhn algorithm or formula (also known as the \"modulus 10\" or \"mod 10\" algorithm)..",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2015-06-03T16:15:49Z",
+            "owner": "EnableSecurity",
+            "repo": "burp-luhn-payload-processor",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LogicalFuzzingEngine",
+          "description": "A Burpsuite extension written in Python to perform basic validation fuzzing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-07T22:52:26Z",
+            "owner": "wdahlenburg",
+            "repo": "LogicalFuzzingEngine",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "URL Fuzzer 401/403 Bypass",
+          "description": "A Burp extension to Fuzz URLs for HTTP parser inconsistencies",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-10-20T22:54:06Z",
+            "owner": "akenofu",
+            "repo": "URL_Fuzzer_401_403_Bypass",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Username Generator",
+          "description": "This is a Python extension that will parse email addresses out of selected URLs from the target tab and display them in the output window of the Extensions tab.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-09-24T17:25:30Z",
+            "owner": "jstrosch",
+            "repo": "Username_Generator",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fuzzy Encoding Generator",
+          "description": "This extension allows a user to quickly test various encoding for a given value in Burp Intruder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2022-02-01T15:45:22Z",
+            "owner": "GoSecure",
+            "repo": "burp-fuzzy-encoding-generator",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Payload Parser",
+          "description": "Burp Extension for parsing payloads containing/excluding characters you provide.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2013-03-15T20:41:45Z",
+            "owner": "Space-Cased",
+            "repo": "burp.extension-payloadparser",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adhoc Payload Processors",
+          "description": "Generate payload processors on the fly, without having to create individual extensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2022-01-18T20:32:58Z",
+            "owner": "GeoffWalton",
+            "repo": "burp--Adhoc-Payload-Processors",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sheet Intruder",
+          "description": "Sheet Intruder is a Burp Suite extension designed to simplify the process of fuzzing for Excel file uploads. It works by representing the content of an Excel file as a tag, which can then be integrated into various locations. This tag then allows configuration such as replacements for fuzzing targets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-03-19T10:30:54Z",
+            "owner": "Redguard",
+            "repo": "Sheet-Intruder",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Payload Generators and Fuzzers"
+    },
+    {
+      "description": "Extensions related to decryption of encrypted traffic and crypto related attacks.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BurpCrypto",
+          "description": "Burpcrypto is a collection of burpsuite encryption plug-ins, supporting AES/RSA/DES/ExecJs(execute JS encryption code in burpsuite).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-08-04T02:54:21Z",
+            "owner": "whwlsfb",
+            "repo": "BurpCrypto",
+            "stars": 1647
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AES Killer",
+          "description": "Burp plugin to decrypt AES Encrypted traffic of mobile apps on the fly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-08-03T16:38:14Z",
+            "owner": "Ebryx",
+            "repo": "AES-Killer",
+            "stars": 651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WhatsApp Protocol Decryption Burp Tool",
+          "description": "This tool was created during our research on Whatsapp Protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-21T08:22:46Z",
+            "owner": "romanzaikin",
+            "repo": "BurpExtension-WhatsApp-Decryption-CheckPoint",
+            "stars": 645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyCript",
+          "description": "Burp Suite extension that allows for bypassing client-side encryption using custom logic for manual and automation testing with Python and NodeJS. It enables efficient testing of encryption methods and identification of vulnerabilities in the encryption process.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-09T21:56:49Z",
+            "owner": "Anof-cyber",
+            "repo": "PyCript",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Resign v2.0",
+          "description": "A burp extender that recalculate signature value automatically after you modified request parameter value.but you need to know the signature algorithm detail and configure at GUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-11-10T14:20:49Z",
+            "owner": "bit4woo",
+            "repo": "ReSign",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TLS-Attacker-BurpExtension",
+          "description": "The extension is based on the TLS-Attacker and developed by the Chair for Network and Data Security from the Ruhr-University Bochum to assist pentesters and security researchers in the evaluation of TLS Server configurations with Burp Suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-07-03T07:40:45Z",
+            "owner": "tls-attacker",
+            "repo": "TLS-Attacker-BurpExtension",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AES Burp/AES Payloads",
+          "description": "Burp Extension to manipulate AES encrypted payloads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-08-02T15:15:24Z",
+            "owner": "lgrangeia",
+            "repo": "aesburp",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Padding Oracle Hunter",
+          "description": "Padding Oracle Hunter is a Burp Suite extension that helps penetration testers quickly identify and exploit the PKCS#7 and PKCS#1 v1.5 padding oracle vulnerability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-12T09:12:41Z",
+            "owner": "GovTech-CSG",
+            "repo": "PaddingOracleHunter",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Add To TLS Pass Through Extension",
+          "description": "Burp Extension to add context menus for configuration of the Add to TLS Pass Through setting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-01-17T03:35:50Z",
+            "owner": "WhiteOakSecurity",
+            "repo": "addToTLSPassThrough",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crypto Attacker",
+          "description": "The extension helps detect and exploit some common crypto flaws.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-02-13T12:31:29Z",
+            "owner": "PortSwigger",
+            "repo": "crypto-attacker",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Cryptography"
+    },
+    {
+      "description": "Extensions useful for assessing Web Services",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Burp Non HTTP Extension",
+          "description": "Non-HTTP Protocol Extension (NoPE) Proxy and DNS for Burp Suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-05-25T16:08:59Z",
+            "owner": "summitt",
+            "repo": "Nope-Proxy",
+            "stars": 1662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WSDLer",
+          "description": "WSDL Parser extension for Burp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-06-25T21:25:36Z",
+            "owner": "NetSPI",
+            "repo": "Wsdler",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swurg",
+          "description": "Swurg is a Burp Suite extension designed for OpenAPI testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-01-03T18:58:38Z",
+            "owner": "aress31",
+            "repo": "openapi-parser",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BurpWCFDSer",
+          "description": "BurpWCFDSer is a Burp plugin that will deserialze/serialize WCF request and response to and from XML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-11-18T10:49:25Z",
+            "owner": "NetSPI",
+            "repo": "Burp-Extensions",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Content Type Converter",
+          "description": "Burp extension to convert XML to JSON, JSON to XML, x-www-form-urlencoded to XML, and x-www-form-urlencoded to JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-11-18T10:49:25Z",
+            "owner": "NetSPI",
+            "repo": "Burp-Extensions",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "5GC_API_parse",
+          "description": "5GC API parse is a BurpSuite extension allowing to assess 5G core network functions, by parsing the OpenAPI 3.0 not supported by previous OpenAPI extension in Burp, and generating requests for intrusion tests purposes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-22T10:18:28Z",
+            "owner": "PentHertz",
+            "repo": "5GC_API_parse",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WCF-Binary-SOAP-Plug-In",
+          "description": "This is a Burp Suite plug-in designed to encode and decode WCF Binary Soap request and response data (\"Content-Type: application/soap+msbin1).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-01-21T19:48:44Z",
+            "owner": "GDSSecurity",
+            "repo": "WCF-Binary-SOAP-Plug-In",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwaggerParser-BurpExtension",
+          "description": "With this extension, you can parse Swagger Documents. You can view the parsed requests in the table and send them to Repeater, Intruder, Scanner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-25T13:20:43Z",
+            "owner": "Trendyol",
+            "repo": "swagger-parser-burp-extension",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WCFDSer-ngng",
+          "description": "A Burp Extender plugin, that will make binary soap objects readable and modifiable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-02-21T14:55:02Z",
+            "owner": "nccgroup",
+            "repo": "WCFDSer-ngng",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "burp-suite-swaggy",
+          "description": "Burp Suite extension for parsing Swagger web service definition files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-07-15T06:55:15Z",
+            "owner": "augustd",
+            "repo": "burp-suite-swaggy",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UPnP Hunter",
+          "description": "This extension finds active UPnP services/devices and extracts the related SOAP requests (IPv4 and IPv6 are supported), it then analyzes them using any of the various Burp tools (i.e. Intruder, Repeater)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-09T18:47:37Z",
+            "owner": "akabe1",
+            "repo": "upnp-bhunter",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WSDL Wizard",
+          "description": "WSDL Wizard is a Burp Suite plugin written in Python to detect current and discover new WSDL (Web Service Definition Language) files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-03-08T02:02:47Z",
+            "owner": "SmeegeSec",
+            "repo": "WSDLWizard",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON Decoder",
+          "description": "This extension adds a new tab to Burp's HTTP message editor, and displays JSON messages in decoded form.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-18T09:41:00Z",
+            "owner": "PortSwigger",
+            "repo": "json-decoder",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "POST2JSON",
+          "description": "Burp Suite Extension to convert a POST request to JSON message, moving any .NET request verification token to HTTP headers if present.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2013-07-19T07:24:57Z",
+            "owner": "cyberisltd",
+            "repo": "POST2JSON",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSWS",
+          "description": "Burp Extenstion to parse JavaScript WebService Proxies and create sample requests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-02-15T15:27:10Z",
+            "owner": "NetSPI",
+            "repo": "JSWS",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp WS-Security",
+          "description": "This extension calculate a valid WS security token for every request (In Proxy, Scanner, Intruder, Repeater, Sequencer, Extender), and replace variables in theses requests by the valid token.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-12-11T15:53:06Z",
+            "owner": "RobinMoschini",
+            "repo": "Burp-WS-Security",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Web Services"
+    },
+    {
+      "description": "Extensions related to integrating Burp Suite with other software/tools.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Brida",
+          "description": "Brida is a Burp Suite Extension that, working as a bridge between Burp Suite and Frida, lets you use and manipulate applications’ own methods while tampering the traffic exchanged between the applications and their back-end services/servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-10-30T13:47:46Z",
+            "owner": "federicodotta",
+            "repo": "Brida",
+            "stars": 1886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nuclei Template Generator Burp Plugin",
+          "description": "A BurpSuite plugin intended to help with nuclei template generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-10-22T13:47:39Z",
+            "owner": "projectdiscovery",
+            "repo": "nuclei-burp-plugin",
+            "stars": 1344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YesWeBurp",
+          "description": "YesWeBurp is an extension for BurpSuite allowing you to access all your https://yeswehack.com/ bug bounty programs directly inside Burp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-08-07T14:34:43Z",
+            "owner": "yeswehack",
+            "repo": "YesWeBurp",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semgrepper",
+          "description": "The current project provides a Burp Suite extension to allow users to include Semgrep results to extend the checks in use by the passive scanner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-05-23T10:53:13Z",
+            "owner": "gand3lf",
+            "repo": "semgrepper",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bbrf-burp-plugin",
+          "description": "Extension for Bug Bounty Reconnaissance Framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-11-17T19:54:46Z",
+            "owner": "honoki",
+            "repo": "bbrf-burp-plugin",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burptrast",
+          "description": "Burptrast is designed to pull endpoint information from Teamserver and import it into Burp's sitemap.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-04T15:04:19Z",
+            "owner": "Contrast-Security-OSS",
+            "repo": "Burptrast",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Faction Burp Suite Extension",
+          "description": "This Burp Suite Extension allows you to integrate BurpSuite into the Faction assessment collaboration framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-16T00:32:13Z",
+            "owner": "factionsecurity",
+            "repo": "Faction-Burp",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Import To Sitemap",
+          "description": "Import To Sitemap is a Burp Suite Extension to import wstalker CSV file or ZAP export file into Burp Sitemap.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-01-11T15:11:26Z",
+            "owner": "nccgroup",
+            "repo": "BurpImportSitemap",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nessus Loader",
+          "description": "his extension parses a Nessus scan XML file to detect web servers. Any web servers discovered are added to the site map.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-03-29T03:50:23Z",
+            "owner": "xorrbit",
+            "repo": "Burp-NessusLoader",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Peach API Integration",
+          "description": "This Burp plugin provides integration between Burp and Peach API Security.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-12-07T16:40:32Z",
+            "owner": "PeachTech",
+            "repo": "peachapisec-burp",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nucleus Burp Extension",
+          "description": "This extension allows Burp Suite scans to be pushed to the Nucleus platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-04-14T17:56:24Z",
+            "owner": "nucleus-security",
+            "repo": "Nucleus-Burp-Extension",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebInspect Connector",
+          "description": "Binary-only repository for the HP WebInspect Connector, authored by HP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2017-02-13T12:53:34Z",
+            "owner": "PortSwigger",
+            "repo": "webinspect-connector",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GAT Security Platform Integration",
+          "description": "Burp Extension, integration GAT Digital",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-14T21:36:42Z",
+            "owner": "wmspydev",
+            "repo": "burp-gat-core-integration",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Dirbuster",
+          "description": "Dirbuster plugin for Burp Suite.",
+          "children": []
+        }
+      ],
+      "title": "Tool Integration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HUNT",
+          "description": "HUNT Suite is a collection of Burp Suite Pro/Free and OWASP ZAP extensions. Identifies common parameters vulnerable to certain vulnerability classes (Burp Suite Pro and OWASP ZAP). Organize testing methodologies (Burp Suite Pro and Free).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-10T17:40:25Z",
+            "owner": "bugcrowd",
+            "repo": "HUNT",
+            "stars": 2328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "knife",
+          "description": "A burp extension that add some useful function to Context Menu. This includes one key to update cookie, one key add host to scope to the right click context menu, insert payload of Hackbar or self-configured to current request.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-26T04:55:43Z",
+            "owner": "bit4woo",
+            "repo": "knife",
+            "stars": 1962
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hackbar",
+          "description": "HackBar plugin for Burpsuite v1.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-04-15T11:26:55Z",
+            "owner": "d3vilbug",
+            "repo": "HackBar",
+            "stars": 1633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Customizer",
+          "description": "This extension allows you to use these themes in Burp Suite, and includes a number of bundled themes to try.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-12-17T09:12:47Z",
+            "owner": "C0DEbrained",
+            "repo": "BurpCustomizer",
+            "stars": 586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Rest API",
+          "description": "REST/JSON API to the Burp Suite security tool.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2025-07-14T09:29:23Z",
+            "owner": "vmware-archive",
+            "repo": "burp-rest-api",
+            "stars": 566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burpa",
+          "description": "A Burp Suite Automation Tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-08-01T19:26:44Z",
+            "owner": "0x4D31",
+            "repo": "burpa",
+            "stars": 535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BurpSuite-Team-Extension",
+          "description": "This Burpsuite plugin allows for multiple web app testers to share their proxy history with each other in real time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-10-16T21:15:59Z",
+            "owner": "Static-Flow",
+            "repo": "BurpSuite-Team-Extension",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unicode To Chinese",
+          "description": "A burpsuite Extender That Convert Unicode To Chinese.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-02-20T12:59:25Z",
+            "owner": "bit4woo",
+            "repo": "u2c",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jython-burp-api",
+          "description": "Develop Burp extensions in Jython.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-10-20T13:56:01Z",
+            "owner": "mwielgoszewski",
+            "repo": "jython-burp-api",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uproot-JS",
+          "description": "Extract JavaScript files from burp suite project with ease.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2022-02-19T17:05:57Z",
+            "owner": "0xDexter0us",
+            "repo": "uproot-JS",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autowasp",
+          "description": "a Burp Suite extension that integrates Burp issues logging, with OWASP Web Security Testing Guide (WSTG), to provide a streamlined web security testing flow for the modern-day penetration tester",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-09-02T04:29:28Z",
+            "owner": "GovTech-CSG",
+            "repo": "Autowasp",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Turbo Data Miner",
+          "description": "This extension adds a new tab Turbo Miner to Burp Suite's GUI as well as an new entry Process in Turbo Miner to Burp Suite's context menu. In the new tab, you are able to write new or select existing Python scripts that are executed on each request/response item currently stored in the Proxy History, Side Map, or on each request/response item that is sent or received by Burp Suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-31T19:13:17Z",
+            "owner": "chopicalqui",
+            "repo": "TurboDataMiner",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Similar Request Excluder",
+          "description": "A Burp Suite extension that automatically marks similar requests as 'out-of-scope'.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2020-05-01T20:35:35Z",
+            "owner": "tijme",
+            "repo": "similar-request-excluder",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Copy to Bcheck",
+          "description": "The purpose of this extension is to streamline the process of creating simple bcheck scripts, reducing the time required to generate them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-07-18T00:08:42Z",
+            "owner": "vrechson",
+            "repo": "copy-to-bcheck",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Change Menu Level",
+          "description": "A simple BurpSuite extension to change extension context menu level, using in BurpSuite v2021.7 version and newer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-02-04T10:25:24Z",
+            "owner": "Ovi3",
+            "repo": "burp-menu-level",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Header Snipper",
+          "description": "This extension will improve the user reporting experience. The extension is used to snip any header from all the requests with just 1 click!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-12T23:01:49Z",
+            "owner": "e1abrador",
+            "repo": "Burp-headerSnipper",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Add Custom Header",
+          "description": "A Burp Suite extension to add a custom header (e.g. JWT).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-12-09T20:39:19Z",
+            "owner": "lorenzog",
+            "repo": "burpAddCustomHeader",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sample Burp Suite extension: custom scanner checks",
+          "description": "Sample Burp Suite extension: custom scanner checks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-12-23T00:15:24Z",
+            "owner": "PortSwigger",
+            "repo": "example-scanner-checks",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CFURL Cache inspector for Burp Suite",
+          "description": "CFURL Cache inspector for Burp Suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-12-08T14:09:07Z",
+            "owner": "silentsignal",
+            "repo": "burp-cfurl-cache",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tea Break",
+          "description": "Burp Suite extension to increase productivity among bug bounty hunters and security researchers while prompting to take break after set time to avoid burnout and health issues.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-05-31T06:22:35Z",
+            "owner": "humblelad",
+            "repo": "TeaBreak",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Curlit",
+          "description": "Burp Python plugin to turn requests into curl commands.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2014-04-25T03:34:04Z",
+            "owner": "faffi",
+            "repo": "curlit",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FixerUpper",
+          "description": "A Burp extension to enable modification of FIX messages when relayed from MitM_Relay",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-10T16:28:10Z",
+            "owner": "ReversecLabs",
+            "repo": "FixerUpper",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Share Requests",
+          "description": "This Burp Suite extension enables the generation of shareable links to specific requests which other Burp Suite users can import.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-05-20T21:21:11Z",
+            "owner": "Static-Flow",
+            "repo": "BurpSuiteShareRequests",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BCheck Helper",
+          "description": "BCheck Helper makes finding and importing BChecks scripts into Burp easier by loading them from either a remote GitHub or local Git repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-07T07:24:54Z",
+            "owner": "joshspindler",
+            "repo": "extensibility-helper",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Uniqueness",
+          "description": "Uniqueness plugin for Burp Suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-01-14T16:21:49Z",
+            "owner": "silentsignal",
+            "repo": "burp-uniqueness",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Bing translator",
+          "description": "Testing non-English web apps is pretty straight forward which you can just use browser extension to translate what you see on screens.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-04-22T06:51:13Z",
+            "owner": "yehgdotnet",
+            "repo": "burp-extention-bing-translator",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proxy Action Rules",
+          "description": "This extension can automatically forward, intercept, and drop proxy requests while actively displaying proxy log information and centralizing list management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-19T15:50:46Z",
+            "owner": "jamesm0rr1s",
+            "repo": "BurpSuite-Active-AutoProxy",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Filter Options Method",
+          "description": "Burp extension that filters out OPTIONS requests from populating Burp's Proxy history.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-01T08:53:11Z",
+            "owner": "capt-meelo",
+            "repo": "filter-options-method",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BugPoC",
+          "description": "Burp Suite Extension to send raw HTTP Requests to BugPoC.com.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-06-08T13:40:27Z",
+            "owner": "bugpoc-ryan",
+            "repo": "BugPoC-Burp-Extension",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jython Burp Extensions",
+          "description": "Description not available.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2012-11-16T21:04:47Z",
+            "owner": "mwielgoszewski",
+            "repo": "jython-burp-extensions",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BurpelFish",
+          "description": "Adds Google Translate to Burp's context menu.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-11-15T08:44:28Z",
+            "owner": "bao7uo",
+            "repo": "BurpelFish",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "burp-suite-paste-curl",
+          "description": "Burp Suite extension to allow pasting cURL commands into a new tab in Repeater. The pasted cURL command will be parsed into a raw HTTP request suitable for use with Repeater.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-12-04T23:57:25Z",
+            "owner": "augustd",
+            "repo": "burp-suite-paste-curl",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Copy as FFUF Command",
+          "description": "Burp Suite extension for FFUF command generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-17T06:13:27Z",
+            "owner": "phlmox",
+            "repo": "burp_copy_as_ffuf_command",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp-Quicker-Context-Extension",
+          "description": "This extension adds the \"Quicker Context\" dialog which is a lightweight dialog to select tabs or execute application- and context-menu-entries more easily by typing parts of the name or choosing one stored in history.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-02-19T19:47:03Z",
+            "owner": "bytebutcher",
+            "repo": "burp-quicker-context",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Copy Headers As -H Arguments",
+          "description": "The \"Copy Headers As -H Arguments\" Burp Suite extension adds a new context menu entry that will copy the headers from the selected request to the clipboard in various formats",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-19T12:23:19Z",
+            "owner": "n0kovo",
+            "repo": "burp-copy-headers-as-args",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Asset Saver - Burp Suite",
+          "description": "Burp Suite extension for saving previously loaded assets .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-12T01:14:14Z",
+            "owner": "gaberust",
+            "repo": "burp-asset-saver",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kerberos Upstream Proxy Extension for Burp Suite",
+          "description": "An extension to allow the use of Burp Suite with an upstream proxy that requires Kerberos authentication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-05-08T15:39:03Z",
+            "owner": "agreenbhm",
+            "repo": "BurpKerberosUpstreamProxy",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SourceMapper",
+          "description": "This is a Burpsuite extension for injecting offline source maps for easier JavaScript debugging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-14T17:27:36Z",
+            "owner": "yg-ht",
+            "repo": "Burp-SourceMapper",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Perfmon",
+          "description": "Perfmon is an extension for Burp Suite that shows information about threads, memory being used, and memory allocated.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-05-22T14:44:02Z",
+            "owner": "sampsonc",
+            "repo": "Perfmon",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlockerLite",
+          "description": "Simple Burp extension to drop blacklisted hosts.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-07-27T05:17:27Z",
+            "owner": "bomsi",
+            "repo": "BlockerLite",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Suite History Explorer",
+          "description": "This extension was developed to assist in filtering search results by host. During a large assessment I conducted, I wanted a clear view of which servers were operating on which software. While searching in Burp for the Server: .*, it returned the desired information, but I still had to sift through each request.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T15:58:08Z",
+            "owner": "marduc812",
+            "repo": "BurpSuiteHistoryExplorer",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OData Explorer",
+          "description": "OData Explorer is a Burp Suite extension specifically designed for black-box security testing of OData services.",
+          "children": []
+        }
+      ],
+      "title": "Misc"
+    },
+    {
+      "description": "Useful blog posts, talks and slides related to developing Burp extensions.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Developing Burp Suite Extensions - Doyensec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-10-14T20:44:08Z",
+            "owner": "doyensec",
+            "repo": "burpdeveltraining",
+            "stars": 358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Extension Generator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-01-06T03:42:54Z",
+            "owner": "rsrdesarrollo",
+            "repo": "generator-burp-extension",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AIAIAI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-17T12:26:55Z",
+            "owner": "Hipapheralkus",
+            "repo": "AIAIAI",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Burp Extension Training Resources"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T09:32:50.539Z",
+    "original_repository": "snoopysecurity/awesome-burp-extensions",
+    "original_repository_sha": "fc4ef1a414d4cfc165bb3df639a13d7ba7b6b3ce",
+    "enhanced_repository": "enhansome/enhansome-burp-extensions",
+    "enhanced_repository_description": null,
+    "title": "Awesome Burp Extensions with stars"
+  }
+}
