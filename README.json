@@ -56,7 +56,7 @@
             "last_commit": "2024-08-07T14:49:45Z",
             "owner": "yeswehack",
             "repo": "PwnFox",
-            "stars": 1335
+            "stars": 1337
           }
         },
         {
@@ -137,7 +137,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-10T06:02:38Z",
+            "last_commit": "2026-08-14T12:55:12Z",
             "owner": "usdAG",
             "repo": "cstc",
             "stars": 266
@@ -731,7 +731,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-10T06:02:38Z",
+            "last_commit": "2026-08-14T12:55:12Z",
             "owner": "usdAG",
             "repo": "cstc",
             "stars": 266
@@ -1699,7 +1699,7 @@
             "last_commit": "2021-02-02T15:54:40Z",
             "owner": "elkokc",
             "repo": "reflector",
-            "stars": 1212
+            "stars": 1213
           }
         },
         {
@@ -2109,7 +2109,7 @@
             "last_commit": "2021-11-07T18:30:53Z",
             "owner": "federicodotta",
             "repo": "Java-Deserialization-Scanner",
-            "stars": 802
+            "stars": 803
           }
         },
         {
@@ -2227,7 +2227,7 @@
             "last_commit": "2024-03-22T18:00:59Z",
             "owner": "InitRoot",
             "repo": "BurpJSLinkFinder",
-            "stars": 820
+            "stars": 821
           }
         },
         {
@@ -2945,7 +2945,7 @@
             "last_commit": "2024-05-31T05:48:24Z",
             "owner": "nccgroup",
             "repo": "LoggerPlusPlus",
-            "stars": 712
+            "stars": 711
           }
         },
         {
@@ -3265,7 +3265,7 @@
             "last_commit": "2026-04-01T19:51:55Z",
             "owner": "synacktiv",
             "repo": "HopLa",
-            "stars": 836
+            "stars": 837
           }
         },
         {
@@ -3293,7 +3293,7 @@
             "last_commit": "2026-05-28T09:08:34Z",
             "owner": "volkandindar",
             "repo": "agartha",
-            "stars": 401
+            "stars": 402
           }
         },
         {
@@ -3927,7 +3927,7 @@
             "last_commit": "2025-10-30T13:47:46Z",
             "owner": "federicodotta",
             "repo": "Brida",
-            "stars": 1886
+            "stars": 1887
           }
         },
         {
@@ -3941,7 +3941,7 @@
             "last_commit": "2025-10-22T13:47:39Z",
             "owner": "projectdiscovery",
             "repo": "nuclei-burp-plugin",
-            "stars": 1344
+            "stars": 1345
           }
         },
         {
@@ -4121,7 +4121,7 @@
             "last_commit": "2026-06-10T17:40:25Z",
             "owner": "bugcrowd",
             "repo": "HUNT",
-            "stars": 2329
+            "stars": 2328
           }
         },
         {
@@ -4743,7 +4743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T09:19:40.774Z",
+    "last_updated": "2026-08-15T08:44:21.004Z",
     "original_repository": "snoopysecurity/awesome-burp-extensions",
     "original_repository_sha": "fc4ef1a414d4cfc165bb3df639a13d7ba7b6b3ce",
     "enhanced_repository": "enhansome/enhansome-burp-extensions",
