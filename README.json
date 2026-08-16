@@ -14,7 +14,7 @@
             "last_commit": "2026-07-31T07:40:27Z",
             "owner": "overspace-labs",
             "repo": "HaE",
-            "stars": 4363
+            "stars": 4362
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2023-09-26T23:41:07Z",
             "owner": "daffainfo",
             "repo": "match-replace-burp",
-            "stars": 375
+            "stars": 374
           }
         },
         {
@@ -1887,7 +1887,7 @@
             "last_commit": "2025-11-04T15:44:03Z",
             "owner": "simioni87",
             "repo": "auth_analyzer",
-            "stars": 221
+            "stars": 223
           }
         },
         {
@@ -2255,7 +2255,7 @@
             "last_commit": "2024-07-09T23:32:40Z",
             "owner": "vsec7",
             "repo": "BurpSuite-Xkeys",
-            "stars": 313
+            "stars": 312
           }
         },
         {
@@ -2927,6 +2927,20 @@
             "repo": "JSON-Escaper-Burp-Suite-Python-plugin",
             "stars": 2
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome TLS Plus",
+          "description": "A maintained fork of Awesome TLS that adds per-domain fingerprint rules (exact host or wildcard suffix), applies spoofing to every Burp tool rather than the proxy alone, and ships prebuilt jars for eight OS/arch targets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-07T10:17:37Z",
+            "owner": "Robin528919",
+            "repo": "burp-awesome-tls-plus",
+            "stars": 1
+          }
         }
       ],
       "title": "Web Application Firewall Evasion"
@@ -3293,7 +3307,7 @@
             "last_commit": "2026-05-28T09:08:34Z",
             "owner": "volkandindar",
             "repo": "agartha",
-            "stars": 402
+            "stars": 408
           }
         },
         {
@@ -4743,9 +4757,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T08:44:21.004Z",
+    "last_updated": "2026-08-16T08:45:51.523Z",
     "original_repository": "snoopysecurity/awesome-burp-extensions",
-    "original_repository_sha": "fc4ef1a414d4cfc165bb3df639a13d7ba7b6b3ce",
+    "original_repository_sha": "7cbf7fdf4d690af55b33be6fcf5cb7e6ac093e8c",
     "enhanced_repository": "enhansome/enhansome-burp-extensions",
     "enhanced_repository_description": null,
     "title": "Awesome Burp Extensions with stars"

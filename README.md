@@ -53,15 +53,15 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [RouteVulScan](https://github.com/F6JO/RouteVulScan) ⭐ 1,334 | 🐛 11 | 🌐 Java | 📅 2026-07-10 - Route Vulnerable scanning
 * [RouteVulScan](https://github.com/F6JO/RouteVulScan) ⭐ 1,334 | 🐛 11 | 🌐 Java | 📅 2026-07-10 - RouteVulScan is a burp plug-in developed using Java that can recursively detect vulnerable paths.
 * [HTTP Request Smuggler](https://github.com/portswigger/http-request-smuggler) ⭐ 1,230 | 🐛 13 | 🌐 Java | 📅 2026-08-13 - This is an extension for Burp Suite designed to help you launch HTTP Request Smuggling attacks, originally created during HTTP Desync Attacks research. It supports scanning for Request Smuggling vulnerabilities, and also aids exploitation by handling cumbersome offset-tweaking for you.
-* [Burp Vulners Scanner](https://github.com/vulnersCom/burp-vulners-scanner) ⭐ 900 | 🐛 7 | 🌐 Java | 📅 2025-10-01 - Vulnerability scanner based on vulners.com search API.
+* [Burp Vulners Scanner](https://github.com/vulnersCom/burp-vulners-scanner) ⭐ 899 | 🐛 7 | 🌐 Java | 📅 2025-10-01 - Vulnerability scanner based on vulners.com search API.
 * [Log4j2Scan](https://github.com/whwlsfb/Log4j2Scan) ⭐ 836 | 🐛 12 | 🌐 Java | 📅 2023-08-04 - Log4j2 Remote Code Execution Vulnerability, Passive Scan Plugin for BurpSuite.
 * [Java Deserialization Scanner](https://github.com/federicodotta/Java-Deserialization-Scanner) ⭐ 803 | 🐛 11 | 🌐 Java | 📅 2021-11-07 - All-in-one plugin for Burp Suite for the detection and the exploitation of Java deserialization vulnerabilities.
-* [Backslash Powered Scanner](https://github.com/PortSwigger/backslash-powered-scanner) ⭐ 715 | 🐛 2 | 🌐 Java | 📅 2025-04-30 - Finds unknown classes of injection vulnerabilities.
+* [Backslash Powered Scanner](https://github.com/PortSwigger/backslash-powered-scanner) ⭐ 716 | 🐛 2 | 🌐 Java | 📅 2025-04-30 - Finds unknown classes of injection vulnerabilities.
 * [J2EEScan](https://github.com/ilmila/J2EEScan) ⭐ 679 | 🐛 17 | 🌐 Java | 📅 2025-10-29 - J2EEScan is a plugin for Burp Suite Proxy. The goal of this plugin is to improve the test coverage during web application penetration tests on J2EE applications.
 * [Active Scan++](https://github.com/albinowax/ActiveScanPlusPlus) ⭐ 663 | 🐛 6 | 🌐 Java | 📅 2026-07-20 - ActiveScan++ extends Burp Suite's active and passive scanning capabilities.
 * [Log4Shell scanner for Burp Suite](https://github.com/silentsignal/burp-log4shell) ⭐ 486 | 🐛 3 | 🌐 Kotlin | 📅 2023-09-24 - If you'd like to scan only for Log4j (and not other things such as XSS or SQLi), this plugin makes it possible.
 * [Collaborator Everywhere](https://github.com/PortSwigger/collaborator-everywhere) ⭐ 450 | 🐛 21 | 🌐 Java | 📅 2025-04-11 - A Burp Suite Pro extension which augments your proxy traffic by injecting non-invasive headers designed to reveal backend systems by causing pingbacks to Burp Collaborator
-* [Agartha](https://github.com/volkandindar/agartha) ⭐ 402 | 🐛 0 | 🌐 Python | 📅 2026-05-28 - Agartha is a penetration testing tool which creates dynamic payload lists and user access matrix to reveal injection flaws and authentication/authorization issues.
+* [Agartha](https://github.com/volkandindar/agartha) ⭐ 408 | 🐛 0 | 🌐 Python | 📅 2026-05-28 - Agartha is a penetration testing tool which creates dynamic payload lists and user access matrix to reveal injection flaws and authentication/authorization issues.
 * [JSpector ](https://github.com/hisxo/JSpector) ⭐ 378 | 🐛 0 | 🌐 Python | 📅 2023-07-25 - JSpector is a Burp Suite extension that passively crawls JavaScript files and automatically creates issues with URLs, endpoints and dangerous methods found on the JS files.
 * [Trishul](https://github.com/gauravnarwani97/Trishul) ⭐ 252 | 🐛 5 | 🌐 Python | 📅 2020-04-27 - Burp Extension written in Jython to hunt for common vulnerabilities found in websites.
 * [Burp Retire JS](https://github.com/h3xstream/burp-retire-js) ⭐ 213 | 🐛 8 | 🌐 JavaScript | 📅 2024-06-14 - Burp/ZAP/Maven extension that integrate Retire.js repository to find vulnerable Javascript libraries.
@@ -124,14 +124,14 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 
 *Extensions rel)ated to customizing Burp features and extend the functionality of Burp Suite in numerous ways.*
 
-* [HaE - Highlighter and Extractor](https://github.com/gh0stkey/HaE) ⭐ 4,363 | 🐛 0 | 📅 2026-07-31 - HaE is used to highlight HTTP requests and extract information from HTTP response messages.
+* [HaE - Highlighter and Extractor](https://github.com/gh0stkey/HaE) ⭐ 4,362 | 🐛 0 | 📅 2026-07-31 - HaE is used to highlight HTTP requests and extract information from HTTP response messages.
 * [Burp Bounty - Scan Check Builder](https://github.com/wagiro/BurpBounty) ⭐ 1,810 | 🐛 7 | 🌐 Java | 📅 2024-04-26 - This BurpSuite extension allows you, in a quick and simple way, to improve the active and passive burpsuite scanner by means of personalized rules through a very intuitive graphical interface.
 * [GAP-Burp-Extension](https://github.com/xnl-h4ck3r/GAP-Burp-Extension) ⭐ 1,528 | 🐛 5 | 🌐 Python | 📅 2026-01-08 - This is an evolution of the original getAllParams extension for Burp. Not only does it find more potential parameters for you to investigate, but it also finds potential links to try these parameters on, and produces a target specific wordlist to use for fuzzing.
 * [PwnFox](https://github.com/B-i-t-K/PwnFox) ⭐ 1,337 | 🐛 20 | 🌐 JavaScript | 📅 2024-08-07 - PwnFox is a Firefox/Burp extension that provide usefull tools for your security audit.
 * [IP Rotate](https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension) ⭐ 893 | 🐛 2 | 🌐 Python | 📅 2026-02-23 - Extension for Burp Suite which uses AWS API Gateway to rotate your IP on every request.
 * [Burp Customizer](https://github.com/CoreyD97/BurpCustomizer) ⭐ 586 | 🐛 11 | 🌐 Java | 📅 2024-12-17 - Because just a dark theme wasn't enough.
 * [BurpSuiteSharpener](https://github.com/mdsecresearch/BurpSuiteSharpener) ⭐ 523 | 🐛 22 | 🌐 Java | 📅 2023-06-05 - This extension should add a number of UI and functional features to Burp Suite to make working with it easier.
-* [match-replace-burp](https://github.com/daffainfo/match-replace-burp) ⭐ 375 | 🐛 0 | 📅 2023-09-26 - Useful Match and Replace BurpSuite Rules
+* [match-replace-burp](https://github.com/daffainfo/match-replace-burp) ⭐ 374 | 🐛 0 | 📅 2023-09-26 - Useful Match and Replace BurpSuite Rules
 * [BadIntent](https://github.com/mateuszk87/BadIntent) ⚠️ Archived - Intercept, modify, repeat and attack Android's Binder transactions using Burp Suite.
 * [cstc](https://github.com/usdAG/cstc) ⭐ 266 | 🐛 6 | 🌐 Java | 📅 2026-08-14 - CSTC is a Burp Suite extension that allows request/response modification using a GUI analogous to CyberChef.
 * [Hackvertor](https://github.com/hackvertor/hackvertor) ⭐ 249 | 🐛 5 | 🌐 Java | 📅 2026-06-03 - Hackvertor is a tag-based conversion tool that supports various escapes and encodings including HTML5 entities, hex, octal, unicode, url encoding etc.
@@ -318,7 +318,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Autorize](https://github.com/Quitten/Autorize) ⭐ 1,168 | 🐛 9 | 🌐 Python | 📅 2026-03-21 - Automatic authorization enforcement detection extension for burp suite written in Jython developed by Barak Tawily in order to ease application security people work and allow them perform an automatic authorization tests.
 * [AutoRepeater](https://github.com/nccgroup/AutoRepeater) ⭐ 895 | 🐛 30 | 🌐 Java | 📅 2021-12-15 - Automated HTTP Request Repeating With Burp Suite.
 * [AuthMatrix](https://github.com/SecurityInnovation/AuthMatrix) ⭐ 646 | 🐛 29 | 🌐 Python | 📅 2024-03-07 - AuthMatrix is a Burp Suite extension that provides a simple way to test authorization in web applications and web services.
-* [Auth Analyzer](https://github.com/simioni87/auth_analyzer) ⭐ 221 | 🐛 14 | 🌐 Java | 📅 2025-11-04 - This Burp Extension helps you to find authorization bugs by repeating Proxy requests with self defined headers and tokens.
+* [Auth Analyzer](https://github.com/simioni87/auth_analyzer) ⭐ 223 | 🐛 14 | 🌐 Java | 📅 2025-11-04 - This Burp Extension helps you to find authorization bugs by repeating Proxy requests with self defined headers and tokens.
 * [Paramalyzer](https://github.com/JGillam/burp-paramalyzer) ⭐ 159 | 🐛 11 | 🌐 Java | 📅 2025-07-10 - Paramalyzer - Burp extension for parameter analysis of large-scale web application penetration tests.
 * [AdminPanelFinder](https://github.com/moeinfatehi/Admin-Panel_Finder) ⭐ 123 | 🐛 1 | 🌐 Java | 📅 2022-06-16 - A burp suite extension that enumerates infrastructure and application Admin Interfaces (OWASP OTG-CONFIG-005)
 * [Burplay/Multi Session Replay](https://github.com/SpiderLabs/burplay) ⭐ 84 | 🐛 1 | 🌐 Java | 📅 2017-09-19 - Burplay is a Burp Extension allowing for replaying any number of requests using same modifications definition. Its main purpose is to aid in searching for Privilege Escalation issues.
@@ -360,7 +360,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [GAP-Burp-Extension](https://github.com/xnl-h4ck3r/GAP-Burp-Extension) ⭐ 1,528 | 🐛 5 | 🌐 Python | 📅 2026-01-08 - This is an evolution of the original getAllParams extension for Burp. Not only does it find more potential parameters for you to investigate, but it also finds potential links to try these parameters on.
 * [JS Link Finder](https://github.com/InitRoot/BurpJSLinkFinder) ⭐ 821 | 🐛 6 | 🌐 Python | 📅 2024-03-22 - Burp Extension for a passively scanning JavaScript files for endpoint links. - Export results the text file - Exclude specific 'js' files e.g. jquery, google-analytics.
 * [Burp Smart Buster](https://github.com/pathetiq/BurpSmartBuster) ⭐ 378 | 🐛 11 | 🌐 Python | 📅 2020-10-12 - A Burp Suite content discovery plugin that add the smart into the Buster!.
-* [Xkeys](https://github.com/vsec7/BurpSuite-Xkeys) ⭐ 313 | 🐛 2 | 🌐 Python | 📅 2024-07-09 - A Burp Suite Extension to extract interesting strings (key, secret, token, or etc.) from a webpage. and lists them as information issues.
+* [Xkeys](https://github.com/vsec7/BurpSuite-Xkeys) ⭐ 312 | 🐛 2 | 🌐 Python | 📅 2024-07-09 - A Burp Suite Extension to extract interesting strings (key, secret, token, or etc.) from a webpage. and lists them as information issues.
 * [Interesting Files Scanner](https://github.com/modzero/interestingFileScanner) ⚠️ Archived - Interesting Files Scanner extends Burp Suite's active scanner, with scans for interesting files and directories. A main feature of the extension is the check for false positives with tested patterns for each case.
 * [Burp JS Miner](https://github.com/minamo7sen/burp-JS-Miner) ⭐ 58 | 🐛 4 | 🌐 Java | 📅 2023-05-30 - This tool tries to find interesting stuff inside static files; mainly JavaScript and JSON files.
 * [BeanStack - Stack-trace Fingerprinter](https://github.com/x41sec/BeanStack) ⭐ 54 | 🐛 0 | 🌐 Java | 📅 2025-12-03 - Java Fingerprinting using Stack Traces. Note that this extension sends potentially private stack-traces to a third party for processing.
@@ -440,7 +440,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 
 ### Template Injection
 
-* [tplmap Burp Extenson](https://github.com/epinna/tplmap/tree/master/burp_extension) ⭐ 4,192 | 🐛 46 | 🌐 Python | 📅 2024-04-21 - Burp extension for Tplmap, a Server-Side Template Injection and Code Injection Detection and Exploitation Tool
+* [tplmap Burp Extenson](https://github.com/epinna/tplmap/tree/master/burp_extension) ⭐ 4,193 | 🐛 46 | 🌐 Python | 📅 2024-04-21 - Burp extension for Tplmap, a Server-Side Template Injection and Code Injection Detection and Exploitation Tool
 
 ### Type Confusion
 
@@ -463,6 +463,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [WAF Bypadd](https://github.com/julianjm/waf_bypadd) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2023-07-23 - This Burp Suite extension is designed to bypass Web Application Firewalls (WAFs) by padding HTTP requests with dummy data.
 * [Random IP Address Header](https://github.com/PortSwigger/random-ip-address-header) ⭐ 6 | 🐛 1 | 🌐 Java | 📅 2017-02-13 - This extension automatically generates IPV6 and IPV4 fake source address headers to evade WAF filtering.
 * [JSON Escaper](https://github.com/akashc99/JSON-Escaper-Burp-Suite-Python-plugin) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2024-09-20 - The JSON Escaper Burp Suite plugin simplifies the process of escaping JSON payloads for pentesters, as there is no built-in option for this in Burp.
+* [Awesome TLS Plus](https://github.com/Robin528919/burp-awesome-tls-plus) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2026-08-07 - A maintained fork of Awesome TLS that adds per-domain fingerprint rules (exact host or wildcard suffix), applies spoofing to every Burp tool rather than the proxy alone, and ships prebuilt jars for eight OS/arch targets.
 * [What-The-WAF](https://portswigger.net/bappstore/5da470c526ea4661a82187ec3e0f94aa) - This extension adds a custom payload type to the Intruder tool, to help test for bypasses of Web Application Firewalls (WAFs).
 * [WAF Cookie Fetcher](https://portswigger.net/bappstore/0f6ce51c1cb349689ecb4025e8db060a) - This extension allows web application security testers to register various types of cookie-related session handling actions to be performed by the Burp session handling rules.
 * [WAFDetect](https://portswigger.net/bappstore/12bef6b7607e46cf965c16f76e905a4c) - This extension passively detects the presence of a web application firewall (WAF) from HTTP responses.
@@ -506,7 +507,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [GAP (Get All Parameters, Links, and Words)](https://github.com/xnl-h4ck3r/GAP-Burp-Extension) ⭐ 1,528 | 🐛 5 | 🌐 Python | 📅 2026-01-08 - This extension helps find potential endpoints, parameters, and generate a custom target wordlist.
 * [HopLa](https://github.com/synacktiv/HopLa) ⭐ 837 | 🐛 5 | 🌐 Java | 📅 2026-04-01 - This extension adds autocompletion support and useful payloads in Burp Suite to make your intrusion easier.
 * [reCAPTCHA](https://github.com/bit4woo/reCAPTCHA.git) ⭐ 808 | 🐛 5 | 🌐 Java | 📅 2023-11-23 - A burp plugin that automatically recognizes the graphics verification code and is used for Payload in Intruder.
-* [Agartha - LFI, RCE, SQLi, Authentication, Authorization and Copy as JavaScript](https://github.com/volkandindar/agartha) ⭐ 402 | 🐛 0 | 🌐 Python | 📅 2026-05-28 - Agartha is a penetration testing tool which creates dynamic payload lists and user access matrix to reveal injection flaws and authentication/authorization issues.
+* [Agartha - LFI, RCE, SQLi, Authentication, Authorization and Copy as JavaScript](https://github.com/volkandindar/agartha) ⭐ 408 | 🐛 0 | 🌐 Python | 📅 2026-05-28 - Agartha is a penetration testing tool which creates dynamic payload lists and user access matrix to reveal injection flaws and authentication/authorization issues.
 * [Gather Contacts](https://github.com/clr2of8/GatherContacts) ⭐ 208 | 🐛 0 | 🌐 Java | 📅 2024-07-06 - A Burp Suite Extension to pull Employee Names from Google and Bing LinkedIn Search Results.
 * [Stepper](https://github.com/CoreyD97/Stepper) ⚠️ Archived - Stepper is designed to be a natural evolution of Burp Suite's Repeater tool, providing the ability to create sequences of steps and define regular expressions to extract values from responses which can then be used in subsequent steps.
 * [CO2](https://github.com/JGillam/burp-co2) ⭐ 154 | 🐛 2 | 🌐 Java | 📅 2024-02-21 - A collection of enhancements for Portswigger's popular Burp Suite web penetration testing tool.
@@ -695,4 +696,4 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
