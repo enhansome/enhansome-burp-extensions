@@ -14,7 +14,7 @@
             "last_commit": "2026-07-31T07:40:27Z",
             "owner": "overspace-labs",
             "repo": "HaE",
-            "stars": 4362
+            "stars": 4363
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-01-08T19:23:17Z",
             "owner": "xnl-h4ck3r",
             "repo": "GAP-Burp-Extension",
-            "stars": 1528
+            "stars": 1529
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-02-23T15:30:35Z",
             "owner": "RhinoSecurityLabs",
             "repo": "IPRotate_Burp_Extension",
-            "stars": 893
+            "stars": 894
           }
         },
         {
@@ -1887,7 +1887,7 @@
             "last_commit": "2025-11-04T15:44:03Z",
             "owner": "simioni87",
             "repo": "auth_analyzer",
-            "stars": 223
+            "stars": 224
           }
         },
         {
@@ -2213,7 +2213,7 @@
             "last_commit": "2026-01-08T19:23:17Z",
             "owner": "xnl-h4ck3r",
             "repo": "GAP-Burp-Extension",
-            "stars": 1528
+            "stars": 1529
           }
         },
         {
@@ -3265,7 +3265,7 @@
             "last_commit": "2026-01-08T19:23:17Z",
             "owner": "xnl-h4ck3r",
             "repo": "GAP-Burp-Extension",
-            "stars": 1528
+            "stars": 1529
           }
         },
         {
@@ -3307,7 +3307,7 @@
             "last_commit": "2026-05-28T09:08:34Z",
             "owner": "volkandindar",
             "repo": "agartha",
-            "stars": 408
+            "stars": 410
           }
         },
         {
@@ -4757,7 +4757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T08:45:51.523Z",
+    "last_updated": "2026-08-17T08:59:16.280Z",
     "original_repository": "snoopysecurity/awesome-burp-extensions",
     "original_repository_sha": "7cbf7fdf4d690af55b33be6fcf5cb7e6ac093e8c",
     "enhanced_repository": "enhansome/enhansome-burp-extensions",
