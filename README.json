@@ -14,7 +14,7 @@
             "last_commit": "2026-07-31T07:40:27Z",
             "owner": "overspace-labs",
             "repo": "HaE",
-            "stars": 4363
+            "stars": 4362
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2024-04-26T01:17:17Z",
             "owner": "wagiro",
             "repo": "BurpBounty",
-            "stars": 1810
+            "stars": 1809
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2024-08-07T14:49:45Z",
             "owner": "yeswehack",
             "repo": "PwnFox",
-            "stars": 1337
+            "stars": 1338
           }
         },
         {
@@ -1887,7 +1887,7 @@
             "last_commit": "2025-11-04T15:44:03Z",
             "owner": "simioni87",
             "repo": "auth_analyzer",
-            "stars": 224
+            "stars": 225
           }
         },
         {
@@ -2109,7 +2109,7 @@
             "last_commit": "2021-11-07T18:30:53Z",
             "owner": "federicodotta",
             "repo": "Java-Deserialization-Scanner",
-            "stars": 803
+            "stars": 802
           }
         },
         {
@@ -2813,7 +2813,7 @@
             "last_commit": "2022-02-23T01:54:14Z",
             "owner": "c0ny1",
             "repo": "chunked-coding-converter",
-            "stars": 2030
+            "stars": 2029
           }
         },
         {
@@ -2827,7 +2827,7 @@
             "last_commit": "2026-08-13T20:16:31Z",
             "owner": "sleeyax",
             "repo": "burp-awesome-tls",
-            "stars": 1889
+            "stars": 1888
           }
         },
         {
@@ -3251,7 +3251,7 @@
             "last_commit": "2021-04-15T11:26:55Z",
             "owner": "d3vilbug",
             "repo": "HackBar",
-            "stars": 1633
+            "stars": 1632
           }
         },
         {
@@ -3279,7 +3279,7 @@
             "last_commit": "2026-04-01T19:51:55Z",
             "owner": "synacktiv",
             "repo": "HopLa",
-            "stars": 837
+            "stars": 836
           }
         },
         {
@@ -3293,7 +3293,7 @@
             "last_commit": "2023-11-23T07:25:15Z",
             "owner": "bit4woo",
             "repo": "reCAPTCHA",
-            "stars": 808
+            "stars": 807
           }
         },
         {
@@ -3307,7 +3307,7 @@
             "last_commit": "2026-05-28T09:08:34Z",
             "owner": "volkandindar",
             "repo": "agartha",
-            "stars": 410
+            "stars": 411
           }
         },
         {
@@ -3321,7 +3321,7 @@
             "last_commit": "2024-07-06T09:18:54Z",
             "owner": "clr2of8",
             "repo": "GatherContacts",
-            "stars": 208
+            "stars": 209
           }
         },
         {
@@ -4163,7 +4163,7 @@
             "last_commit": "2021-04-15T11:26:55Z",
             "owner": "d3vilbug",
             "repo": "HackBar",
-            "stars": 1633
+            "stars": 1632
           }
         },
         {
@@ -4757,7 +4757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T08:59:16.280Z",
+    "last_updated": "2026-08-18T08:52:24.584Z",
     "original_repository": "snoopysecurity/awesome-burp-extensions",
     "original_repository_sha": "7cbf7fdf4d690af55b33be6fcf5cb7e6ac093e8c",
     "enhanced_repository": "enhansome/enhansome-burp-extensions",
