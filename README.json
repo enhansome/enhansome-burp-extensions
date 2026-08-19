@@ -30,7 +30,7 @@
             "last_commit": "2026-06-17T14:00:52Z",
             "owner": "doyensec",
             "repo": "inql",
-            "stars": 1799
+            "stars": 1800
           }
         },
         {
@@ -1034,7 +1034,7 @@
                 "archived": false,
                 "id": 195959897,
                 "language": "Java",
-                "last_commit": "2026-08-14T12:55:12Z",
+                "last_commit": "2026-08-19T09:47:40Z",
                 "owner": "usdAG",
                 "repo": "cstc",
                 "stars": 266
@@ -1671,7 +1671,7 @@
                 "archived": false,
                 "id": 195959897,
                 "language": "Java",
-                "last_commit": "2026-08-14T12:55:12Z",
+                "last_commit": "2026-08-19T09:47:40Z",
                 "owner": "usdAG",
                 "repo": "cstc",
                 "stars": 266
@@ -5965,8 +5965,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T08:53:11.429Z",
+    "last_updated": "2026-08-19T12:22:54.983Z",
     "original_repository": "snoopysecurity/awesome-burp-extensions",
+    "original_repository_id": 157096490,
     "original_repository_sha": "7cbf7fdf4d690af55b33be6fcf5cb7e6ac093e8c",
     "enhanced_repository": "enhansome/enhansome-burp-extensions",
     "enhanced_repository_description": null,

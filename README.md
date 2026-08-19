@@ -48,7 +48,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 *Passive and Active scan plugins.*
 
 * [BurpShiroPassiveScan](https://github.com/pmiaowu/BurpShiroPassiveScan) ⭐ 1,807 | 🐛 8 | 🌐 Java | 📅 2022-12-14 - A passive shiro detection plug-in based on BurpSuite
-* [InQL Scanner](https://github.com/doyensec/inql) ⭐ 1,799 | 🐛 30 | 🌐 Kotlin | 📅 2026-06-17 -  A Comprehensive Burp Extension for GraphQL Security Testing
+* [InQL Scanner](https://github.com/doyensec/inql) ⭐ 1,800 | 🐛 30 | 🌐 Kotlin | 📅 2026-06-17 -  A Comprehensive Burp Extension for GraphQL Security Testing
 * [403Bypasser](https://github.com/sting8k/BurpSuite_403Bypasser) ⭐ 1,703 | 🐛 8 | 🌐 Python | 📅 2023-06-29 - An burpsuite extension to bypass 403 restricted directory.
 * [RouteVulScan](https://github.com/F6JO/RouteVulScan) ⭐ 1,335 | 🐛 11 | 🌐 Java | 📅 2026-07-10 - Route Vulnerable scanning
 * [RouteVulScan](https://github.com/F6JO/RouteVulScan) ⭐ 1,335 | 🐛 11 | 🌐 Java | 📅 2026-07-10 - RouteVulScan is a burp plug-in developed using Java that can recursively detect vulnerable paths.
@@ -133,7 +133,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [BurpSuiteSharpener](https://github.com/mdsecresearch/BurpSuiteSharpener) ⭐ 523 | 🐛 22 | 🌐 Java | 📅 2023-06-05 - This extension should add a number of UI and functional features to Burp Suite to make working with it easier.
 * [match-replace-burp](https://github.com/daffainfo/match-replace-burp) ⭐ 374 | 🐛 0 | 📅 2023-09-26 - Useful Match and Replace BurpSuite Rules
 * [BadIntent](https://github.com/mateuszk87/BadIntent) ⚠️ Archived - Intercept, modify, repeat and attack Android's Binder transactions using Burp Suite.
-* [cstc](https://github.com/usdAG/cstc) ⭐ 266 | 🐛 6 | 🌐 Java | 📅 2026-08-14 - CSTC is a Burp Suite extension that allows request/response modification using a GUI analogous to CyberChef.
+* [cstc](https://github.com/usdAG/cstc) ⭐ 266 | 🐛 6 | 🌐 Java | 📅 2026-08-19 - CSTC is a Burp Suite extension that allows request/response modification using a GUI analogous to CyberChef.
 * [Hackvertor](https://github.com/hackvertor/hackvertor) ⭐ 249 | 🐛 5 | 🌐 Java | 📅 2026-06-03 - Hackvertor is a tag-based conversion tool that supports various escapes and encodings including HTML5 entities, hex, octal, unicode, url encoding etc.
 * [Stepper](https://github.com/CoreyD97/Stepper) ⚠️ Archived - A Multi-Stage Repeater Replacement For Burp Suite.
 * [Scope Monitor](https://github.com/Regala/burp-scope-monitor) ⭐ 198 | 🐛 10 | 🌐 Python | 📅 2021-03-31 - A Burp Suite Extension to monitor and keep track of tested endpoints.
@@ -187,7 +187,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 
 *Extensions related to beautifying and decoding data formats.*
 
-* [Cyber Security Transformation Chef](https://github.com/usdAG/cstc) ⭐ 266 | 🐛 6 | 🌐 Java | 📅 2026-08-14 - The Cyber Security Transformation Chef (CSTC) is a Burp Suite extension. It is build for security experts to extend Burp Suite for chaining simple operations for each incomming or outgoing message.
+* [Cyber Security Transformation Chef](https://github.com/usdAG/cstc) ⭐ 266 | 🐛 6 | 🌐 Java | 📅 2026-08-19 - The Cyber Security Transformation Chef (CSTC) is a Burp Suite extension. It is build for security experts to extend Burp Suite for chaining simple operations for each incomming or outgoing message.
 * [BurpAMFDSer](https://github.com/NetSPI/Burp-Extensions/tree/master/BurpAMFDSer) ⭐ 150 | 🐛 6 | 🌐 Java | 📅 2021-11-18 - BurpAMFDSer is a Burp plugin that will deserialze/serialize AMF request and response to and from XML with the use of Xtream library.
 * [Decoder Improved](https://github.com/nccgroup/Decoder-Improved) ⭐ 138 | 🐛 4 | 🌐 Java | 📅 2021-08-30 - Improved decoder for Burp Suite.
 * [burp-protobuf-decoder](https://github.com/mwielgoszewski/burp-protobuf-decoder) ⭐ 108 | 🐛 3 | 🌐 Python | 📅 2014-03-04 - A simple Google Protobuf Decoder for Burp
@@ -506,7 +506,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [HackBar](https://github.com/d3vilbug/HackBar) ⭐ 1,632 | 🐛 0 | 🌐 Java | 📅 2021-04-15 - HackBar plugin for Burpsuite v1.0.
 * [GAP (Get All Parameters, Links, and Words)](https://github.com/xnl-h4ck3r/GAP-Burp-Extension) ⭐ 1,529 | 🐛 5 | 🌐 Python | 📅 2026-01-08 - This extension helps find potential endpoints, parameters, and generate a custom target wordlist.
 * [HopLa](https://github.com/synacktiv/HopLa) ⭐ 836 | 🐛 5 | 🌐 Java | 📅 2026-04-01 - This extension adds autocompletion support and useful payloads in Burp Suite to make your intrusion easier.
-* [reCAPTCHA](https://github.com/bit4woo/reCAPTCHA.git) ⭐ 807 | 🐛 6 | 🌐 Java | 📅 2023-11-23 - A burp plugin that automatically recognizes the graphics verification code and is used for Payload in Intruder.
+* [reCAPTCHA](https://github.com/bit4woo/reCAPTCHA.git) ⭐ 807 | 🐛 5 | 🌐 Java | 📅 2023-11-23 - A burp plugin that automatically recognizes the graphics verification code and is used for Payload in Intruder.
 * [Agartha - LFI, RCE, SQLi, Authentication, Authorization and Copy as JavaScript](https://github.com/volkandindar/agartha) ⭐ 412 | 🐛 0 | 🌐 Python | 📅 2026-05-28 - Agartha is a penetration testing tool which creates dynamic payload lists and user access matrix to reveal injection flaws and authentication/authorization issues.
 * [Gather Contacts](https://github.com/clr2of8/GatherContacts) ⭐ 209 | 🐛 0 | 🌐 Java | 📅 2024-07-06 - A Burp Suite Extension to pull Employee Names from Google and Bing LinkedIn Search Results.
 * [Stepper](https://github.com/CoreyD97/Stepper) ⚠️ Archived - Stepper is designed to be a natural evolution of Burp Suite's Repeater tool, providing the ability to create sequences of steps and define regular expressions to extract values from responses which can then be used in subsequent steps.
