@@ -165,7 +165,7 @@
             "last_commit": "2025-10-29T11:27:56Z",
             "owner": "ilmila",
             "repo": "J2EEScan",
-            "stars": 679
+            "stars": 680
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2022-03-23T18:34:54Z",
             "owner": "codingo",
             "repo": "Minesweeper",
-            "stars": 202
+            "stars": 203
           }
         },
         {
@@ -3923,7 +3923,7 @@
                 "last_commit": "2019-05-04T06:15:42Z",
                 "owner": "nccgroup",
                 "repo": "BurpSuiteHTTPSmuggler",
-                "stars": 745
+                "stars": 744
               }
             },
             {
@@ -3938,7 +3938,7 @@
                 "last_commit": "2019-05-04T06:15:42Z",
                 "owner": "nccgroup",
                 "repo": "BurpSuiteHTTPSmuggler",
-                "stars": 745
+                "stars": 744
               }
             },
             {
@@ -3983,7 +3983,7 @@
                 "last_commit": "2023-07-23T17:41:09Z",
                 "owner": "julianjm",
                 "repo": "waf_bypadd",
-                "stars": 8
+                "stars": 7
               }
             },
             {
@@ -4050,7 +4050,7 @@
                 "last_commit": "2024-05-31T05:48:24Z",
                 "owner": "nccgroup",
                 "repo": "LoggerPlusPlus",
-                "stars": 711
+                "stars": 710
               }
             },
             {
@@ -5113,7 +5113,7 @@
                 "last_commit": "2025-10-22T13:47:39Z",
                 "owner": "projectdiscovery",
                 "repo": "nuclei-burp-plugin",
-                "stars": 1345
+                "stars": 1344
               }
             },
             {
@@ -5300,7 +5300,7 @@
                 "last_commit": "2026-06-10T17:40:25Z",
                 "owner": "bugcrowd",
                 "repo": "HUNT",
-                "stars": 2329
+                "stars": 2330
               }
             },
             {
@@ -5315,7 +5315,7 @@
                 "last_commit": "2026-06-26T04:55:43Z",
                 "owner": "bit4woo",
                 "repo": "knife",
-                "stars": 1962
+                "stars": 1963
               }
             },
             {
@@ -5965,7 +5965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T08:55:24.474Z",
+    "last_updated": "2026-08-21T08:56:31.994Z",
     "original_repository": "snoopysecurity/awesome-burp-extensions",
     "original_repository_id": 157096490,
     "original_repository_sha": "7cbf7fdf4d690af55b33be6fcf5cb7e6ac093e8c",
