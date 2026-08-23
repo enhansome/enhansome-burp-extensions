@@ -15,7 +15,7 @@
             "last_commit": "2022-12-14T20:55:01Z",
             "owner": "pmiaowu",
             "repo": "BurpShiroPassiveScan",
-            "stars": 1807
+            "stars": 1806
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-06-17T14:00:52Z",
             "owner": "doyensec",
             "repo": "inql",
-            "stars": 1800
+            "stars": 1801
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-07-10T04:28:46Z",
             "owner": "F6JO",
             "repo": "RouteVulScan",
-            "stars": 1335
+            "stars": 1334
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-10T04:28:46Z",
             "owner": "F6JO",
             "repo": "RouteVulScan",
-            "stars": 1335
+            "stars": 1334
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2025-10-01T19:27:14Z",
             "owner": "vulnersCom",
             "repo": "burp-vulners-scanner",
-            "stars": 900
+            "stars": 901
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2026-05-28T09:08:34Z",
             "owner": "volkandindar",
             "repo": "agartha",
-            "stars": 413
+            "stars": 414
           }
         },
         {
@@ -4417,7 +4417,7 @@
                 "last_commit": "2026-05-28T09:08:34Z",
                 "owner": "volkandindar",
                 "repo": "agartha",
-                "stars": 413
+                "stars": 414
               }
             },
             {
@@ -5315,7 +5315,7 @@
                 "last_commit": "2026-06-26T04:55:43Z",
                 "owner": "bit4woo",
                 "repo": "knife",
-                "stars": 1963
+                "stars": 1962
               }
             },
             {
@@ -5965,7 +5965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T08:45:59.998Z",
+    "last_updated": "2026-08-23T08:46:54.515Z",
     "original_repository": "snoopysecurity/awesome-burp-extensions",
     "original_repository_id": 157096490,
     "original_repository_sha": "7cbf7fdf4d690af55b33be6fcf5cb7e6ac093e8c",
