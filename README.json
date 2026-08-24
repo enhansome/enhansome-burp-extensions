@@ -1996,7 +1996,7 @@
                 "last_commit": "2026-07-09T03:20:37Z",
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2131
+                "stars": 2132
               }
             },
             {
@@ -3841,6 +3841,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "CORS* - Additional CORS Checks",
+                  "description": "This extension can be used to test websites for CORS misconfigurations.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 395431416,
+                    "language": "Kotlin",
+                    "last_commit": "2022-05-20T15:30:05Z",
+                    "owner": "ybieri",
+                    "repo": "Additional_CORS_Checks",
+                    "stars": 10
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "CORS Misconfigurations"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Argument Injection Hammer",
                   "description": "it is used to identify argument injection vulnerabilities, like curl awk etc, and sth just like these",
                   "children": [],
@@ -3873,6 +3895,72 @@
               "description": null,
               "node_type": "group",
               "title": "Command Injection"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "tplmap Burp Extenson",
+                  "description": "Burp extension for Tplmap, a Server-Side Template Injection and Code Injection Detection and Exploitation Tool",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 62751496,
+                    "language": "Python",
+                    "last_commit": "2024-04-21T14:47:13Z",
+                    "owner": "epinna",
+                    "repo": "tplmap",
+                    "stars": 4196
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Template Injection"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Type Confusion Extension",
+                  "description": "This Burp Extension was created by Certus Cybersecurity to help find type confusion vulnerablities in applications.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 635352412,
+                    "language": "Python",
+                    "last_commit": "2023-05-16T16:17:17Z",
+                    "owner": "certuscyber",
+                    "repo": "bapp-certus",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Type Confusion"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Encode IP",
+                  "description": "This extension will encode an IP address using a variety of lesser-known encoding techniques",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 667612466,
+                    "language": "Python",
+                    "last_commit": "2024-03-04T00:02:45Z",
+                    "owner": "e1abrador",
+                    "repo": "Burp-Encode-IP",
+                    "stars": 48
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "SSRF"
             }
           ],
           "description": null,
@@ -5965,7 +6053,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:02:50.152Z",
+    "last_updated": "2026-08-24T13:59:26.666Z",
     "original_repository": "snoopysecurity/awesome-burp-extensions",
     "original_repository_id": 157096490,
     "original_repository_sha": "7cbf7fdf4d690af55b33be6fcf5cb7e6ac093e8c",
