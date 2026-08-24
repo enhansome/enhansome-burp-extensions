@@ -90,7 +90,7 @@
             "last_commit": "2026-08-13T10:42:16Z",
             "owner": "PortSwigger",
             "repo": "http-request-smuggler",
-            "stars": 1234
+            "stars": 1235
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2023-09-24T08:29:56Z",
             "owner": "silentsignal",
             "repo": "burp-log4shell",
-            "stars": 486
+            "stars": 487
           }
         },
         {
@@ -917,7 +917,7 @@
                 "last_commit": "2024-04-26T01:17:17Z",
                 "owner": "wagiro",
                 "repo": "BurpBounty",
-                "stars": 1808
+                "stars": 1809
               }
             },
             {
@@ -947,7 +947,7 @@
                 "last_commit": "2024-08-07T14:49:45Z",
                 "owner": "yeswehack",
                 "repo": "PwnFox",
-                "stars": 1338
+                "stars": 1339
               }
             },
             {
@@ -1037,7 +1037,7 @@
                 "last_commit": "2026-08-20T06:02:33Z",
                 "owner": "usdAG",
                 "repo": "cstc",
-                "stars": 266
+                "stars": 267
               }
             },
             {
@@ -1187,7 +1187,7 @@
                 "last_commit": "2026-08-10T19:31:13Z",
                 "owner": "snyk",
                 "repo": "socketsleuth",
-                "stars": 107
+                "stars": 108
               }
             },
             {
@@ -1202,7 +1202,7 @@
                 "last_commit": "2026-08-10T19:31:13Z",
                 "owner": "snyk",
                 "repo": "socketsleuth",
-                "stars": 107
+                "stars": 108
               }
             },
             {
@@ -1674,7 +1674,7 @@
                 "last_commit": "2026-08-20T06:02:33Z",
                 "owner": "usdAG",
                 "repo": "cstc",
-                "stars": 266
+                "stars": 267
               }
             },
             {
@@ -1996,7 +1996,7 @@
                 "last_commit": "2026-07-09T03:20:37Z",
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2132
+                "stars": 2131
               }
             },
             {
@@ -3269,7 +3269,7 @@
                     "last_commit": "2024-03-22T18:00:59Z",
                     "owner": "InitRoot",
                     "repo": "BurpJSLinkFinder",
-                    "stars": 821
+                    "stars": 820
                   }
                 },
                 {
@@ -3431,7 +3431,7 @@
                     "archived": false,
                     "id": 556012246,
                     "language": "Java",
-                    "last_commit": "2026-08-20T02:02:54Z",
+                    "last_commit": "2026-08-24T02:03:16Z",
                     "owner": "levoai",
                     "repo": "levoai-burp-extension",
                     "stars": 31
@@ -3501,7 +3501,7 @@
                     "last_commit": "2025-05-16T20:08:44Z",
                     "owner": "codewatchorg",
                     "repo": "sqlipy",
-                    "stars": 260
+                    "stars": 261
                   }
                 },
                 {
@@ -4402,7 +4402,7 @@
                 "last_commit": "2023-11-23T07:25:15Z",
                 "owner": "bit4woo",
                 "repo": "reCAPTCHA",
-                "stars": 807
+                "stars": 808
               }
             },
             {
@@ -5315,7 +5315,7 @@
                 "last_commit": "2026-06-26T04:55:43Z",
                 "owner": "bit4woo",
                 "repo": "knife",
-                "stars": 1962
+                "stars": 1963
               }
             },
             {
@@ -5375,7 +5375,7 @@
                 "last_commit": "2018-08-01T19:26:44Z",
                 "owner": "0x4D31",
                 "repo": "burpa",
-                "stars": 535
+                "stars": 536
               }
             },
             {
@@ -5965,7 +5965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T08:46:54.515Z",
+    "last_updated": "2026-08-24T09:02:50.152Z",
     "original_repository": "snoopysecurity/awesome-burp-extensions",
     "original_repository_id": 157096490,
     "original_repository_sha": "7cbf7fdf4d690af55b33be6fcf5cb7e6ac093e8c",
