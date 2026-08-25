@@ -90,7 +90,7 @@
             "last_commit": "2026-08-13T10:42:16Z",
             "owner": "PortSwigger",
             "repo": "http-request-smuggler",
-            "stars": 1235
+            "stars": 1236
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2025-04-30T10:46:54Z",
             "owner": "PortSwigger",
             "repo": "backslash-powered-scanner",
-            "stars": 716
+            "stars": 717
           }
         },
         {
@@ -902,7 +902,7 @@
                 "last_commit": "2026-08-21T19:11:41Z",
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4364
+                "stars": 4363
               }
             },
             {
@@ -932,7 +932,7 @@
                 "last_commit": "2026-01-08T19:23:17Z",
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1529
+                "stars": 1530
               }
             },
             {
@@ -2325,7 +2325,7 @@
                 "last_commit": "2024-10-26T15:28:32Z",
                 "owner": "akabe1",
                 "repo": "OAUTHScan",
-                "stars": 179
+                "stars": 180
               }
             },
             {
@@ -2701,7 +2701,7 @@
                     "last_commit": "2021-02-02T15:54:40Z",
                     "owner": "elkokc",
                     "repo": "reflector",
-                    "stars": 1213
+                    "stars": 1214
                   }
                 },
                 {
@@ -3254,7 +3254,7 @@
                     "last_commit": "2026-01-08T19:23:17Z",
                     "owner": "xnl-h4ck3r",
                     "repo": "GAP-Burp-Extension",
-                    "stars": 1529
+                    "stars": 1530
                   }
                 },
                 {
@@ -3993,7 +3993,7 @@
                 "archived": false,
                 "id": 451267945,
                 "language": "Java",
-                "last_commit": "2026-08-20T05:37:15Z",
+                "last_commit": "2026-08-24T21:05:06Z",
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
                 "stars": 1889
@@ -4056,7 +4056,7 @@
                 "last_commit": "2022-09-27T10:23:30Z",
                 "owner": "Gilzy",
                 "repo": "403Bypasser",
-                "stars": 57
+                "stars": 58
               }
             },
             {
@@ -4460,7 +4460,7 @@
                 "last_commit": "2026-01-08T19:23:17Z",
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1529
+                "stars": 1530
               }
             },
             {
@@ -4939,7 +4939,7 @@
                 "last_commit": "2024-05-25T16:08:59Z",
                 "owner": "summitt",
                 "repo": "Nope-Proxy",
-                "stars": 1662
+                "stars": 1663
               }
             },
             {
@@ -5388,7 +5388,7 @@
                 "last_commit": "2026-06-10T17:40:25Z",
                 "owner": "bugcrowd",
                 "repo": "HUNT",
-                "stars": 2330
+                "stars": 2331
               }
             },
             {
@@ -6053,7 +6053,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:59:26.666Z",
+    "last_updated": "2026-08-25T05:51:35.767Z",
     "original_repository": "snoopysecurity/awesome-burp-extensions",
     "original_repository_id": 157096490,
     "original_repository_sha": "7cbf7fdf4d690af55b33be6fcf5cb7e6ac093e8c",
