@@ -552,14 +552,14 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 *Extensions useful for assessing Web Services*
 
 * [Burp Non HTTP Extension](https://github.com/summitt/Burp-Non-HTTP-Extension) ⭐ 1,663 | 🐛 22 | 🌐 Java | 📅 2024-05-25 - Non-HTTP Protocol Extension (NoPE) Proxy and DNS for Burp Suite.
-* [WSDLer](https://github.com/NetSPI/Wsdler) ⭐ 284 | 🐛 6 | 🌐 Java | 📅 2018-06-25 - WSDL Parser extension for Burp.
+* [WSDLer](https://github.com/NetSPI/Wsdler) ⭐ 283 | 🐛 6 | 🌐 Java | 📅 2018-06-25 - WSDL Parser extension for Burp.
 * [Swurg](https://github.com/AresS31/swurg) ⭐ 208 | 🐛 13 | 🌐 Java | 📅 2024-01-03 - Swurg is a Burp Suite extension designed for OpenAPI testing.
 * [BurpWCFDSer](https://github.com/NetSPI/Burp-Extensions/tree/master/BurpWCFDser) ⭐ 150 | 🐛 6 | 🌐 Java | 📅 2021-11-18 - BurpWCFDSer is a Burp plugin that will deserialze/serialize WCF request and response to and from XML.
 * [Content Type Converter](https://github.com/NetSPI/Burp-Extensions/tree/master/ContentTypeConverter) ⭐ 150 | 🐛 6 | 🌐 Java | 📅 2021-11-18 - Burp extension to convert XML to JSON, JSON to XML, x-www-form-urlencoded to XML, and x-www-form-urlencoded to JSON.
 * [5GC\_API\_parse](https://github.com/PentHertz/5GC_API_parse) ⭐ 80 | 🐛 2 | 🌐 Python | 📅 2021-07-22 - 5GC API parse is a BurpSuite extension allowing to assess 5G core network functions, by parsing the OpenAPI 3.0 not supported by previous OpenAPI extension in Burp, and generating requests for intrusion tests purposes.
 * [WCF-Binary-SOAP-Plug-In](https://github.com/GDSSecurity/WCF-Binary-SOAP-Plug-In) ⭐ 46 | 🐛 1 | 🌐 C# | 📅 2020-01-21 - This is a Burp Suite plug-in designed to encode and decode WCF Binary Soap request and response data ("Content-Type: application/soap+msbin1).
 * [SwaggerParser-BurpExtension](https://github.com/Trendyol/swagger-parser-burp-extension) ⭐ 44 | 🐛 5 | 🌐 Python | 📅 2025-09-25 - With this extension, you can parse Swagger Documents. You can view the parsed requests in the table and send them to Repeater, Intruder, Scanner.
-* [WCFDSer-ngng](https://github.com/nccgroup/WCFDSer-ngng) ⭐ 31 | 🐛 2 | 🌐 Java | 📅 2022-02-21 - A Burp Extender plugin, that will make binary soap objects readable and modifiable.
+* [WCFDSer-ngng](https://github.com/nccgroup/WCFDSer-ngng) ⭐ 30 | 🐛 2 | 🌐 Java | 📅 2022-02-21 - A Burp Extender plugin, that will make binary soap objects readable and modifiable.
 * [burp-suite-swaggy](https://github.com/augustd/burp-suite-swaggy) ⭐ 20 | 🐛 12 | 🌐 Java | 📅 2025-07-15 - Burp Suite extension for parsing Swagger web service definition files.
 * [UPnP Hunter](https://github.com/akabe1/upnp-bhunter) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2021-11-09 - This extension finds active UPnP services/devices and extracts the related SOAP requests (IPv4 and IPv6 are supported), it then analyzes them using any of the various Burp tools (i.e. Intruder, Repeater)
 * [WSDL Wizard](https://github.com/SmeegeSec/WSDLWizard) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2014-03-08 - WSDL Wizard is a Burp Suite plugin written in Python to detect current and discover new WSDL (Web Service Definition Language) files.

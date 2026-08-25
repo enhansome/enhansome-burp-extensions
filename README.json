@@ -4954,7 +4954,7 @@
                 "last_commit": "2018-06-25T21:25:36Z",
                 "owner": "NetSPI",
                 "repo": "Wsdler",
-                "stars": 284
+                "stars": 283
               }
             },
             {
@@ -5059,7 +5059,7 @@
                 "last_commit": "2022-02-21T14:55:02Z",
                 "owner": "nccgroup",
                 "repo": "WCFDSer-ngng",
-                "stars": 31
+                "stars": 30
               }
             },
             {
@@ -6053,7 +6053,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:51:35.767Z",
+    "last_updated": "2026-08-25T08:58:33.208Z",
     "original_repository": "snoopysecurity/awesome-burp-extensions",
     "original_repository_id": 157096490,
     "original_repository_sha": "7cbf7fdf4d690af55b33be6fcf5cb7e6ac093e8c",
