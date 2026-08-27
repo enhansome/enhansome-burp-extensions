@@ -4430,7 +4430,7 @@
                 "last_commit": "2026-08-13T10:44:48Z",
                 "owner": "PortSwigger",
                 "repo": "turbo-intruder",
-                "stars": 1797
+                "stars": 1798
               }
             },
             {
@@ -5186,7 +5186,7 @@
                 "last_commit": "2025-10-30T13:47:46Z",
                 "owner": "federicodotta",
                 "repo": "Brida",
-                "stars": 1889
+                "stars": 1890
               }
             },
             {
@@ -5388,7 +5388,7 @@
                 "last_commit": "2026-08-26T04:21:39Z",
                 "owner": "bugcrowd",
                 "repo": "HUNT",
-                "stars": 2331
+                "stars": 2332
               }
             },
             {
@@ -6053,7 +6053,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:31:15.046Z",
+    "last_updated": "2026-08-27T19:03:40.042Z",
     "original_repository_info": {
       "archived": false,
       "id": 157096490,
