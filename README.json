@@ -2482,7 +2482,7 @@
                 "last_commit": "2023-07-16T02:34:50Z",
                 "owner": "bit4woo",
                 "repo": "domain_hunter",
-                "stars": 673
+                "stars": 675
               }
             },
             {
@@ -3359,7 +3359,7 @@
                     "last_commit": "2026-01-26T21:53:27Z",
                     "owner": "CYS4srl",
                     "repo": "SensitiveDiscoverer",
-                    "stars": 52
+                    "stars": 53
                   }
                 },
                 {
@@ -3374,7 +3374,7 @@
                     "last_commit": "2026-01-26T21:53:27Z",
                     "owner": "CYS4srl",
                     "repo": "SensitiveDiscoverer",
-                    "stars": 52
+                    "stars": 53
                   }
                 },
                 {
@@ -4113,7 +4113,7 @@
                 "archived": false,
                 "id": 1324634664,
                 "language": "Java",
-                "last_commit": "2026-08-07T10:17:37Z",
+                "last_commit": "2026-08-27T03:24:33Z",
                 "owner": "Robin528919",
                 "repo": "burp-awesome-tls-plus",
                 "stars": 1
@@ -4430,7 +4430,7 @@
                 "last_commit": "2026-08-13T10:44:48Z",
                 "owner": "PortSwigger",
                 "repo": "turbo-intruder",
-                "stars": 1796
+                "stars": 1797
               }
             },
             {
@@ -6053,9 +6053,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:00:48.853Z",
-    "original_repository": "snoopysecurity/awesome-burp-extensions",
-    "original_repository_id": 157096490,
+    "last_updated": "2026-08-27T11:31:15.046Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 157096490,
+      "language": null,
+      "last_commit": "2026-08-15T21:15:14Z",
+      "owner": "snoopysecurity",
+      "repo": "awesome-burp-extensions",
+      "stars": 3440
+    },
     "original_repository_sha": "7cbf7fdf4d690af55b33be6fcf5cb7e6ac093e8c",
     "enhanced_repository": "enhansome/enhansome-burp-extensions",
     "enhanced_repository_description": null,
