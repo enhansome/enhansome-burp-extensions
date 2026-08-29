@@ -245,7 +245,7 @@
             "open_issues": 17,
             "owner": "ilmila",
             "repo": "J2EEScan",
-            "stars": 680,
+            "stars": 681,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4364,
+                "stars": 4366,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -1541,7 +1541,7 @@
                 "open_issues": 20,
                 "owner": "yeswehack",
                 "repo": "PwnFox",
-                "stars": 1339,
+                "stars": 1340,
                 "topics": [
                   "bugbounty",
                   "firefox-extension",
@@ -4495,7 +4495,7 @@
                     "open_issues": 10,
                     "owner": "Quitten",
                     "repo": "Autorize",
-                    "stars": 1169,
+                    "stars": 1168,
                     "topics": [
                       "application-security",
                       "authorization",
@@ -6910,7 +6910,7 @@
                 "open_issues": 19,
                 "owner": "PortSwigger",
                 "repo": "turbo-intruder",
-                "stars": 1799,
+                "stars": 1800,
                 "topics": [
                   "extension"
                 ]
@@ -8144,7 +8144,7 @@
                 "open_issues": 11,
                 "owner": "federicodotta",
                 "repo": "Brida",
-                "stars": 1890,
+                "stars": 1889,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -9467,7 +9467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:21:55.174Z",
+    "last_updated": "2026-08-29T13:49:11.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
