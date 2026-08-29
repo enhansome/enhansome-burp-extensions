@@ -50,8 +50,8 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [BurpShiroPassiveScan](https://github.com/pmiaowu/BurpShiroPassiveScan) ⭐ 1,806 | 🐛 8 | 🌐 Java | 📅 2022-12-14 - A passive shiro detection plug-in based on BurpSuite
 * [InQL Scanner](https://github.com/doyensec/inql) ⭐ 1,802 | 🐛 30 | 🌐 Kotlin | 📅 2026-06-17 -  A Comprehensive Burp Extension for GraphQL Security Testing
 * [403Bypasser](https://github.com/sting8k/BurpSuite_403Bypasser) ⭐ 1,705 | 🐛 8 | 🌐 Python | 📅 2023-06-29 - An burpsuite extension to bypass 403 restricted directory.
-* [RouteVulScan](https://github.com/F6JO/RouteVulScan) ⭐ 1,334 | 🐛 11 | 🌐 Java | 📅 2026-07-10 - Route Vulnerable scanning
-* [RouteVulScan](https://github.com/F6JO/RouteVulScan) ⭐ 1,334 | 🐛 11 | 🌐 Java | 📅 2026-07-10 - RouteVulScan is a burp plug-in developed using Java that can recursively detect vulnerable paths.
+* [RouteVulScan](https://github.com/F6JO/RouteVulScan) ⭐ 1,335 | 🐛 11 | 🌐 Java | 📅 2026-07-10 - Route Vulnerable scanning
+* [RouteVulScan](https://github.com/F6JO/RouteVulScan) ⭐ 1,335 | 🐛 11 | 🌐 Java | 📅 2026-07-10 - RouteVulScan is a burp plug-in developed using Java that can recursively detect vulnerable paths.
 * [HTTP Request Smuggler](https://github.com/portswigger/http-request-smuggler) ⭐ 1,237 | 🐛 13 | 🌐 Java | 📅 2026-08-13 - This is an extension for Burp Suite designed to help you launch HTTP Request Smuggling attacks, originally created during HTTP Desync Attacks research. It supports scanning for Request Smuggling vulnerabilities, and also aids exploitation by handling cumbersome offset-tweaking for you.
 * [Burp Vulners Scanner](https://github.com/vulnersCom/burp-vulners-scanner) ⭐ 901 | 🐛 7 | 🌐 Java | 📅 2025-10-01 - Vulnerability scanner based on vulners.com search API.
 * [Log4j2Scan](https://github.com/whwlsfb/Log4j2Scan) ⭐ 836 | 🐛 12 | 🌐 Java | 📅 2023-08-04 - Log4j2 Remote Code Execution Vulnerability, Passive Scan Plugin for BurpSuite.
@@ -696,4 +696,4 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
