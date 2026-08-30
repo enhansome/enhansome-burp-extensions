@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "pmiaowu",
             "repo": "BurpShiroPassiveScan",
-            "stars": 1806,
+            "stars": 1805,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -40,7 +40,7 @@
             "open_issues": 30,
             "owner": "doyensec",
             "repo": "inql",
-            "stars": 1802,
+            "stars": 1803,
             "topics": [
               "api-documentation-tool",
               "bugbounty",
@@ -94,7 +94,7 @@
             "open_issues": 11,
             "owner": "F6JO",
             "repo": "RouteVulScan",
-            "stars": 1335,
+            "stars": 1334,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -115,7 +115,7 @@
             "open_issues": 11,
             "owner": "F6JO",
             "repo": "RouteVulScan",
-            "stars": 1335,
+            "stars": 1334,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -136,7 +136,7 @@
             "open_issues": 13,
             "owner": "PortSwigger",
             "repo": "http-request-smuggler",
-            "stars": 1237,
+            "stars": 1238,
             "topics": [
               "extension"
             ]
@@ -180,7 +180,7 @@
             "open_issues": 12,
             "owner": "whwlsfb",
             "repo": "Log4j2Scan",
-            "stars": 836,
+            "stars": 835,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1520,7 +1520,7 @@
                 "open_issues": 5,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1530,
+                "stars": 1531,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -3809,7 +3809,7 @@
                 "id": 468860328,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T18:09:19Z",
+                "last_commit": "2026-08-29T14:49:12Z",
                 "open_issues": 4,
                 "owner": "DolphFlynn",
                 "repo": "jwt-editor",
@@ -4495,7 +4495,7 @@
                     "open_issues": 10,
                     "owner": "Quitten",
                     "repo": "Autorize",
-                    "stars": 1168,
+                    "stars": 1169,
                     "topics": [
                       "application-security",
                       "authorization",
@@ -4599,7 +4599,7 @@
                     "open_issues": 11,
                     "owner": "JGillam",
                     "repo": "burp-paramalyzer",
-                    "stars": 159,
+                    "stars": 160,
                     "topics": [
                       "pentesting"
                     ]
@@ -5124,7 +5124,7 @@
                     "open_issues": 5,
                     "owner": "xnl-h4ck3r",
                     "repo": "GAP-Burp-Extension",
-                    "stars": 1530,
+                    "stars": 1531,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5194,7 +5194,7 @@
                     "open_issues": 2,
                     "owner": "vsec7",
                     "repo": "BurpSuite-Xkeys",
-                    "stars": 313,
+                    "stars": 314,
                     "topics": [
                       "burp-extensions",
                       "burpsuite",
@@ -5724,7 +5724,7 @@
                     "open_issues": 75,
                     "owner": "modzero",
                     "repo": "mod0BurpUploadScanner",
-                    "stars": 494,
+                    "stars": 493,
                     "topics": [
                       "burp",
                       "extension",
@@ -6175,7 +6175,7 @@
                 "open_issues": 5,
                 "owner": "c0ny1",
                 "repo": "chunked-coding-converter",
-                "stars": 2029,
+                "stars": 2028,
                 "topics": [
                   "burpsuite-extender",
                   "chunked",
@@ -6910,7 +6910,7 @@
                 "open_issues": 19,
                 "owner": "PortSwigger",
                 "repo": "turbo-intruder",
-                "stars": 1800,
+                "stars": 1801,
                 "topics": [
                   "extension"
                 ]
@@ -6962,7 +6962,7 @@
                 "open_issues": 5,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1530,
+                "stars": 1531,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -7482,7 +7482,7 @@
                 "open_issues": 16,
                 "owner": "whwlsfb",
                 "repo": "BurpCrypto",
-                "stars": 1648,
+                "stars": 1647,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -8442,7 +8442,7 @@
                 "open_issues": 12,
                 "owner": "bugcrowd",
                 "repo": "HUNT",
-                "stars": 2331,
+                "stars": 2332,
                 "topics": [
                   "burpsuite",
                   "hunt",
@@ -8467,7 +8467,7 @@
                 "open_issues": 35,
                 "owner": "bit4woo",
                 "repo": "knife",
-                "stars": 1963,
+                "stars": 1962,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -9467,7 +9467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T13:49:11.096Z",
+    "last_updated": "2026-08-30T13:47:15.564Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
