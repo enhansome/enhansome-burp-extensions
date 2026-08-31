@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "pmiaowu",
             "repo": "BurpShiroPassiveScan",
-            "stars": 1805,
+            "stars": 1806,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -37,7 +37,7 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-06-17T14:00:52Z",
-            "open_issues": 30,
+            "open_issues": 29,
             "owner": "doyensec",
             "repo": "inql",
             "stars": 1803,
@@ -136,7 +136,7 @@
             "open_issues": 13,
             "owner": "PortSwigger",
             "repo": "http-request-smuggler",
-            "stars": 1238,
+            "stars": 1239,
             "topics": [
               "extension"
             ]
@@ -934,7 +934,7 @@
             "open_issues": 4,
             "owner": "minamo7sen",
             "repo": "burp-JS-Miner",
-            "stars": 58,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1492,7 +1492,7 @@
                 "open_issues": 7,
                 "owner": "wagiro",
                 "repo": "BurpBounty",
-                "stars": 1811,
+                "stars": 1812,
                 "topics": [
                   "bug-bounty",
                   "bugbounty",
@@ -3181,7 +3181,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2134,
+                "stars": 2136,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -3809,7 +3809,7 @@
                 "id": 468860328,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T14:49:12Z",
+                "last_commit": "2026-08-31T16:06:59Z",
                 "open_issues": 4,
                 "owner": "DolphFlynn",
                 "repo": "jwt-editor",
@@ -5208,27 +5208,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Interesting Files Scanner",
-                  "description": "Interesting Files Scanner extends Burp Suite's active scanner, with scans for interesting files and directories. A main feature of the extension is the check for false positives with tested patterns for each case.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": true,
-                    "description": "Burp extension",
-                    "homepage": null,
-                    "id": 134702179,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2018-06-18T08:57:44Z",
-                    "open_issues": 0,
-                    "owner": "modzero",
-                    "repo": "interestingFileScanner",
-                    "stars": 58,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:11:33.961Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Burp JS Miner",
                   "description": "This tool tries to find interesting stuff inside static files; mainly JavaScript and JSON files.",
                   "children": [],
@@ -5243,6 +5222,27 @@
                     "open_issues": 4,
                     "owner": "minamo7sen",
                     "repo": "burp-JS-Miner",
+                    "stars": 59,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T20:11:33.961Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Interesting Files Scanner",
+                  "description": "Interesting Files Scanner extends Burp Suite's active scanner, with scans for interesting files and directories. A main feature of the extension is the check for false positives with tested patterns for each case.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "Burp extension",
+                    "homepage": null,
+                    "id": 134702179,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2018-06-18T08:57:44Z",
+                    "open_issues": 0,
+                    "owner": "modzero",
+                    "repo": "interestingFileScanner",
                     "stars": 58,
                     "topics": []
                   },
@@ -5285,7 +5285,7 @@
                     "open_issues": 3,
                     "owner": "CYS4srl",
                     "repo": "SensitiveDiscoverer",
-                    "stars": 53,
+                    "stars": 54,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5306,7 +5306,7 @@
                     "open_issues": 3,
                     "owner": "CYS4srl",
                     "repo": "SensitiveDiscoverer",
-                    "stars": 53,
+                    "stars": 54,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6200,7 +6200,7 @@
                 "open_issues": 11,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1889,
+                "stars": 1888,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -7011,7 +7011,7 @@
                 "open_issues": 5,
                 "owner": "bit4woo",
                 "repo": "reCAPTCHA",
-                "stars": 808,
+                "stars": 809,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -8442,7 +8442,7 @@
                 "open_issues": 12,
                 "owner": "bugcrowd",
                 "repo": "HUNT",
-                "stars": 2332,
+                "stars": 2333,
                 "topics": [
                   "burpsuite",
                   "hunt",
@@ -9467,7 +9467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T13:47:15.564Z",
+    "last_updated": "2026-08-31T16:08:36.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
