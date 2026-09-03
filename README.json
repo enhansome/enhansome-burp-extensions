@@ -201,7 +201,7 @@
             "open_issues": 11,
             "owner": "federicodotta",
             "repo": "Java-Deserialization-Scanner",
-            "stars": 802,
+            "stars": 803,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1520,7 +1520,7 @@
                 "open_issues": 5,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1531,
+                "stars": 1532,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1684,8 +1684,8 @@
                 "id": 195959897,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-20T06:02:33Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-03T06:02:14Z",
+                "open_issues": 9,
                 "owner": "usdAG",
                 "repo": "cstc",
                 "stars": 267,
@@ -1807,7 +1807,7 @@
                 "open_issues": 1,
                 "owner": "moeinfatehi",
                 "repo": "Backup-Finder",
-                "stars": 165,
+                "stars": 166,
                 "topics": [
                   "application-security",
                   "appsecurity",
@@ -2674,8 +2674,8 @@
                 "id": 195959897,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-20T06:02:33Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-03T06:02:14Z",
+                "open_issues": 9,
                 "owner": "usdAG",
                 "repo": "cstc",
                 "stars": 267,
@@ -3181,7 +3181,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2136,
+                "stars": 2137,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -3687,7 +3687,7 @@
                 "open_issues": 2,
                 "owner": "d0ge",
                 "repo": "sign-saboteur",
-                "stars": 171,
+                "stars": 172,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -4954,7 +4954,7 @@
                     "open_issues": 11,
                     "owner": "federicodotta",
                     "repo": "Java-Deserialization-Scanner",
-                    "stars": 802,
+                    "stars": 803,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5124,7 +5124,7 @@
                     "open_issues": 5,
                     "owner": "xnl-h4ck3r",
                     "repo": "GAP-Burp-Extension",
-                    "stars": 1531,
+                    "stars": 1532,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5386,8 +5386,8 @@
                     "id": 556012246,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-24T02:03:16Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-09-02T21:09:25Z",
+                    "open_issues": 3,
                     "owner": "levoai",
                     "repo": "levoai-burp-extension",
                     "stars": 31,
@@ -5830,7 +5830,7 @@
                     "id": 258202669,
                     "language": "Java",
                     "license": null,
-                    "last_commit": "2024-04-24T11:56:38Z",
+                    "last_commit": "2026-09-02T19:59:19Z",
                     "open_issues": 17,
                     "owner": "synopsys-sig",
                     "repo": "ATOR-Burp",
@@ -6077,7 +6077,7 @@
                     "open_issues": 46,
                     "owner": "epinna",
                     "repo": "tplmap",
-                    "stars": 4196,
+                    "stars": 4198,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6196,8 +6196,8 @@
                 "id": 451267945,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-01T23:34:15Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-02T23:54:37Z",
+                "open_issues": 13,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
                 "stars": 1889,
@@ -6962,7 +6962,7 @@
                 "open_issues": 5,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1531,
+                "stars": 1532,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -7576,7 +7576,7 @@
                 "open_issues": 0,
                 "owner": "Anof-cyber",
                 "repo": "PyCript",
-                "stars": 219,
+                "stars": 220,
                 "topics": [
                   "application-security",
                   "bug-bounty",
@@ -8144,7 +8144,7 @@
                 "open_issues": 11,
                 "owner": "federicodotta",
                 "repo": "Brida",
-                "stars": 1890,
+                "stars": 1891,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8442,7 +8442,7 @@
                 "open_issues": 12,
                 "owner": "bugcrowd",
                 "repo": "HUNT",
-                "stars": 2332,
+                "stars": 2333,
                 "topics": [
                   "burpsuite",
                   "hunt",
@@ -9467,7 +9467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:45:14.707Z",
+    "last_updated": "2026-09-03T12:48:37.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
@@ -9479,7 +9479,7 @@
       "open_issues": 1,
       "owner": "snoopysecurity",
       "repo": "awesome-burp-extensions",
-      "stars": 3440,
+      "stars": 3441,
       "topics": []
     },
     "original_repository_sha": "7cbf7fdf4d690af55b33be6fcf5cb7e6ac093e8c",
