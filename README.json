@@ -3181,7 +3181,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2138,
+                "stars": 2137,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -3809,8 +3809,8 @@
                 "id": 468860328,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T16:19:07Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-04T16:55:32Z",
+                "open_issues": 3,
                 "owner": "DolphFlynn",
                 "repo": "jwt-editor",
                 "stars": 31,
@@ -6910,7 +6910,7 @@
                 "open_issues": 19,
                 "owner": "PortSwigger",
                 "repo": "turbo-intruder",
-                "stars": 1803,
+                "stars": 1804,
                 "topics": [
                   "extension"
                 ]
@@ -9467,7 +9467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:42:25.266Z",
+    "last_updated": "2026-09-05T11:49:16.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
@@ -9479,7 +9479,7 @@
       "open_issues": 1,
       "owner": "snoopysecurity",
       "repo": "awesome-burp-extensions",
-      "stars": 3440,
+      "stars": 3441,
       "topics": []
     },
     "original_repository_sha": "7cbf7fdf4d690af55b33be6fcf5cb7e6ac093e8c",

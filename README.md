@@ -222,7 +222,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 
 *Plugins related to assessing Cloud Security services such as Amazon AWS.*
 
-* [cloud\_enum](https://github.com/initstring/cloud_enum) ⭐ 2,138 | 🐛 0 | 🌐 Python | 📅 2026-07-09 - Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud. Must be run from a \*nix environment.
+* [cloud\_enum](https://github.com/initstring/cloud_enum) ⭐ 2,137 | 🐛 0 | 🌐 Python | 📅 2026-07-09 - Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud. Must be run from a \*nix environment.
 * [AWS Extender](https://github.com/VirtueSecurity/aws-extender) ⭐ 257 | 🐛 13 | 🌐 Python | 📅 2022-02-23 - AWS Extender (Cloud Storage Tester) is a Burp plugin to assess permissions of cloud storage containers on AWS, Google Cloud and Azure.
 * [AWS Signer](https://github.com/NetSPI/AWSSigner) ⭐ 93 | 🐛 9 | 🌐 Java | 📅 2025-01-10 - Burp Extension for AWS Signing.
 * [Burp-AnonymousCloud](https://github.com/codewatchorg/Burp-AnonymousCloud) ⭐ 48 | 🐛 1 | 🌐 Java | 📅 2023-01-11 - Burp extension that performs a passive scan to identify cloud buckets and then test them for publicly accessible vulnerabilities.
@@ -265,7 +265,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [JWT Re-auth](https://github.com/nccgroup/jwt-reauth) ⭐ 106 | 🐛 1 | 🌐 Java | 📅 2023-01-03 - Burp plugin to cache authentication tokens from an "auth" URL, and then add them as headers on all requests going to a certain scope.
 * [Burp OAuth](https://github.com/dnet/burp-oauth) ⭐ 43 | 🐛 2 | 🌐 Java | 📅 2018-06-27 - OAuth plugin for Burp Suite Extender.
 * [SAMLReQuest](https://github.com/ernw/burpsuite-extensions/tree/master/SAMLReQuest) ⭐ 31 | 🐛 1 | 🌐 Java | 📅 2016-06-16 - Enables you to view, decode, and modify SAML requests and responses.
-* [JWT Editor](https://github.com/DolphFlynn/jwt-editor) ⭐ 31 | 🐛 5 | 🌐 Java | 📅 2026-09-03 - A Burp Suite extension for creating and editing JSON Web Tokens.
+* [JWT Editor](https://github.com/DolphFlynn/jwt-editor) ⭐ 31 | 🐛 3 | 🌐 Java | 📅 2026-09-04 - A Burp Suite extension for creating and editing JSON Web Tokens.
 * [AuthHeader Updater](https://github.com/sampsonc/AuthHeaderUpdater) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2018-09-18 - Burp extension to specify the token value for the Authenication header while scanning.
 * [OAuthv1 - Signing](https://github.com/L1GH7/OAuthv1---Signing-Burp-Extension-) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2022-12-11 - The purpose of this extension is to provide an additional authentication method that is not natively supported by Burp Suite. Currently, this tool only supports OAuth v1.
 * [SAML Encoder/Decoder](https://portswigger.net/bappstore/9ff11c976383491b976389ce23091ee3) - This extension adds a new tab to Burp's main UI, allowing encoding and decoding of SAML (Security Assertion Markup Language) formatted messages.
@@ -502,7 +502,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 
 *Wordlist/payload generators and fuzzers.*
 
-* [Turbo Intruder](https://github.com/PortSwigger/turbo-intruder) ⭐ 1,803 | 🐛 19 | 🌐 Kotlin | 📅 2026-08-13 - Turbo Intruder is a Burp Suite extension for sending large numbers of HTTP requests and analyzing the results.
+* [Turbo Intruder](https://github.com/PortSwigger/turbo-intruder) ⭐ 1,804 | 🐛 19 | 🌐 Kotlin | 📅 2026-08-13 - Turbo Intruder is a Burp Suite extension for sending large numbers of HTTP requests and analyzing the results.
 * [HackBar](https://github.com/d3vilbug/HackBar) ⭐ 1,633 | 🐛 0 | 🌐 Java | 📅 2021-04-15 - HackBar plugin for Burpsuite v1.0.
 * [GAP (Get All Parameters, Links, and Words)](https://github.com/xnl-h4ck3r/GAP-Burp-Extension) ⭐ 1,533 | 🐛 5 | 🌐 Python | 📅 2026-01-08 - This extension helps find potential endpoints, parameters, and generate a custom target wordlist.
 * [HopLa](https://github.com/synacktiv/HopLa) ⭐ 837 | 🐛 5 | 🌐 Java | 📅 2026-04-01 - This extension adds autocompletion support and useful payloads in Burp Suite to make your intrusion easier.
@@ -696,4 +696,4 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
