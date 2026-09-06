@@ -5,6 +5,39 @@
       "items": [
         {
           "node_type": "item",
+          "title": "InQL Scanner",
+          "description": "A Comprehensive Burp Extension for GraphQL Security Testing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "InQL is a robust, open-source Burp Suite extension for advanced GraphQL testing, offering intuitive vulnerability detection, customizable scans, and seamless Burp integration.",
+            "homepage": "https://doyensec.com/",
+            "id": 130329493,
+            "language": "Kotlin",
+            "license": "Apache-2.0",
+            "last_commit": "2026-06-17T14:00:52Z",
+            "open_issues": 30,
+            "owner": "doyensec",
+            "repo": "inql",
+            "stars": 1806,
+            "topics": [
+              "api-documentation-tool",
+              "bugbounty",
+              "bugbounty-tool",
+              "burp-extensions",
+              "burpsuite",
+              "graphql",
+              "graphql-security",
+              "penetration-testing",
+              "security-audit",
+              "security-scanner",
+              "security-tools"
+            ]
+          },
+          "first_seen": "2026-08-28T20:11:33.961Z"
+        },
+        {
+          "node_type": "item",
           "title": "BurpShiroPassiveScan",
           "description": "A passive shiro detection plug-in based on BurpSuite",
           "children": [],
@@ -26,39 +59,6 @@
         },
         {
           "node_type": "item",
-          "title": "InQL Scanner",
-          "description": "A Comprehensive Burp Extension for GraphQL Security Testing",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "InQL is a robust, open-source Burp Suite extension for advanced GraphQL testing, offering intuitive vulnerability detection, customizable scans, and seamless Burp integration.",
-            "homepage": "https://doyensec.com/",
-            "id": 130329493,
-            "language": "Kotlin",
-            "license": "Apache-2.0",
-            "last_commit": "2026-06-17T14:00:52Z",
-            "open_issues": 30,
-            "owner": "doyensec",
-            "repo": "inql",
-            "stars": 1805,
-            "topics": [
-              "api-documentation-tool",
-              "bugbounty",
-              "bugbounty-tool",
-              "burp-extensions",
-              "burpsuite",
-              "graphql",
-              "graphql-security",
-              "penetration-testing",
-              "security-audit",
-              "security-scanner",
-              "security-tools"
-            ]
-          },
-          "first_seen": "2026-08-28T20:11:33.961Z"
-        },
-        {
-          "node_type": "item",
           "title": "403Bypasser",
           "description": "An burpsuite extension to bypass 403 restricted directory.",
           "children": [],
@@ -73,7 +73,7 @@
             "open_issues": 7,
             "owner": "sting8k",
             "repo": "BurpSuite_403Bypasser",
-            "stars": 1706,
+            "stars": 1707,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -136,7 +136,7 @@
             "open_issues": 13,
             "owner": "PortSwigger",
             "repo": "http-request-smuggler",
-            "stars": 1240,
+            "stars": 1242,
             "topics": [
               "extension"
             ]
@@ -1492,7 +1492,7 @@
                 "open_issues": 7,
                 "owner": "wagiro",
                 "repo": "BurpBounty",
-                "stars": 1813,
+                "stars": 1814,
                 "topics": [
                   "bug-bounty",
                   "bugbounty",
@@ -4264,7 +4264,7 @@
                     "open_issues": 14,
                     "owner": "elkokc",
                     "repo": "reflector",
-                    "stars": 1214,
+                    "stars": 1215,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -4495,7 +4495,7 @@
                     "open_issues": 10,
                     "owner": "Quitten",
                     "repo": "Autorize",
-                    "stars": 1170,
+                    "stars": 1171,
                     "topics": [
                       "application-security",
                       "authorization",
@@ -6077,7 +6077,7 @@
                     "open_issues": 46,
                     "owner": "epinna",
                     "repo": "tplmap",
-                    "stars": 4199,
+                    "stars": 4200,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6310,7 +6310,7 @@
                 "open_issues": 2,
                 "owner": "Gilzy",
                 "repo": "403Bypasser",
-                "stars": 58,
+                "stars": 59,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6910,7 +6910,7 @@
                 "open_issues": 19,
                 "owner": "PortSwigger",
                 "repo": "turbo-intruder",
-                "stars": 1804,
+                "stars": 1805,
                 "topics": [
                   "extension"
                 ]
@@ -8442,7 +8442,7 @@
                 "open_issues": 12,
                 "owner": "bugcrowd",
                 "repo": "HUNT",
-                "stars": 2334,
+                "stars": 2335,
                 "topics": [
                   "burpsuite",
                   "hunt",
@@ -9467,7 +9467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T11:49:16.908Z",
+    "last_updated": "2026-09-06T12:07:47.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
@@ -9479,7 +9479,7 @@
       "open_issues": 1,
       "owner": "snoopysecurity",
       "repo": "awesome-burp-extensions",
-      "stars": 3441,
+      "stars": 3443,
       "topics": []
     },
     "original_repository_sha": "7cbf7fdf4d690af55b33be6fcf5cb7e6ac093e8c",
