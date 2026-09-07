@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4368,
+                "stars": 4369,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -1718,7 +1718,7 @@
                 "open_issues": 5,
                 "owner": "hackvertor",
                 "repo": "hackvertor",
-                "stars": 249,
+                "stars": 250,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -3520,7 +3520,7 @@
                 "id": 676654462,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-05-07T10:34:23Z",
+                "last_commit": "2026-09-07T08:58:49Z",
                 "open_issues": 4,
                 "owner": "ngduyquockhanh",
                 "repo": "JScriptor",
@@ -4495,7 +4495,7 @@
                     "open_issues": 10,
                     "owner": "Quitten",
                     "repo": "Autorize",
-                    "stars": 1171,
+                    "stars": 1172,
                     "topics": [
                       "application-security",
                       "authorization",
@@ -5481,7 +5481,7 @@
                     "open_issues": 6,
                     "owner": "codewatchorg",
                     "repo": "sqlipy",
-                    "stars": 261,
+                    "stars": 262,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6447,7 +6447,7 @@
                 "open_issues": 35,
                 "owner": "nccgroup",
                 "repo": "LoggerPlusPlus",
-                "stars": 710,
+                "stars": 711,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -7008,10 +7008,10 @@
                 "language": "Java",
                 "license": null,
                 "last_commit": "2023-11-23T07:25:15Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "bit4woo",
                 "repo": "reCAPTCHA",
-                "stars": 809,
+                "stars": 810,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -8165,7 +8165,7 @@
                 "open_issues": 7,
                 "owner": "projectdiscovery",
                 "repo": "nuclei-burp-plugin",
-                "stars": 1344,
+                "stars": 1345,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -9467,7 +9467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T12:07:47.241Z",
+    "last_updated": "2026-09-07T14:13:58.734Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
