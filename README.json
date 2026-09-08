@@ -5,6 +5,27 @@
       "items": [
         {
           "node_type": "item",
+          "title": "BurpShiroPassiveScan",
+          "description": "A passive shiro detection plug-in based on BurpSuite",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "一款基于BurpSuite的被动式shiro检测插件",
+            "homepage": null,
+            "id": 279794074,
+            "language": "Java",
+            "license": null,
+            "last_commit": "2022-12-14T20:55:01Z",
+            "open_issues": 8,
+            "owner": "pmiaowu",
+            "repo": "BurpShiroPassiveScan",
+            "stars": 1807,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:11:33.961Z"
+        },
+        {
+          "node_type": "item",
           "title": "InQL Scanner",
           "description": "A Comprehensive Burp Extension for GraphQL Security Testing",
           "children": [],
@@ -15,8 +36,8 @@
             "id": 130329493,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-06-17T14:00:52Z",
-            "open_issues": 30,
+            "last_commit": "2026-09-07T14:25:13Z",
+            "open_issues": 31,
             "owner": "doyensec",
             "repo": "inql",
             "stars": 1806,
@@ -33,27 +54,6 @@
               "security-scanner",
               "security-tools"
             ]
-          },
-          "first_seen": "2026-08-28T20:11:33.961Z"
-        },
-        {
-          "node_type": "item",
-          "title": "BurpShiroPassiveScan",
-          "description": "A passive shiro detection plug-in based on BurpSuite",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "一款基于BurpSuite的被动式shiro检测插件",
-            "homepage": null,
-            "id": 279794074,
-            "language": "Java",
-            "license": null,
-            "last_commit": "2022-12-14T20:55:01Z",
-            "open_issues": 8,
-            "owner": "pmiaowu",
-            "repo": "BurpShiroPassiveScan",
-            "stars": 1806,
-            "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
         },
@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4369,
+                "stars": 4370,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -1541,7 +1541,7 @@
                 "open_issues": 20,
                 "owner": "yeswehack",
                 "repo": "PwnFox",
-                "stars": 1343,
+                "stars": 1342,
                 "topics": [
                   "bugbounty",
                   "firefox-extension",
@@ -2246,7 +2246,7 @@
                 "open_issues": 4,
                 "owner": "Hannah-PortSwigger",
                 "repo": "WebSocketTurboIntruder",
-                "stars": 20,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -4306,7 +4306,7 @@
                     "open_issues": 1,
                     "owner": "wish-i-was",
                     "repo": "femida",
-                    "stars": 284,
+                    "stars": 283,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -4495,7 +4495,7 @@
                     "open_issues": 10,
                     "owner": "Quitten",
                     "repo": "Autorize",
-                    "stars": 1172,
+                    "stars": 1173,
                     "topics": [
                       "application-security",
                       "authorization",
@@ -4569,7 +4569,7 @@
                     "open_issues": 13,
                     "owner": "simioni87",
                     "repo": "auth_analyzer",
-                    "stars": 225,
+                    "stars": 226,
                     "topics": [
                       "application-security",
                       "auth",
@@ -6200,7 +6200,7 @@
                 "open_issues": 13,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1888,
+                "stars": 1889,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -6910,7 +6910,7 @@
                 "open_issues": 19,
                 "owner": "PortSwigger",
                 "repo": "turbo-intruder",
-                "stars": 1805,
+                "stars": 1807,
                 "topics": [
                   "extension"
                 ]
@@ -6933,7 +6933,7 @@
                 "open_issues": 0,
                 "owner": "d3vilbug",
                 "repo": "HackBar",
-                "stars": 1633,
+                "stars": 1634,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -8503,7 +8503,7 @@
                 "open_issues": 0,
                 "owner": "d3vilbug",
                 "repo": "HackBar",
-                "stars": 1633,
+                "stars": 1634,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -9467,7 +9467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T14:13:58.734Z",
+    "last_updated": "2026-09-08T12:51:32.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
