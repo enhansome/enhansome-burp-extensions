@@ -5,6 +5,39 @@
       "items": [
         {
           "node_type": "item",
+          "title": "InQL Scanner",
+          "description": "A Comprehensive Burp Extension for GraphQL Security Testing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "InQL is a robust, open-source Burp Suite extension for advanced GraphQL testing, offering intuitive vulnerability detection, customizable scans, and seamless Burp integration.",
+            "homepage": "https://doyensec.com/",
+            "id": 130329493,
+            "language": "Kotlin",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-08T17:10:53Z",
+            "open_issues": 29,
+            "owner": "doyensec",
+            "repo": "inql",
+            "stars": 1807,
+            "topics": [
+              "api-documentation-tool",
+              "bugbounty",
+              "bugbounty-tool",
+              "burp-extensions",
+              "burpsuite",
+              "graphql",
+              "graphql-security",
+              "penetration-testing",
+              "security-audit",
+              "security-scanner",
+              "security-tools"
+            ]
+          },
+          "first_seen": "2026-08-28T20:11:33.961Z"
+        },
+        {
+          "node_type": "item",
           "title": "BurpShiroPassiveScan",
           "description": "A passive shiro detection plug-in based on BurpSuite",
           "children": [],
@@ -21,39 +54,6 @@
             "repo": "BurpShiroPassiveScan",
             "stars": 1807,
             "topics": []
-          },
-          "first_seen": "2026-08-28T20:11:33.961Z"
-        },
-        {
-          "node_type": "item",
-          "title": "InQL Scanner",
-          "description": "A Comprehensive Burp Extension for GraphQL Security Testing",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "InQL is a robust, open-source Burp Suite extension for advanced GraphQL testing, offering intuitive vulnerability detection, customizable scans, and seamless Burp integration.",
-            "homepage": "https://doyensec.com/",
-            "id": 130329493,
-            "language": "Kotlin",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-07T14:25:13Z",
-            "open_issues": 31,
-            "owner": "doyensec",
-            "repo": "inql",
-            "stars": 1806,
-            "topics": [
-              "api-documentation-tool",
-              "bugbounty",
-              "bugbounty-tool",
-              "burp-extensions",
-              "burpsuite",
-              "graphql",
-              "graphql-security",
-              "penetration-testing",
-              "security-audit",
-              "security-scanner",
-              "security-tools"
-            ]
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
         },
@@ -3181,7 +3181,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2137,
+                "stars": 2138,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -6077,7 +6077,7 @@
                     "open_issues": 46,
                     "owner": "epinna",
                     "repo": "tplmap",
-                    "stars": 4200,
+                    "stars": 4201,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6200,7 +6200,7 @@
                 "open_issues": 13,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1889,
+                "stars": 1890,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -7514,7 +7514,7 @@
                 "open_issues": 7,
                 "owner": "Ebryx",
                 "repo": "AES-Killer",
-                "stars": 651,
+                "stars": 652,
                 "topics": [
                   "aes-decryption",
                   "aes-encryption",
@@ -8144,7 +8144,7 @@
                 "open_issues": 11,
                 "owner": "federicodotta",
                 "repo": "Brida",
-                "stars": 1891,
+                "stars": 1892,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8442,7 +8442,7 @@
                 "open_issues": 12,
                 "owner": "bugcrowd",
                 "repo": "HUNT",
-                "stars": 2335,
+                "stars": 2336,
                 "topics": [
                   "burpsuite",
                   "hunt",
@@ -9467,7 +9467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T12:51:32.296Z",
+    "last_updated": "2026-09-09T12:57:17.678Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
