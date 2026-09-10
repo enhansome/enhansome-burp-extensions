@@ -15,11 +15,11 @@
             "id": 130329493,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T17:10:53Z",
+            "last_commit": "2026-09-09T15:13:58Z",
             "open_issues": 29,
             "owner": "doyensec",
             "repo": "inql",
-            "stars": 1807,
+            "stars": 1808,
             "topics": [
               "api-documentation-tool",
               "bugbounty",
@@ -73,7 +73,7 @@
             "open_issues": 7,
             "owner": "sting8k",
             "repo": "BurpSuite_403Bypasser",
-            "stars": 1707,
+            "stars": 1708,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -136,7 +136,7 @@
             "open_issues": 13,
             "owner": "PortSwigger",
             "repo": "http-request-smuggler",
-            "stars": 1242,
+            "stars": 1243,
             "topics": [
               "extension"
             ]
@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4370,
+                "stars": 4371,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -1685,7 +1685,7 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-04T06:02:17Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "usdAG",
                 "repo": "cstc",
                 "stars": 267,
@@ -2087,7 +2087,7 @@
                 "language": "Java",
                 "license": null,
                 "last_commit": "2026-02-12T12:04:03Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "CompassSecurity",
                 "repo": "burp-copy-request-response",
                 "stars": 33,
@@ -2675,7 +2675,7 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-04T06:02:17Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "usdAG",
                 "repo": "cstc",
                 "stars": 267,
@@ -3778,27 +3778,6 @@
             },
             {
               "node_type": "item",
-              "title": "SAMLReQuest",
-              "description": "Enables you to view, decode, and modify SAML requests and responses.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A collection of Burp Suite extensions",
-                "homepage": null,
-                "id": 60687064,
-                "language": "Java",
-                "license": null,
-                "last_commit": "2016-06-16T20:12:28Z",
-                "open_issues": 1,
-                "owner": "ernw",
-                "repo": "burpsuite-extensions",
-                "stars": 31,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:11:33.961Z"
-            },
-            {
-              "node_type": "item",
               "title": "JWT Editor",
               "description": "A Burp Suite extension for creating and editing JSON Web Tokens.",
               "children": [],
@@ -3814,6 +3793,27 @@
                 "owner": "DolphFlynn",
                 "repo": "jwt-editor",
                 "stars": 31,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:11:33.961Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SAMLReQuest",
+              "description": "Enables you to view, decode, and modify SAML requests and responses.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A collection of Burp Suite extensions",
+                "homepage": null,
+                "id": 60687064,
+                "language": "Java",
+                "license": null,
+                "last_commit": "2016-06-16T20:12:28Z",
+                "open_issues": 1,
+                "owner": "ernw",
+                "repo": "burpsuite-extensions",
+                "stars": 30,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -4285,7 +4285,7 @@
                     "open_issues": 14,
                     "owner": "NetSPI",
                     "repo": "xssValidator",
-                    "stars": 420,
+                    "stars": 421,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6077,7 +6077,7 @@
                     "open_issues": 46,
                     "owner": "epinna",
                     "repo": "tplmap",
-                    "stars": 4201,
+                    "stars": 4202,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6200,7 +6200,7 @@
                 "open_issues": 13,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1890,
+                "stars": 1892,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -6910,7 +6910,7 @@
                 "open_issues": 19,
                 "owner": "PortSwigger",
                 "repo": "turbo-intruder",
-                "stars": 1807,
+                "stars": 1808,
                 "topics": [
                   "extension"
                 ]
@@ -7514,7 +7514,7 @@
                 "open_issues": 7,
                 "owner": "Ebryx",
                 "repo": "AES-Killer",
-                "stars": 652,
+                "stars": 653,
                 "topics": [
                   "aes-decryption",
                   "aes-encryption",
@@ -8165,7 +8165,7 @@
                 "open_issues": 7,
                 "owner": "projectdiscovery",
                 "repo": "nuclei-burp-plugin",
-                "stars": 1345,
+                "stars": 1346,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -9467,7 +9467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T12:57:17.678Z",
+    "last_updated": "2026-09-10T12:54:24.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
@@ -9479,7 +9479,7 @@
       "open_issues": 1,
       "owner": "snoopysecurity",
       "repo": "awesome-burp-extensions",
-      "stars": 3443,
+      "stars": 3442,
       "topics": []
     },
     "original_repository_sha": "7cbf7fdf4d690af55b33be6fcf5cb7e6ac093e8c",
