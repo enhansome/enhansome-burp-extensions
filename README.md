@@ -47,12 +47,12 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 
 *Passive and Active scan plugins.*
 
-* [InQL Scanner](https://github.com/doyensec/inql) ⭐ 1,808 | 🐛 29 | 🌐 Kotlin | 📅 2026-09-09 -  A Comprehensive Burp Extension for GraphQL Security Testing
+* [InQL Scanner](https://github.com/doyensec/inql) ⭐ 1,809 | 🐛 29 | 🌐 Kotlin | 📅 2026-09-09 -  A Comprehensive Burp Extension for GraphQL Security Testing
 * [BurpShiroPassiveScan](https://github.com/pmiaowu/BurpShiroPassiveScan) ⭐ 1,807 | 🐛 8 | 🌐 Java | 📅 2022-12-14 - A passive shiro detection plug-in based on BurpSuite
 * [403Bypasser](https://github.com/sting8k/BurpSuite_403Bypasser) ⭐ 1,708 | 🐛 7 | 🌐 Python | 📅 2023-06-29 - An burpsuite extension to bypass 403 restricted directory.
 * [RouteVulScan](https://github.com/F6JO/RouteVulScan) ⭐ 1,334 | 🐛 11 | 🌐 Java | 📅 2026-07-10 - Route Vulnerable scanning
 * [RouteVulScan](https://github.com/F6JO/RouteVulScan) ⭐ 1,334 | 🐛 11 | 🌐 Java | 📅 2026-07-10 - RouteVulScan is a burp plug-in developed using Java that can recursively detect vulnerable paths.
-* [HTTP Request Smuggler](https://github.com/portswigger/http-request-smuggler) ⭐ 1,243 | 🐛 13 | 🌐 Java | 📅 2026-08-13 - This is an extension for Burp Suite designed to help you launch HTTP Request Smuggling attacks, originally created during HTTP Desync Attacks research. It supports scanning for Request Smuggling vulnerabilities, and also aids exploitation by handling cumbersome offset-tweaking for you.
+* [HTTP Request Smuggler](https://github.com/portswigger/http-request-smuggler) ⭐ 1,244 | 🐛 13 | 🌐 Java | 📅 2026-08-13 - This is an extension for Burp Suite designed to help you launch HTTP Request Smuggling attacks, originally created during HTTP Desync Attacks research. It supports scanning for Request Smuggling vulnerabilities, and also aids exploitation by handling cumbersome offset-tweaking for you.
 * [Burp Vulners Scanner](https://github.com/vulnersCom/burp-vulners-scanner) ⭐ 899 | 🐛 7 | 🌐 Java | 📅 2025-10-01 - Vulnerability scanner based on vulners.com search API.
 * [Log4j2Scan](https://github.com/whwlsfb/Log4j2Scan) ⭐ 835 | 🐛 12 | 🌐 Java | 📅 2023-08-04 - Log4j2 Remote Code Execution Vulnerability, Passive Scan Plugin for BurpSuite.
 * [Java Deserialization Scanner](https://github.com/federicodotta/Java-Deserialization-Scanner) ⭐ 803 | 🐛 11 | 🌐 Java | 📅 2021-11-07 - All-in-one plugin for Burp Suite for the detection and the exploitation of Java deserialization vulnerabilities.
@@ -81,9 +81,9 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Burp AEM Security Scanner Extension](https://github.com/thomashartm/burp-aem-scanner) ⚠️ Archived - Burp AEM Security Scanner is an AEM focussed plugin which supports the evaluation of well known misconfigurations of AEM installations.
 * [FlareQuench](https://github.com/aress31/flarequench) ⭐ 66 | 🐛 1 | 🌐 Java | 📅 2022-11-29 - Burp Suite plugin that adds additional checks to the passive scanner to reveal the origin IP(s) of Cloudflare-protected web applications.
 * [Error Message Checks](https://github.com/augustd/burp-suite-error-message-checks) ⭐ 65 | 🐛 9 | 🌐 Java | 📅 2023-12-15 - Burp Suite extension to passively scan for applications revealing server error messages.
+* [Burp JS Miner](https://github.com/minamo7sen/burp-JS-Miner) ⭐ 60 | 🐛 4 | 🌐 Java | 📅 2023-05-30 - This tool tries to find interesting stuff inside static files; mainly JavaScript and JSON files.
 * [SOMEtime](https://github.com/linkedin/sometime) ⚠️ Archived - A BurpSuite plugin to detect Same Origin Method Execution vulnerabilities.
 * [Broken Link Hijacking](https://github.com/arbazkiraak/BurpBLH) ⭐ 59 | 🐛 1 | 🌐 Python | 📅 2019-09-13 - This extension discovers the broken links passively could be handy in second order takeovers.
-* [Burp JS Miner](https://github.com/minamo7sen/burp-JS-Miner) ⭐ 59 | 🐛 4 | 🌐 Java | 📅 2023-05-30 - This tool tries to find interesting stuff inside static files; mainly JavaScript and JSON files.
 * [UUID issues for Burp Suite](https://github.com/silentsignal/burp-uuid) ⭐ 55 | 🐛 2 | 🌐 Java | 📅 2022-06-02 - UUID issues for Burp Suite.
 * [Endpoint Finder](https://github.com/ettic-team/EndpointFinder) ⭐ 54 | 🐛 3 | 🌐 JavaScript | 📅 2025-12-03 - A tool to extract endpoint used by a JavaScript file through static code analysis. This is intended to help people that do blackbox review of web application to more easily identify all the endpoint available.
 * [ParrotNG](https://github.com/ikkisoft/ParrotNG) ⭐ 48 | 🐛 1 | 🌐 Java | 📅 2015-03-19 - ParrotNG is a tool capable of identifying Adobe Flex applications (SWF) vulnerable to CVE-2011-2461.
@@ -92,7 +92,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Additional Scanner checks](https://github.com/portswigger/additional-scanner-checks) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2020-06-15 - Collection of scanner checks missing in Burp.
 * [ActiveScan3Plus](https://github.com/silentsignal/ActiveScan3Plus) ⭐ 31 | 🐛 1 | 🌐 Python | 📅 2017-01-30 - Modified version of ActiveScan++ Burp Suite extension.
 * [CTFHelper](https://github.com/unamer/CTFHelper) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2018-01-22 - This extension will scan some sensitive files (backup files likes .index.php.swp or .git directory) in web server that makes solving CTF challenge faster.
-* [CSRF Scanner](https://github.com/ah8r/csrf) ⭐ 20 | 🐛 5 | 🌐 Java | 📅 2018-06-05 - CSRF Scanner Extension for Burp Suite Pro.
+* [CSRF Scanner](https://github.com/ah8r/csrf) ⭐ 21 | 🐛 5 | 🌐 Java | 📅 2018-06-05 - CSRF Scanner Extension for Burp Suite Pro.
 * [Identity Crisis](https://github.com/EnableSecurity/Identity-Crisis) ⚠️ Archived - A Burp Suite extension that checks if a particular URL responds differently to various User-Agent headers.
 * [Burp Suite GWT Scan](https://github.com/augustd/burp-suite-gwt-scan) ⭐ 13 | 🐛 0 | 🌐 Java | 📅 2015-09-24 - Burp Suite plugin identifies insertion points for GWT (Google Web Toolkit) requests.
 * [SRI Check](https://github.com/SolomonSklash/sri-check) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2019-06-12 - A Burp Suite extension for identifying missing Subresource Integrity attributes.
@@ -124,7 +124,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 
 *Extensions rel)ated to customizing Burp features and extend the functionality of Burp Suite in numerous ways.*
 
-* [HaE - Highlighter and Extractor](https://github.com/gh0stkey/HaE) ⭐ 4,371 | 🐛 0 | 📅 2026-08-21 - HaE is used to highlight HTTP requests and extract information from HTTP response messages.
+* [HaE - Highlighter and Extractor](https://github.com/gh0stkey/HaE) ⭐ 4,372 | 🐛 0 | 📅 2026-08-21 - HaE is used to highlight HTTP requests and extract information from HTTP response messages.
 * [Burp Bounty - Scan Check Builder](https://github.com/wagiro/BurpBounty) ⭐ 1,814 | 🐛 7 | 🌐 Java | 📅 2024-04-26 - This BurpSuite extension allows you, in a quick and simple way, to improve the active and passive burpsuite scanner by means of personalized rules through a very intuitive graphical interface.
 * [GAP-Burp-Extension](https://github.com/xnl-h4ck3r/GAP-Burp-Extension) ⭐ 1,533 | 🐛 5 | 🌐 Python | 📅 2026-01-08 - This is an evolution of the original getAllParams extension for Burp. Not only does it find more potential parameters for you to investigate, but it also finds potential links to try these parameters on, and produces a target specific wordlist to use for fuzzing.
 * [PwnFox](https://github.com/B-i-t-K/PwnFox) ⭐ 1,342 | 🐛 20 | 🌐 JavaScript | 📅 2024-08-07 - PwnFox is a Firefox/Burp extension that provide usefull tools for your security audit.
@@ -307,7 +307,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [jsonp](https://github.com/kapytein/jsonp) ⚠️ Archived - jsonp is a Burp Extension which attempts to reveal JSONP functionality behind JSON endpoints. This could help reveal cross-site script inclusion vulnerabilities or aid in bypassing content security policies.
 * [Burp Hunter](https://github.com/mystech7/Burp-Hunter) ⭐ 152 | 🐛 1 | 🌐 Java | 📅 2018-08-31 - XSS Hunter Burp Plugin.
 * [BitBlinder](https://github.com/BitTheByte/BitBlinder) ⭐ 124 | 🐛 0 | 🌐 Python | 📅 2026-05-12 - Burp extension helps in finding blind xss vulnerabilities
-* [burp-xss-sql-plugin](https://github.com/attackercan/burp-xss-sql-plugin) ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2016-09-28 - Publishing plugin which I used for years which helped me to find several bugbounty-worthy XSSes, OpenRedirects and SQLi.
+* [burp-xss-sql-plugin](https://github.com/attackercan/burp-xss-sql-plugin) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2016-09-28 - Publishing plugin which I used for years which helped me to find several bugbounty-worthy XSSes, OpenRedirects and SQLi.
 * [JavaScript Security](https://github.com/phefley/burp-javascript-security-extension) ⭐ 27 | 🐛 3 | 🌐 Java | 📅 2022-03-23 - A Burp Suite extension which performs checks for cross-domain scripting against the DOM, subresource integrity checks, and evaluates JavaScript resources against threat intelligence data.
 * [Reflected Parameters](https://github.com/portswigger/reflected-parameters) ⭐ 25 | 🐛 1 | 🌐 Java | 📅 2020-03-03 - This extension monitors traffic and looks for request parameter values (longer than 3 characters) that are reflected in the response.
 * [XSS Cheatsheet](https://github.com/0kman/XSS-Cheatsheet) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2023-09-29 - An extension to incorporate PortSwigger's Cross-site scripting cheat sheet in to Burp.
@@ -332,7 +332,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 
 * [Additional CSRF Checks/EasyCSRF](https://github.com/0ang3el/EasyCSRF) ⭐ 162 | 🐛 3 | 🌐 Python | 📅 2017-12-07 - EasyCSRF helps to find weak CSRF-protection in WebApp which can be easily bypassed.
 * [burp-multistep-csrf-poc](https://github.com/wrvenkat/burp-multistep-csrf-poc) ⭐ 31 | 🐛 0 | 🌐 Java | 📅 2019-09-23 - Burp extension to generate multi-step CSRF POC.
-* [CSRF Scanner](https://github.com/ah8r/csrf) ⭐ 20 | 🐛 5 | 🌐 Java | 📅 2018-06-05 -  CSRF Scanner Extension for Burp Suite Pro.
+* [CSRF Scanner](https://github.com/ah8r/csrf) ⭐ 21 | 🐛 5 | 🌐 Java | 📅 2018-06-05 -  CSRF Scanner Extension for Burp Suite Pro.
 * [CSurfer](https://github.com/asaafan/CSurfer) ⭐ 18 | 🐛 3 | 🌐 Java | 📅 2015-10-07 - CSurfer is a CSRF guard hiding extension that keeps track of the latest guard value per session and update new requests accordingly.
 * [Token Rewrite](https://github.com/hvqzao/burp-token-rewrite) ⭐ 16 | 🐛 0 | 🌐 Java | 📅 2018-02-27 - This extension lets you search for specific values like CSRF tokens in responses and use their values to modify parameters in future requests or set a cookie.
 * [burp-samesite-reporter](https://github.com/ldionmarcil/burp-samesite-reporter) ⭐ 6 | 🐛 2 | 🌐 Java | 📅 2020-06-01 - Burp extension that passively reports various SameSite flags.
@@ -361,7 +361,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [JS Link Finder](https://github.com/InitRoot/BurpJSLinkFinder) ⭐ 821 | 🐛 6 | 🌐 Python | 📅 2024-03-22 - Burp Extension for a passively scanning JavaScript files for endpoint links. - Export results the text file - Exclude specific 'js' files e.g. jquery, google-analytics.
 * [Burp Smart Buster](https://github.com/pathetiq/BurpSmartBuster) ⭐ 378 | 🐛 11 | 🌐 Python | 📅 2020-10-12 - A Burp Suite content discovery plugin that add the smart into the Buster!.
 * [Xkeys](https://github.com/vsec7/BurpSuite-Xkeys) ⭐ 314 | 🐛 2 | 🌐 Python | 📅 2024-07-09 - A Burp Suite Extension to extract interesting strings (key, secret, token, or etc.) from a webpage. and lists them as information issues.
-* [Burp JS Miner](https://github.com/minamo7sen/burp-JS-Miner) ⭐ 59 | 🐛 4 | 🌐 Java | 📅 2023-05-30 - This tool tries to find interesting stuff inside static files; mainly JavaScript and JSON files.
+* [Burp JS Miner](https://github.com/minamo7sen/burp-JS-Miner) ⭐ 60 | 🐛 4 | 🌐 Java | 📅 2023-05-30 - This tool tries to find interesting stuff inside static files; mainly JavaScript and JSON files.
 * [Interesting Files Scanner](https://github.com/modzero/interestingFileScanner) ⚠️ Archived - Interesting Files Scanner extends Burp Suite's active scanner, with scans for interesting files and directories. A main feature of the extension is the check for false positives with tested patterns for each case.
 * [BeanStack - Stack-trace Fingerprinter](https://github.com/x41sec/BeanStack) ⭐ 54 | 🐛 0 | 🌐 Java | 📅 2025-12-03 - Java Fingerprinting using Stack Traces. Note that this extension sends potentially private stack-traces to a third party for processing.
 * [CYS4-SensitiveDiscoverer](https://github.com/CYS4srl/CYS4-SensitiveDiscoverer) ⭐ 54 | 🐛 3 | 🌐 Java | 📅 2026-01-26 - CYS4-SensitiveDiscoverer is a Burp Suite tool used to extract Regular Expression or File Extension form HTTP response automatically or at the end of all tests or during the test.
@@ -388,7 +388,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [SQLi Query Tampering](https://github.com/xer0days/SQLi-Query-Tampering) ⭐ 157 | 🐛 2 | 🌐 Python | 📅 2020-08-21 - SQLi Query Tampering extends and adds custom Payload Generator/Processor in Burp Suite's Intruder.
 * [CO2](https://github.com/JGillam/burp-co2) ⭐ 154 | 🐛 2 | 🌐 Java | 📅 2024-02-21 - A collection of enhancements for Portswigger's popular Burp Suite web penetration testing tool.
 * [InjectMate](https://github.com/laconicwolf/burp-extensions/blob/master/InjectMate.py) ⭐ 142 | 🐛 1 | 🌐 Python | 📅 2019-04-08 - Burp Extension that generates payloads for XSS, SQLi, and Header injection vulns
-* [burp-xss-sql-plugin](https://github.com/attackercan/burp-xss-sql-plugin) ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2016-09-28 - ublishing plugin which I used for years which helped me to find several bugbounty-worthy XSSes, OpenRedirects and SQLi.
+* [burp-xss-sql-plugin](https://github.com/attackercan/burp-xss-sql-plugin) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2016-09-28 - ublishing plugin which I used for years which helped me to find several bugbounty-worthy XSSes, OpenRedirects and SQLi.
 * [Burp NoSQLi Scanner](https://github.com/matrix/Burp-NoSQLiScanner) ⭐ 31 | 🐛 0 | 🌐 Java | 📅 2025-09-07 - NoSQL Injection scans for Burp
 * [SQLMap DNS Collaborator](https://github.com/lucacapacci/SqlmapDnsCollaborator) ⭐ 12 | 🐛 0 | 🌐 Java | 📅 2021-10-07 - SqlmapDnsCollaborator is a Burp Extension that lets you perform DNS exfiltration with Sqlmap with zero configuration needed.
 * [Burptime](https://github.com/virusdefender/burptime) ⭐ 11 | 🐛 0 | 🌐 Java | 📅 2019-06-21 - Show time cost in burp proxy history, it's useful when testing time-based sql injection..
@@ -454,8 +454,8 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 
 *The following extensions can aid during WAF evasion.*
 
-* [Chunked coding converter](https://github.com/c0ny1/chunked-coding-converter) ⭐ 2,028 | 🐛 5 | 🌐 Java | 📅 2022-02-23 - This entension use a Transfer-Encoding technology to bypass the waf.
-* [Awesome TLS](https://github.com/sleeyax/burp-awesome-tls) ⭐ 1,892 | 🐛 13 | 🌐 Java | 📅 2026-09-02 - This extension overrides Burp Suite's default HTTP and TLS stack to make it immune to WAF fingerprinting methods such as JA3, HTTP2 frames, etc.
+* [Chunked coding converter](https://github.com/c0ny1/chunked-coding-converter) ⭐ 2,029 | 🐛 5 | 🌐 Java | 📅 2022-02-23 - This entension use a Transfer-Encoding technology to bypass the waf.
+* [Awesome TLS](https://github.com/sleeyax/burp-awesome-tls) ⭐ 1,894 | 🐛 13 | 🌐 Java | 📅 2026-09-02 - This extension overrides Burp Suite's default HTTP and TLS stack to make it immune to WAF fingerprinting methods such as JA3, HTTP2 frames, etc.
 * [Burp Suite HTTP Smuggler](https://github.com/nccgroup/BurpSuiteHTTPSmuggler/) ⭐ 745 | 🐛 1 | 🌐 Java | 📅 2019-05-04 - A Burp Suite extension to help pentesters to bypass WAFs or test their effectiveness using a number of techniques.
 * [BurpSuiteHTTPSmuggler](https://github.com/nccgroup/BurpSuiteHTTPSmuggler) ⭐ 745 | 🐛 1 | 🌐 Java | 📅 2019-05-04 - A Burp Suite extension to help pentesters to bypass WAFs or test their effectiveness using a number of techniques.
 * [Bypass WAF](https://github.com/codewatchorg/bypasswaf) ⭐ 328 | 🐛 1 | 🌐 Java | 📅 2018-01-28 - Add headers to all Burp requests to bypass some WAF products.
@@ -538,7 +538,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [BurpCrypto](https://github.com/whwlsfb/BurpCrypto) ⭐ 1,647 | 🐛 16 | 🌐 Java | 📅 2023-08-04 - Burpcrypto is a collection of burpsuite encryption plug-ins, supporting AES/RSA/DES/ExecJs(execute JS encryption code in burpsuite).
 * [AES Killer](https://github.com/Ebryx/AES-Killer) ⭐ 653 | 🐛 7 | 🌐 Java | 📅 2022-08-03 - Burp plugin to decrypt AES Encrypted traffic of mobile apps on the fly.
 * [WhatsApp Protocol Decryption Burp Tool](https://github.com/romanzaikin/BurpExtension-WhatsApp-Decryption-CheckPoint) ⭐ 644 | 🐛 10 | 🌐 Python | 📅 2019-10-21 - This tool was created during our research on Whatsapp Protocol.
-* [PyCript](https://github.com/Anof-cyber/PyCript) ⭐ 220 | 🐛 0 | 🌐 Java | 📅 2026-01-09 - Burp Suite extension that allows for bypassing client-side encryption using custom logic for manual and automation testing with Python and NodeJS. It enables efficient testing of encryption methods and identification of vulnerabilities in the encryption process.
+* [PyCript](https://github.com/Anof-cyber/PyCript) ⭐ 221 | 🐛 0 | 🌐 Java | 📅 2026-01-09 - Burp Suite extension that allows for bypassing client-side encryption using custom logic for manual and automation testing with Python and NodeJS. It enables efficient testing of encryption methods and identification of vulnerabilities in the encryption process.
 * [Resign v2.0](https://github.com/bit4woo/ReSign) ⭐ 60 | 🐛 3 | 🌐 Java | 📅 2022-11-10 - A burp extender that recalculate signature value automatically after you modified request parameter value.but you need to know the signature algorithm detail and configure at GUI.
 * [TLS-Attacker-BurpExtension](https://github.com/RUB-NDS/TLS-Attacker-BurpExtension) ⭐ 39 | 🐛 4 | 🌐 Java | 📅 2020-07-03 - The extension is based on the TLS-Attacker and developed by the Chair for Network and Data Security from the Ruhr-University Bochum to assist pentesters and security researchers in the evaluation of TLS Server configurations with Burp Suite.
 * [AES Burp/AES Payloads](https://github.com/lgrangeia/aesburp) ⭐ 24 | 🐛 5 | 🌐 Java | 📅 2017-08-02 - Burp Extension to manipulate AES encrypted payloads.
@@ -551,7 +551,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 
 *Extensions useful for assessing Web Services*
 
-* [Burp Non HTTP Extension](https://github.com/summitt/Burp-Non-HTTP-Extension) ⭐ 1,664 | 🐛 22 | 🌐 Java | 📅 2024-05-25 - Non-HTTP Protocol Extension (NoPE) Proxy and DNS for Burp Suite.
+* [Burp Non HTTP Extension](https://github.com/summitt/Burp-Non-HTTP-Extension) ⭐ 1,663 | 🐛 22 | 🌐 Java | 📅 2024-05-25 - Non-HTTP Protocol Extension (NoPE) Proxy and DNS for Burp Suite.
 * [WSDLer](https://github.com/NetSPI/Wsdler) ⭐ 283 | 🐛 6 | 🌐 Java | 📅 2018-06-25 - WSDL Parser extension for Burp.
 * [Swurg](https://github.com/AresS31/swurg) ⭐ 208 | 🐛 13 | 🌐 Java | 📅 2024-01-03 - Swurg is a Burp Suite extension designed for OpenAPI testing.
 * [BurpWCFDSer](https://github.com/NetSPI/Burp-Extensions/tree/master/BurpWCFDser) ⭐ 151 | 🐛 6 | 🌐 Java | 📅 2021-11-18 - BurpWCFDSer is a Burp plugin that will deserialze/serialize WCF request and response to and from XML.
@@ -576,7 +576,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 *Extensions related to integrating Burp Suite with other software/tools.*
 
 * [Brida](https://github.com/federicodotta/Brida) ⭐ 1,892 | 🐛 11 | 🌐 Java | 📅 2025-10-30 - Brida is a Burp Suite Extension that, working as a bridge between Burp Suite and Frida, lets you use and manipulate applications’ own methods while tampering the traffic exchanged between the applications and their back-end services/servers.
-* [Nuclei Template Generator Burp Plugin](https://github.com/projectdiscovery/nuclei-burp-plugin) ⭐ 1,346 | 🐛 7 | 🌐 Java | 📅 2025-10-22 - A BurpSuite plugin intended to help with nuclei template generation.
+* [Nuclei Template Generator Burp Plugin](https://github.com/projectdiscovery/nuclei-burp-plugin) ⭐ 1,346 | 🐛 9 | 🌐 Java | 📅 2026-09-11 - A BurpSuite plugin intended to help with nuclei template generation.
 * [YesWeBurp](https://github.com/yeswehack/YesWeBurp) ⭐ 114 | 🐛 11 | 🌐 Kotlin | 📅 2024-08-07 - YesWeBurp is an extension for BurpSuite allowing you to access all your <https://yeswehack.com/> bug bounty programs directly inside Burp.
 * [Semgrepper](https://github.com/gand3lf/semgrepper) ⭐ 90 | 🐛 2 | 🌐 Java | 📅 2025-05-23 - The current project provides a Burp Suite extension to allow users to include Semgrep results to extend the checks in use by the passive scanner.
 * [bbrf-burp-plugin](https://github.com/honoki/bbrf-burp-plugin) ⭐ 27 | 🐛 3 | 🌐 Java | 📅 2024-11-17 - Extension for Bug Bounty Reconnaissance Framework
@@ -605,7 +605,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 ## Misc
 
 * [HUNT](https://github.com/bugcrowd/HUNT) ⭐ 2,336 | 🐛 12 | 🌐 Python | 📅 2026-08-26 - HUNT Suite is a collection of Burp Suite Pro/Free and OWASP ZAP extensions. Identifies common parameters vulnerable to certain vulnerability classes (Burp Suite Pro and OWASP ZAP). Organize testing methodologies (Burp Suite Pro and Free).
-* [knife](https://github.com/bit4woo/knife) ⭐ 1,963 | 🐛 35 | 🌐 Java | 📅 2026-06-26 - A burp extension that add some useful function to Context Menu. This includes *one key to update cookie*, *one key add host to scope* to the right click context menu, *insert payload* of Hackbar or self-configured to current request.
+* [knife](https://github.com/bit4woo/knife) ⭐ 1,964 | 🐛 35 | 🌐 Java | 📅 2026-06-26 - A burp extension that add some useful function to Context Menu. This includes *one key to update cookie*, *one key add host to scope* to the right click context menu, *insert payload* of Hackbar or self-configured to current request.
 * [Hackbar](https://github.com/d3vilbug/HackBar) ⭐ 1,634 | 🐛 0 | 🌐 Java | 📅 2021-04-15 - HackBar plugin for Burpsuite v1.0.
 * [Burp Customizer](https://github.com/CoreyD97/BurpCustomizer) ⭐ 587 | 🐛 11 | 🌐 Java | 📅 2024-12-17 - This extension allows you to use these themes in Burp Suite, and includes a number of bundled themes to try.
 * [Burp Rest API](https://github.com/vmware/burp-rest-api) ⚠️ Archived - REST/JSON API to the Burp Suite security tool.
@@ -696,4 +696,4 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

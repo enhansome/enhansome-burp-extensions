@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "doyensec",
             "repo": "inql",
-            "stars": 1808,
+            "stars": 1809,
             "topics": [
               "api-documentation-tool",
               "bugbounty",
@@ -136,7 +136,7 @@
             "open_issues": 13,
             "owner": "PortSwigger",
             "repo": "http-request-smuggler",
-            "stars": 1243,
+            "stars": 1244,
             "topics": [
               "extension"
             ]
@@ -878,6 +878,27 @@
         },
         {
           "node_type": "item",
+          "title": "Burp JS Miner",
+          "description": "This tool tries to find interesting stuff inside static files; mainly JavaScript and JSON files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This tool tries to find interesting stuff inside static files; mainly JavaScript and JSON files.",
+            "homepage": null,
+            "id": 398904444,
+            "language": "Java",
+            "license": "Apache-2.0",
+            "last_commit": "2023-05-30T21:08:16Z",
+            "open_issues": 4,
+            "owner": "minamo7sen",
+            "repo": "burp-JS-Miner",
+            "stars": 60,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:11:33.961Z"
+        },
+        {
+          "node_type": "item",
           "title": "SOMEtime",
           "description": "A BurpSuite plugin to detect Same Origin Method Execution vulnerabilities.",
           "children": [],
@@ -913,27 +934,6 @@
             "open_issues": 1,
             "owner": "arbazkiraak",
             "repo": "BurpBLH",
-            "stars": 59,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:11:33.961Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Burp JS Miner",
-          "description": "This tool tries to find interesting stuff inside static files; mainly JavaScript and JSON files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This tool tries to find interesting stuff inside static files; mainly JavaScript and JSON files.",
-            "homepage": null,
-            "id": 398904444,
-            "language": "Java",
-            "license": "Apache-2.0",
-            "last_commit": "2023-05-30T21:08:16Z",
-            "open_issues": 4,
-            "owner": "minamo7sen",
-            "repo": "burp-JS-Miner",
             "stars": 59,
             "topics": []
           },
@@ -1148,7 +1148,7 @@
             "open_issues": 5,
             "owner": "ah8r",
             "repo": "csrf",
-            "stars": 20,
+            "stars": 21,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4371,
+                "stars": 4372,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -4402,7 +4402,7 @@
                     "open_issues": 0,
                     "owner": "attackercan",
                     "repo": "burp-xss-sql-plugin",
-                    "stars": 44,
+                    "stars": 45,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -4831,7 +4831,7 @@
                     "open_issues": 5,
                     "owner": "ah8r",
                     "repo": "csrf",
-                    "stars": 20,
+                    "stars": 21,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5222,7 +5222,7 @@
                     "open_issues": 4,
                     "owner": "minamo7sen",
                     "repo": "burp-JS-Miner",
-                    "stars": 59,
+                    "stars": 60,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5579,7 +5579,7 @@
                     "open_issues": 0,
                     "owner": "attackercan",
                     "repo": "burp-xss-sql-plugin",
-                    "stars": 44,
+                    "stars": 45,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6175,7 +6175,7 @@
                 "open_issues": 5,
                 "owner": "c0ny1",
                 "repo": "chunked-coding-converter",
-                "stars": 2028,
+                "stars": 2029,
                 "topics": [
                   "burpsuite-extender",
                   "chunked",
@@ -6200,7 +6200,7 @@
                 "open_issues": 13,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1892,
+                "stars": 1894,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -7576,7 +7576,7 @@
                 "open_issues": 0,
                 "owner": "Anof-cyber",
                 "repo": "PyCript",
-                "stars": 220,
+                "stars": 221,
                 "topics": [
                   "application-security",
                   "bug-bounty",
@@ -7758,7 +7758,7 @@
                 "open_issues": 22,
                 "owner": "summitt",
                 "repo": "Nope-Proxy",
-                "stars": 1664,
+                "stars": 1663,
                 "topics": [
                   "appsec",
                   "appsecurity",
@@ -8161,8 +8161,8 @@
                 "id": 448849019,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2025-10-22T13:47:39Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-11T12:19:53Z",
+                "open_issues": 9,
                 "owner": "projectdiscovery",
                 "repo": "nuclei-burp-plugin",
                 "stars": 1346,
@@ -8467,7 +8467,7 @@
                 "open_issues": 35,
                 "owner": "bit4woo",
                 "repo": "knife",
-                "stars": 1963,
+                "stars": 1964,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -9467,7 +9467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T12:54:24.070Z",
+    "last_updated": "2026-09-11T12:48:39.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
