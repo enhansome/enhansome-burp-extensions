@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "doyensec",
             "repo": "inql",
-            "stars": 1809,
+            "stars": 1810,
             "topics": [
               "api-documentation-tool",
               "bugbounty",
@@ -1492,7 +1492,7 @@
                 "open_issues": 7,
                 "owner": "wagiro",
                 "repo": "BurpBounty",
-                "stars": 1814,
+                "stars": 1815,
                 "topics": [
                   "bug-bounty",
                   "bugbounty",
@@ -1541,7 +1541,7 @@
                 "open_issues": 20,
                 "owner": "yeswehack",
                 "repo": "PwnFox",
-                "stars": 1342,
+                "stars": 1344,
                 "topics": [
                   "bugbounty",
                   "firefox-extension",
@@ -1714,8 +1714,8 @@
                 "id": 110985160,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-06-03T20:27:45Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-12T11:47:35Z",
+                "open_issues": 4,
                 "owner": "hackvertor",
                 "repo": "hackvertor",
                 "stars": 250,
@@ -8144,7 +8144,7 @@
                 "open_issues": 11,
                 "owner": "federicodotta",
                 "repo": "Brida",
-                "stars": 1892,
+                "stars": 1894,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8161,8 +8161,8 @@
                 "id": 448849019,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-11T12:19:53Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-11T20:46:19Z",
+                "open_issues": 1,
                 "owner": "projectdiscovery",
                 "repo": "nuclei-burp-plugin",
                 "stars": 1346,
@@ -8467,7 +8467,7 @@
                 "open_issues": 35,
                 "owner": "bit4woo",
                 "repo": "knife",
-                "stars": 1964,
+                "stars": 1965,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -9467,7 +9467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T12:48:39.656Z",
+    "last_updated": "2026-09-12T12:09:15.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
