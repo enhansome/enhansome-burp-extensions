@@ -180,7 +180,7 @@
             "open_issues": 12,
             "owner": "whwlsfb",
             "repo": "Log4j2Scan",
-            "stars": 834,
+            "stars": 833,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -245,7 +245,7 @@
             "open_issues": 17,
             "owner": "ilmila",
             "repo": "J2EEScan",
-            "stars": 681,
+            "stars": 679,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -266,7 +266,7 @@
             "open_issues": 7,
             "owner": "albinowax",
             "repo": "ActiveScanPlusPlus",
-            "stars": 668,
+            "stars": 667,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -609,7 +609,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A burp suite extension that enumerates infrastructure and application admin interfaces (OTG-CONFIG-005)",
+            "description": "Burp Suite extension that finds exposed admin panels and login pages of web applications and infrastructure. 1,000+ payloads, OWASP WSTG-CONF-05.",
             "homepage": null,
             "id": 149314518,
             "language": "Java",
@@ -628,12 +628,12 @@
               "admin-panel-finder",
               "adminpanelfinder",
               "application-security",
+              "burp-extension",
               "burp-extensions",
               "burpsuite",
               "burpsuite-extender",
               "data-leakage",
               "find-admin",
-              "okadminfinder",
               "owasp",
               "owasp-top-10",
               "owasp-top-ten",
@@ -1520,7 +1520,7 @@
                 "open_issues": 5,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1532,
+                "stars": 1531,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1688,7 +1688,7 @@
                 "open_issues": 11,
                 "owner": "usdAG",
                 "repo": "cstc",
-                "stars": 267,
+                "stars": 266,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -1714,11 +1714,11 @@
                 "id": 110985160,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-09-12T11:47:35Z",
+                "last_commit": "2026-09-17T12:05:41Z",
                 "open_issues": 4,
                 "owner": "hackvertor",
                 "repo": "hackvertor",
-                "stars": 249,
+                "stars": 248,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1798,8 +1798,8 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A burp suite extension that reviews backup, old, temporary and unreferenced files on web server for sensitive information (OWASP WSTG-CONF-04, OTG-CONFIG-004)",
-                "homepage": null,
+                "description": "Burp Suite extension (BApp Store) that finds backup, old, temporary and unreferenced files leaking sensitive data on web servers. OWASP WSTG-CONF-04.",
+                "homepage": "https://portswigger.net/bappstore/466bc6cbf5bb4449b56af7bd9c0000ea",
                 "id": 148107575,
                 "language": "Java",
                 "license": "GPL-3.0",
@@ -1811,8 +1811,10 @@
                 "topics": [
                   "application-security",
                   "appsecurity",
+                  "backup-files",
                   "backupfinder",
                   "burp",
+                  "burp-extension",
                   "burp-extensions",
                   "burpsuite",
                   "burpsuite-extender",
@@ -1823,7 +1825,8 @@
                   "penetration-testing",
                   "pentesting",
                   "portswigger",
-                  "sensitive-data-exposure"
+                  "sensitive-data-exposure",
+                  "wstg"
                 ]
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -2678,7 +2681,7 @@
                 "open_issues": 11,
                 "owner": "usdAG",
                 "repo": "cstc",
-                "stars": 267,
+                "stars": 266,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -3181,7 +3184,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2138,
+                "stars": 2139,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -3778,27 +3781,6 @@
             },
             {
               "node_type": "item",
-              "title": "JWT Editor",
-              "description": "A Burp Suite extension for creating and editing JSON Web Tokens.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Burp Suite extension for creating and editing JSON Web Tokens. This tool supports signing and verification of JWS, encryption and decryption of JWE and automation of several well-known attacks against applications that consume JWT.",
-                "homepage": null,
-                "id": 468860328,
-                "language": "Java",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-04T16:55:32Z",
-                "open_issues": 3,
-                "owner": "DolphFlynn",
-                "repo": "jwt-editor",
-                "stars": 31,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:11:33.961Z"
-            },
-            {
-              "node_type": "item",
               "title": "SAMLReQuest",
               "description": "Enables you to view, decode, and modify SAML requests and responses.",
               "children": [],
@@ -3813,6 +3795,27 @@
                 "open_issues": 1,
                 "owner": "ernw",
                 "repo": "burpsuite-extensions",
+                "stars": 30,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:11:33.961Z"
+            },
+            {
+              "node_type": "item",
+              "title": "JWT Editor",
+              "description": "A Burp Suite extension for creating and editing JSON Web Tokens.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Burp Suite extension for creating and editing JSON Web Tokens. This tool supports signing and verification of JWS, encryption and decryption of JWE and automation of several well-known attacks against applications that consume JWT.",
+                "homepage": null,
+                "id": 468860328,
+                "language": "Java",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-04T16:55:32Z",
+                "open_issues": 3,
+                "owner": "DolphFlynn",
+                "repo": "jwt-editor",
                 "stars": 30,
                 "topics": []
               },
@@ -3999,7 +4002,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A burp suite extension that enumerates infrastructure and application admin interfaces (OTG-CONFIG-005)",
+                "description": "Burp Suite extension that finds exposed admin panels and login pages of web applications and infrastructure. 1,000+ payloads, OWASP WSTG-CONF-05.",
                 "homepage": null,
                 "id": 149314518,
                 "language": "Java",
@@ -4018,12 +4021,12 @@
                   "admin-panel-finder",
                   "adminpanelfinder",
                   "application-security",
+                  "burp-extension",
                   "burp-extensions",
                   "burpsuite",
                   "burpsuite-extender",
                   "data-leakage",
                   "find-admin",
-                  "okadminfinder",
                   "owasp",
                   "owasp-top-10",
                   "owasp-top-ten",
@@ -4613,7 +4616,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "A burp suite extension that enumerates infrastructure and application admin interfaces (OTG-CONFIG-005)",
+                    "description": "Burp Suite extension that finds exposed admin panels and login pages of web applications and infrastructure. 1,000+ payloads, OWASP WSTG-CONF-05.",
                     "homepage": null,
                     "id": 149314518,
                     "language": "Java",
@@ -4632,12 +4635,12 @@
                       "admin-panel-finder",
                       "adminpanelfinder",
                       "application-security",
+                      "burp-extension",
                       "burp-extensions",
                       "burpsuite",
                       "burpsuite-extender",
                       "data-leakage",
                       "find-admin",
-                      "okadminfinder",
                       "owasp",
                       "owasp-top-10",
                       "owasp-top-ten",
@@ -4975,7 +4978,7 @@
                     "open_issues": 0,
                     "owner": "BishopFox",
                     "repo": "GadgetProbe",
-                    "stars": 621,
+                    "stars": 620,
                     "topics": [
                       "burp-extensions",
                       "java",
@@ -5124,7 +5127,7 @@
                     "open_issues": 5,
                     "owner": "xnl-h4ck3r",
                     "repo": "GAP-Burp-Extension",
-                    "stars": 1532,
+                    "stars": 1531,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5145,7 +5148,7 @@
                     "open_issues": 6,
                     "owner": "InitRoot",
                     "repo": "BurpJSLinkFinder",
-                    "stars": 821,
+                    "stars": 820,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6175,7 +6178,7 @@
                 "open_issues": 5,
                 "owner": "c0ny1",
                 "repo": "chunked-coding-converter",
-                "stars": 2029,
+                "stars": 2028,
                 "topics": [
                   "burpsuite-extender",
                   "chunked",
@@ -6196,11 +6199,11 @@
                 "id": 451267945,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-15T19:43:05Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-16T16:37:02Z",
+                "open_issues": 8,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1897,
+                "stars": 1895,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -6237,7 +6240,7 @@
                 "open_issues": 1,
                 "owner": "nccgroup",
                 "repo": "BurpSuiteHTTPSmuggler",
-                "stars": 745,
+                "stars": 744,
                 "topics": [
                   "burpsuite",
                   "burpsuite-extender",
@@ -6263,7 +6266,7 @@
                 "open_issues": 1,
                 "owner": "nccgroup",
                 "repo": "BurpSuiteHTTPSmuggler",
-                "stars": 745,
+                "stars": 744,
                 "topics": [
                   "burpsuite",
                   "burpsuite-extender",
@@ -6447,7 +6450,7 @@
                 "open_issues": 35,
                 "owner": "nccgroup",
                 "repo": "LoggerPlusPlus",
-                "stars": 710,
+                "stars": 709,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6962,7 +6965,7 @@
                 "open_issues": 5,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1532,
+                "stars": 1531,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -7479,7 +7482,7 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2023-08-04T02:54:21Z",
-                "open_issues": 16,
+                "open_issues": 15,
                 "owner": "whwlsfb",
                 "repo": "BurpCrypto",
                 "stars": 1648,
@@ -7737,7 +7740,7 @@
                 "open_issues": 22,
                 "owner": "summitt",
                 "repo": "Nope-Proxy",
-                "stars": 1663,
+                "stars": 1662,
                 "topics": [
                   "appsec",
                   "appsecurity",
@@ -7775,7 +7778,7 @@
                 "open_issues": 6,
                 "owner": "NetSPI",
                 "repo": "Wsdler",
-                "stars": 283,
+                "stars": 282,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -9425,7 +9428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T13:29:12.476Z",
+    "last_updated": "2026-09-17T13:24:57.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
@@ -9437,7 +9440,7 @@
       "open_issues": 1,
       "owner": "snoopysecurity",
       "repo": "awesome-burp-extensions",
-      "stars": 3448,
+      "stars": 3449,
       "topics": []
     },
     "original_repository_sha": "7cbf7fdf4d690af55b33be6fcf5cb7e6ac093e8c",
