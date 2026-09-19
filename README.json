@@ -136,7 +136,7 @@
             "open_issues": 13,
             "owner": "PortSwigger",
             "repo": "http-request-smuggler",
-            "stars": 1245,
+            "stars": 1244,
             "topics": [
               "extension"
             ]
@@ -533,7 +533,7 @@
             "open_issues": 4,
             "owner": "0xAnuj",
             "repo": "Blinks",
-            "stars": 144,
+            "stars": 145,
             "topics": [
               "burp",
               "burp-extensions",
@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4374,
+                "stars": 4375,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -1492,7 +1492,7 @@
                 "open_issues": 7,
                 "owner": "wagiro",
                 "repo": "BurpBounty",
-                "stars": 1814,
+                "stars": 1815,
                 "topics": [
                   "bug-bounty",
                   "bugbounty",
@@ -1684,8 +1684,8 @@
                 "id": 195959897,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-18T12:32:26Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-18T20:26:39Z",
+                "open_issues": 12,
                 "owner": "usdAG",
                 "repo": "cstc",
                 "stars": 266,
@@ -2677,8 +2677,8 @@
                 "id": 195959897,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-18T12:32:26Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-18T20:26:39Z",
+                "open_issues": 12,
                 "owner": "usdAG",
                 "repo": "cstc",
                 "stars": 266,
@@ -3184,7 +3184,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2140,
+                "stars": 2141,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -5389,8 +5389,8 @@
                     "id": 556012246,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-02T21:09:25Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-09-19T02:04:20Z",
+                    "open_issues": 4,
                     "owner": "levoai",
                     "repo": "levoai-burp-extension",
                     "stars": 31,
@@ -6080,7 +6080,7 @@
                     "open_issues": 46,
                     "owner": "epinna",
                     "repo": "tplmap",
-                    "stars": 4203,
+                    "stars": 4204,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6203,7 +6203,7 @@
                 "open_issues": 8,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1893,
+                "stars": 1894,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -8147,7 +8147,7 @@
                 "open_issues": 0,
                 "owner": "projectdiscovery",
                 "repo": "nuclei-burp-plugin",
-                "stars": 1349,
+                "stars": 1350,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8168,7 +8168,7 @@
                 "open_issues": 11,
                 "owner": "yeswehack",
                 "repo": "YesWeBurp",
-                "stars": 114,
+                "stars": 113,
                 "topics": [
                   "bugbounty",
                   "burp-extensions",
@@ -9428,7 +9428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T12:56:58.923Z",
+    "last_updated": "2026-09-19T12:28:41.781Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
