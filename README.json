@@ -1462,11 +1462,11 @@
                 "id": 249674874,
                 "language": null,
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-21T19:11:41Z",
+                "last_commit": "2026-09-20T07:35:14Z",
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4375,
+                "stars": 4383,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -1520,7 +1520,7 @@
                 "open_issues": 5,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1531,
+                "stars": 1532,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5127,7 +5127,7 @@
                     "open_issues": 5,
                     "owner": "xnl-h4ck3r",
                     "repo": "GAP-Burp-Extension",
-                    "stars": 1531,
+                    "stars": 1532,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5148,7 +5148,7 @@
                     "open_issues": 6,
                     "owner": "InitRoot",
                     "repo": "BurpJSLinkFinder",
-                    "stars": 820,
+                    "stars": 821,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6080,7 +6080,7 @@
                     "open_issues": 46,
                     "owner": "epinna",
                     "repo": "tplmap",
-                    "stars": 4204,
+                    "stars": 4205,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6203,7 +6203,7 @@
                 "open_issues": 8,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1894,
+                "stars": 1895,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -6936,7 +6936,7 @@
                 "open_issues": 0,
                 "owner": "d3vilbug",
                 "repo": "HackBar",
-                "stars": 1634,
+                "stars": 1635,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -6965,7 +6965,7 @@
                 "open_issues": 5,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1531,
+                "stars": 1532,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8485,7 +8485,7 @@
                 "open_issues": 0,
                 "owner": "d3vilbug",
                 "repo": "HackBar",
-                "stars": 1634,
+                "stars": 1635,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -9428,7 +9428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T12:28:41.781Z",
+    "last_updated": "2026-09-20T13:02:12.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
