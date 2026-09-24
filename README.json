@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "doyensec",
             "repo": "inql",
-            "stars": 1812,
+            "stars": 1810,
             "topics": [
               "api-documentation-tool",
               "bugbounty",
@@ -94,7 +94,7 @@
             "open_issues": 11,
             "owner": "F6JO",
             "repo": "RouteVulScan",
-            "stars": 1334,
+            "stars": 1333,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -115,7 +115,7 @@
             "open_issues": 11,
             "owner": "F6JO",
             "repo": "RouteVulScan",
-            "stars": 1334,
+            "stars": 1333,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -416,7 +416,7 @@
             "open_issues": 8,
             "owner": "h3xstream",
             "repo": "burp-retire-js",
-            "stars": 214,
+            "stars": 215,
             "topics": [
               "burp-plugin",
               "javascript",
@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4392,
+                "stars": 4393,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -1541,7 +1541,7 @@
                 "open_issues": 20,
                 "owner": "yeswehack",
                 "repo": "PwnFox",
-                "stars": 1347,
+                "stars": 1348,
                 "topics": [
                   "bugbounty",
                   "firefox-extension",
@@ -1594,7 +1594,7 @@
                 "open_issues": 11,
                 "owner": "C0DEbrained",
                 "repo": "BurpCustomizer",
-                "stars": 587,
+                "stars": 586,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1636,7 +1636,7 @@
                 "open_issues": 0,
                 "owner": "daffainfo",
                 "repo": "match-replace-burp",
-                "stars": 375,
+                "stars": 374,
                 "topics": [
                   "bugbounty",
                   "burpsuite",
@@ -2732,7 +2732,7 @@
                 "open_issues": 4,
                 "owner": "nccgroup",
                 "repo": "Decoder-Improved",
-                "stars": 139,
+                "stars": 138,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -4498,7 +4498,7 @@
                     "open_issues": 11,
                     "owner": "Quitten",
                     "repo": "Autorize",
-                    "stars": 1174,
+                    "stars": 1173,
                     "topics": [
                       "application-security",
                       "authorization",
@@ -4572,7 +4572,7 @@
                     "open_issues": 13,
                     "owner": "simioni87",
                     "repo": "auth_analyzer",
-                    "stars": 226,
+                    "stars": 227,
                     "topics": [
                       "application-security",
                       "auth",
@@ -4602,7 +4602,7 @@
                     "open_issues": 11,
                     "owner": "JGillam",
                     "repo": "burp-paramalyzer",
-                    "stars": 161,
+                    "stars": 160,
                     "topics": [
                       "pentesting"
                     ]
@@ -5148,7 +5148,7 @@
                     "open_issues": 6,
                     "owner": "InitRoot",
                     "repo": "BurpJSLinkFinder",
-                    "stars": 822,
+                    "stars": 821,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6178,7 +6178,7 @@
                 "open_issues": 5,
                 "owner": "c0ny1",
                 "repo": "chunked-coding-converter",
-                "stars": 2028,
+                "stars": 2027,
                 "topics": [
                   "burpsuite-extender",
                   "chunked",
@@ -6203,7 +6203,7 @@
                 "open_issues": 8,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1897,
+                "stars": 1896,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -6913,7 +6913,7 @@
                 "open_issues": 19,
                 "owner": "PortSwigger",
                 "repo": "turbo-intruder",
-                "stars": 1809,
+                "stars": 1810,
                 "topics": [
                   "extension"
                 ]
@@ -8514,7 +8514,7 @@
                 "open_issues": 11,
                 "owner": "C0DEbrained",
                 "repo": "BurpCustomizer",
-                "stars": 587,
+                "stars": 586,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8556,7 +8556,7 @@
                 "open_issues": 6,
                 "owner": "0x4D31",
                 "repo": "burpa",
-                "stars": 536,
+                "stars": 535,
                 "topics": [
                   "automation",
                   "burp",
@@ -9233,27 +9233,6 @@
             },
             {
               "node_type": "item",
-              "title": "Kerberos Upstream Proxy Extension for Burp Suite",
-              "description": "An extension to allow the use of Burp Suite with an upstream proxy that requires Kerberos authentication.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 754321573,
-                "language": "Java",
-                "license": null,
-                "last_commit": "2025-05-08T15:39:03Z",
-                "open_issues": 1,
-                "owner": "agreenbhm",
-                "repo": "BurpKerberosUpstreamProxy",
-                "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:11:33.961Z"
-            },
-            {
-              "node_type": "item",
               "title": "SourceMapper",
               "description": "This is a Burpsuite extension for injecting offline source maps for easier JavaScript debugging.",
               "children": [],
@@ -9269,6 +9248,27 @@
                 "owner": "yg-ht",
                 "repo": "Burp-SourceMapper",
                 "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:11:33.961Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Kerberos Upstream Proxy Extension for Burp Suite",
+              "description": "An extension to allow the use of Burp Suite with an upstream proxy that requires Kerberos authentication.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 754321573,
+                "language": "Java",
+                "license": null,
+                "last_commit": "2025-05-08T15:39:03Z",
+                "open_issues": 1,
+                "owner": "agreenbhm",
+                "repo": "BurpKerberosUpstreamProxy",
+                "stars": 2,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -9428,7 +9428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T13:37:03.272Z",
+    "last_updated": "2026-09-24T13:32:03.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
@@ -9440,7 +9440,7 @@
       "open_issues": 1,
       "owner": "snoopysecurity",
       "repo": "awesome-burp-extensions",
-      "stars": 3447,
+      "stars": 3445,
       "topics": []
     },
     "original_repository_sha": "7cbf7fdf4d690af55b33be6fcf5cb7e6ac093e8c",
