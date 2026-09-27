@@ -3184,7 +3184,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2140,
+                "stars": 2141,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -4498,7 +4498,7 @@
                     "open_issues": 11,
                     "owner": "Quitten",
                     "repo": "Autorize",
-                    "stars": 1173,
+                    "stars": 1174,
                     "topics": [
                       "application-security",
                       "authorization",
@@ -4978,7 +4978,7 @@
                     "open_issues": 0,
                     "owner": "BishopFox",
                     "repo": "GadgetProbe",
-                    "stars": 620,
+                    "stars": 619,
                     "topics": [
                       "burp-extensions",
                       "java",
@@ -6203,7 +6203,7 @@
                 "open_issues": 9,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1897,
+                "stars": 1898,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -6450,7 +6450,7 @@
                 "open_issues": 35,
                 "owner": "nccgroup",
                 "repo": "LoggerPlusPlus",
-                "stars": 710,
+                "stars": 711,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8147,7 +8147,7 @@
                 "open_issues": 1,
                 "owner": "projectdiscovery",
                 "repo": "nuclei-burp-plugin",
-                "stars": 1353,
+                "stars": 1354,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8449,7 +8449,7 @@
                 "open_issues": 35,
                 "owner": "bit4woo",
                 "repo": "knife",
-                "stars": 1968,
+                "stars": 1967,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -9428,7 +9428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T13:02:57.119Z",
+    "last_updated": "2026-09-27T13:55:42.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
