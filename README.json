@@ -201,7 +201,7 @@
             "open_issues": 11,
             "owner": "federicodotta",
             "repo": "Java-Deserialization-Scanner",
-            "stars": 803,
+            "stars": 804,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -266,7 +266,7 @@
             "open_issues": 6,
             "owner": "albinowax",
             "repo": "ActiveScanPlusPlus",
-            "stars": 667,
+            "stars": 668,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4392,
+                "stars": 4395,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -1541,7 +1541,7 @@
                 "open_issues": 20,
                 "owner": "yeswehack",
                 "repo": "PwnFox",
-                "stars": 1348,
+                "stars": 1349,
                 "topics": [
                   "bugbounty",
                   "firefox-extension",
@@ -3181,10 +3181,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-07-09T03:20:37Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2141,
+                "stars": 2142,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -3645,7 +3645,7 @@
                 "open_issues": 15,
                 "owner": "CompassSecurity",
                 "repo": "SAMLRaider",
-                "stars": 451,
+                "stars": 452,
                 "topics": [
                   "burp",
                   "saml"
@@ -3962,7 +3962,7 @@
                 "open_issues": 2,
                 "owner": "P3GLEG",
                 "repo": "PwnBack",
-                "stars": 227,
+                "stars": 228,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -4267,7 +4267,7 @@
                     "open_issues": 14,
                     "owner": "elkokc",
                     "repo": "reflector",
-                    "stars": 1215,
+                    "stars": 1216,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -4957,7 +4957,7 @@
                     "open_issues": 11,
                     "owner": "federicodotta",
                     "repo": "Java-Deserialization-Scanner",
-                    "stars": 803,
+                    "stars": 804,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6080,7 +6080,7 @@
                     "open_issues": 46,
                     "owner": "epinna",
                     "repo": "tplmap",
-                    "stars": 4206,
+                    "stars": 4207,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6203,7 +6203,7 @@
                 "open_issues": 9,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1898,
+                "stars": 1899,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -6313,7 +6313,7 @@
                 "open_issues": 2,
                 "owner": "Gilzy",
                 "repo": "403Bypasser",
-                "stars": 59,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6913,7 +6913,7 @@
                 "open_issues": 19,
                 "owner": "PortSwigger",
                 "repo": "turbo-intruder",
-                "stars": 1812,
+                "stars": 1813,
                 "topics": [
                   "extension"
                 ]
@@ -7740,7 +7740,7 @@
                 "open_issues": 22,
                 "owner": "summitt",
                 "repo": "Nope-Proxy",
-                "stars": 1661,
+                "stars": 1660,
                 "topics": [
                   "appsec",
                   "appsecurity",
@@ -9428,7 +9428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T13:55:42.611Z",
+    "last_updated": "2026-09-28T16:44:11.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
