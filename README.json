@@ -94,7 +94,7 @@
             "open_issues": 11,
             "owner": "F6JO",
             "repo": "RouteVulScan",
-            "stars": 1333,
+            "stars": 1334,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -115,7 +115,7 @@
             "open_issues": 11,
             "owner": "F6JO",
             "repo": "RouteVulScan",
-            "stars": 1333,
+            "stars": 1334,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -201,7 +201,7 @@
             "open_issues": 11,
             "owner": "federicodotta",
             "repo": "Java-Deserialization-Scanner",
-            "stars": 804,
+            "stars": 805,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1541,7 +1541,7 @@
                 "open_issues": 20,
                 "owner": "yeswehack",
                 "repo": "PwnFox",
-                "stars": 1349,
+                "stars": 1351,
                 "topics": [
                   "bugbounty",
                   "firefox-extension",
@@ -1684,8 +1684,8 @@
                 "id": 195959897,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-21T13:53:34Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-28T20:28:17Z",
+                "open_issues": 13,
                 "owner": "usdAG",
                 "repo": "cstc",
                 "stars": 266,
@@ -2677,8 +2677,8 @@
                 "id": 195959897,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-21T13:53:34Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-28T20:28:17Z",
+                "open_issues": 13,
                 "owner": "usdAG",
                 "repo": "cstc",
                 "stars": 266,
@@ -3184,7 +3184,7 @@
                 "open_issues": 1,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2142,
+                "stars": 2143,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -4957,7 +4957,7 @@
                     "open_issues": 11,
                     "owner": "federicodotta",
                     "repo": "Java-Deserialization-Scanner",
-                    "stars": 804,
+                    "stars": 805,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5389,8 +5389,8 @@
                     "id": 556012246,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-25T04:51:55Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-09-29T02:02:48Z",
+                    "open_issues": 1,
                     "owner": "levoai",
                     "repo": "levoai-burp-extension",
                     "stars": 31,
@@ -6080,7 +6080,7 @@
                     "open_issues": 46,
                     "owner": "epinna",
                     "repo": "tplmap",
-                    "stars": 4207,
+                    "stars": 4208,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8126,7 +8126,7 @@
                 "open_issues": 11,
                 "owner": "federicodotta",
                 "repo": "Brida",
-                "stars": 1897,
+                "stars": 1898,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -9428,7 +9428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T16:44:11.921Z",
+    "last_updated": "2026-09-29T14:50:03.526Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
