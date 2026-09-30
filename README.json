@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "doyensec",
             "repo": "inql",
-            "stars": 1811,
+            "stars": 1810,
             "topics": [
               "api-documentation-tool",
               "bugbounty",
@@ -201,7 +201,7 @@
             "open_issues": 11,
             "owner": "federicodotta",
             "repo": "Java-Deserialization-Scanner",
-            "stars": 805,
+            "stars": 804,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -590,7 +590,7 @@
             "open_issues": 0,
             "owner": "yandex",
             "repo": "burp-molly-pack",
-            "stars": 140,
+            "stars": 139,
             "topics": [
               "burp-extensions",
               "burp-plugin",
@@ -1492,7 +1492,7 @@
                 "open_issues": 7,
                 "owner": "wagiro",
                 "repo": "BurpBounty",
-                "stars": 1814,
+                "stars": 1812,
                 "topics": [
                   "bug-bounty",
                   "bugbounty",
@@ -1541,7 +1541,7 @@
                 "open_issues": 20,
                 "owner": "yeswehack",
                 "repo": "PwnFox",
-                "stars": 1351,
+                "stars": 1350,
                 "topics": [
                   "bugbounty",
                   "firefox-extension",
@@ -1594,7 +1594,7 @@
                 "open_issues": 11,
                 "owner": "C0DEbrained",
                 "repo": "BurpCustomizer",
-                "stars": 586,
+                "stars": 585,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -4551,7 +4551,7 @@
                     "open_issues": 29,
                     "owner": "SecurityInnovation",
                     "repo": "AuthMatrix",
-                    "stars": 646,
+                    "stars": 645,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -4957,7 +4957,7 @@
                     "open_issues": 11,
                     "owner": "federicodotta",
                     "repo": "Java-Deserialization-Scanner",
-                    "stars": 805,
+                    "stars": 804,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -4978,7 +4978,7 @@
                     "open_issues": 0,
                     "owner": "BishopFox",
                     "repo": "GadgetProbe",
-                    "stars": 619,
+                    "stars": 618,
                     "topics": [
                       "burp-extensions",
                       "java",
@@ -6080,7 +6080,7 @@
                     "open_issues": 46,
                     "owner": "epinna",
                     "repo": "tplmap",
-                    "stars": 4208,
+                    "stars": 4206,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6178,7 +6178,7 @@
                 "open_issues": 5,
                 "owner": "c0ny1",
                 "repo": "chunked-coding-converter",
-                "stars": 2027,
+                "stars": 2026,
                 "topics": [
                   "burpsuite-extender",
                   "chunked",
@@ -6320,27 +6320,6 @@
             },
             {
               "node_type": "item",
-              "title": "WAF Bypadd",
-              "description": "This Burp Suite extension is designed to bypass Web Application Firewalls (WAFs) by padding HTTP requests with dummy data.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This Burp Suite extension is designed to bypass Web Application Firewalls (WAFs) by padding HTTP requests with dummy data.",
-                "homepage": null,
-                "id": 669106539,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2023-07-23T17:41:09Z",
-                "open_issues": 0,
-                "owner": "julianjm",
-                "repo": "waf_bypadd",
-                "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:11:33.961Z"
-            },
-            {
-              "node_type": "item",
               "title": "Random IP Address Header",
               "description": "This extension automatically generates IPV6 and IPV4 fake source address headers to evade WAF filtering.",
               "children": [],
@@ -6359,6 +6338,27 @@
                 "topics": [
                   "extension"
                 ]
+              },
+              "first_seen": "2026-08-28T20:11:33.961Z"
+            },
+            {
+              "node_type": "item",
+              "title": "WAF Bypadd",
+              "description": "This Burp Suite extension is designed to bypass Web Application Firewalls (WAFs) by padding HTTP requests with dummy data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This Burp Suite extension is designed to bypass Web Application Firewalls (WAFs) by padding HTTP requests with dummy data.",
+                "homepage": null,
+                "id": 669106539,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2023-07-23T17:41:09Z",
+                "open_issues": 0,
+                "owner": "julianjm",
+                "repo": "waf_bypadd",
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
             },
@@ -6450,7 +6450,7 @@
                 "open_issues": 35,
                 "owner": "nccgroup",
                 "repo": "LoggerPlusPlus",
-                "stars": 711,
+                "stars": 710,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -7485,7 +7485,7 @@
                 "open_issues": 15,
                 "owner": "whwlsfb",
                 "repo": "BurpCrypto",
-                "stars": 1651,
+                "stars": 1652,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -7553,7 +7553,7 @@
                 "open_issues": 10,
                 "owner": "romanzaikin",
                 "repo": "BurpExtension-WhatsApp-Decryption-CheckPoint",
-                "stars": 644,
+                "stars": 643,
                 "topics": [
                   "burpsuite-extender",
                   "hacking-tool",
@@ -8449,7 +8449,7 @@
                 "open_issues": 35,
                 "owner": "bit4woo",
                 "repo": "knife",
-                "stars": 1967,
+                "stars": 1968,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -8514,7 +8514,7 @@
                 "open_issues": 11,
                 "owner": "C0DEbrained",
                 "repo": "BurpCustomizer",
-                "stars": 586,
+                "stars": 585,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8609,7 +8609,7 @@
                 "open_issues": 1,
                 "owner": "bit4woo",
                 "repo": "u2c",
-                "stars": 251,
+                "stars": 250,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -9428,7 +9428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T14:50:03.526Z",
+    "last_updated": "2026-09-30T14:54:03.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
@@ -9440,7 +9440,7 @@
       "open_issues": 1,
       "owner": "snoopysecurity",
       "repo": "awesome-burp-extensions",
-      "stars": 3446,
+      "stars": 3447,
       "topics": []
     },
     "original_repository_sha": "7cbf7fdf4d690af55b33be6fcf5cb7e6ac093e8c",
