@@ -94,7 +94,7 @@
             "open_issues": 11,
             "owner": "F6JO",
             "repo": "RouteVulScan",
-            "stars": 1334,
+            "stars": 1335,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -115,7 +115,7 @@
             "open_issues": 11,
             "owner": "F6JO",
             "repo": "RouteVulScan",
-            "stars": 1334,
+            "stars": 1335,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -201,7 +201,7 @@
             "open_issues": 11,
             "owner": "federicodotta",
             "repo": "Java-Deserialization-Scanner",
-            "stars": 803,
+            "stars": 804,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1541,7 +1541,7 @@
                 "open_issues": 20,
                 "owner": "yeswehack",
                 "repo": "PwnFox",
-                "stars": 1350,
+                "stars": 1351,
                 "topics": [
                   "bugbounty",
                   "firefox-extension",
@@ -3812,8 +3812,8 @@
                 "id": 468860328,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T16:55:32Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-01T17:48:06Z",
+                "open_issues": 5,
                 "owner": "DolphFlynn",
                 "repo": "jwt-editor",
                 "stars": 30,
@@ -4957,7 +4957,7 @@
                     "open_issues": 11,
                     "owner": "federicodotta",
                     "repo": "Java-Deserialization-Scanner",
-                    "stars": 803,
+                    "stars": 804,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5389,8 +5389,8 @@
                     "id": 556012246,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-01T02:03:15Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-10-02T02:03:04Z",
+                    "open_issues": 4,
                     "owner": "levoai",
                     "repo": "levoai-burp-extension",
                     "stars": 31,
@@ -6203,7 +6203,7 @@
                 "open_issues": 9,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1899,
+                "stars": 1898,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -6913,7 +6913,7 @@
                 "open_issues": 19,
                 "owner": "PortSwigger",
                 "repo": "turbo-intruder",
-                "stars": 1813,
+                "stars": 1814,
                 "topics": [
                   "extension"
                 ]
@@ -7740,7 +7740,7 @@
                 "open_issues": 22,
                 "owner": "summitt",
                 "repo": "Nope-Proxy",
-                "stars": 1660,
+                "stars": 1661,
                 "topics": [
                   "appsec",
                   "appsecurity",
@@ -8126,7 +8126,7 @@
                 "open_issues": 11,
                 "owner": "federicodotta",
                 "repo": "Brida",
-                "stars": 1898,
+                "stars": 1899,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8449,7 +8449,7 @@
                 "open_issues": 35,
                 "owner": "bit4woo",
                 "repo": "knife",
-                "stars": 1968,
+                "stars": 1969,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -8963,8 +8963,8 @@
                 "id": 698176149,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-01T07:26:06Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-02T07:23:41Z",
+                "open_issues": 9,
                 "owner": "joshspindler",
                 "repo": "extensibility-helper",
                 "stars": 10,
@@ -9428,7 +9428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T15:25:57.900Z",
+    "last_updated": "2026-10-02T14:43:02.284Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
