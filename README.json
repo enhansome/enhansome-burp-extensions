@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4396,
+                "stars": 4397,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -9428,7 +9428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:39:07.042Z",
+    "last_updated": "2026-10-03T13:21:31.525Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
