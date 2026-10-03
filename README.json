@@ -52,7 +52,7 @@
             "open_issues": 8,
             "owner": "pmiaowu",
             "repo": "BurpShiroPassiveScan",
-            "stars": 1809,
+            "stars": 1808,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -73,7 +73,7 @@
             "open_issues": 7,
             "owner": "sting8k",
             "repo": "BurpSuite_403Bypasser",
-            "stars": 1708,
+            "stars": 1706,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -94,7 +94,7 @@
             "open_issues": 11,
             "owner": "F6JO",
             "repo": "RouteVulScan",
-            "stars": 1335,
+            "stars": 1334,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -115,7 +115,7 @@
             "open_issues": 11,
             "owner": "F6JO",
             "repo": "RouteVulScan",
-            "stars": 1335,
+            "stars": 1334,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -136,7 +136,7 @@
             "open_issues": 13,
             "owner": "PortSwigger",
             "repo": "http-request-smuggler",
-            "stars": 1246,
+            "stars": 1247,
             "topics": [
               "extension"
             ]
@@ -266,7 +266,7 @@
             "open_issues": 6,
             "owner": "albinowax",
             "repo": "ActiveScanPlusPlus",
-            "stars": 668,
+            "stars": 667,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -955,7 +955,7 @@
             "open_issues": 2,
             "owner": "silentsignal",
             "repo": "burp-uuid",
-            "stars": 55,
+            "stars": 54,
             "topics": [
               "burp",
               "uuid"
@@ -1492,7 +1492,7 @@
                 "open_issues": 7,
                 "owner": "wagiro",
                 "repo": "BurpBounty",
-                "stars": 1812,
+                "stars": 1811,
                 "topics": [
                   "bug-bounty",
                   "bugbounty",
@@ -1541,7 +1541,7 @@
                 "open_issues": 20,
                 "owner": "yeswehack",
                 "repo": "PwnFox",
-                "stars": 1351,
+                "stars": 1350,
                 "topics": [
                   "bugbounty",
                   "firefox-extension",
@@ -1924,7 +1924,7 @@
                 "open_issues": 3,
                 "owner": "synfron",
                 "repo": "ReshaperForBurp",
-                "stars": 110,
+                "stars": 109,
                 "topics": [
                   "burp",
                   "http",
@@ -4288,7 +4288,7 @@
                     "open_issues": 14,
                     "owner": "NetSPI",
                     "repo": "xssValidator",
-                    "stars": 420,
+                    "stars": 419,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -4309,34 +4309,8 @@
                     "open_issues": 1,
                     "owner": "wish-i-was",
                     "repo": "femida",
-                    "stars": 284,
+                    "stars": 283,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:11:33.961Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "jsonp",
-                  "description": "jsonp is a Burp Extension which attempts to reveal JSONP functionality behind JSON endpoints. This could help reveal cross-site script inclusion vulnerabilities or aid in bypassing content security policies.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": true,
-                    "description": "jsonp is a Burp Extension which attempts to reveal JSONP functionality behind JSON endpoints.",
-                    "homepage": null,
-                    "id": 204151159,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2021-02-15T10:34:00Z",
-                    "open_issues": 1,
-                    "owner": "kapytein",
-                    "repo": "jsonp",
-                    "stars": 153,
-                    "topics": [
-                      "burp",
-                      "burp-extensions",
-                      "infosec",
-                      "pentesting"
-                    ]
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
                 },
@@ -4363,6 +4337,32 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "jsonp",
+                  "description": "jsonp is a Burp Extension which attempts to reveal JSONP functionality behind JSON endpoints. This could help reveal cross-site script inclusion vulnerabilities or aid in bypassing content security policies.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "jsonp is a Burp Extension which attempts to reveal JSONP functionality behind JSON endpoints.",
+                    "homepage": null,
+                    "id": 204151159,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2021-02-15T10:34:00Z",
+                    "open_issues": 1,
+                    "owner": "kapytein",
+                    "repo": "jsonp",
+                    "stars": 152,
+                    "topics": [
+                      "burp",
+                      "burp-extensions",
+                      "infosec",
+                      "pentesting"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T20:11:33.961Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "BitBlinder",
                   "description": "Burp extension helps in finding blind xss vulnerabilities",
                   "children": [],
@@ -4377,7 +4377,7 @@
                     "open_issues": 0,
                     "owner": "BitTheByte",
                     "repo": "BitBlinder",
-                    "stars": 124,
+                    "stars": 123,
                     "topics": [
                       "burp-extensions",
                       "burp-plugin",
@@ -4498,7 +4498,7 @@
                     "open_issues": 11,
                     "owner": "Quitten",
                     "repo": "Autorize",
-                    "stars": 1174,
+                    "stars": 1172,
                     "topics": [
                       "application-security",
                       "authorization",
@@ -4709,7 +4709,7 @@
                     "open_issues": 2,
                     "owner": "silentsignal",
                     "repo": "burp-uuid",
-                    "stars": 55,
+                    "stars": 54,
                     "topics": [
                       "burp",
                       "uuid"
@@ -5148,7 +5148,7 @@
                     "open_issues": 6,
                     "owner": "InitRoot",
                     "repo": "BurpJSLinkFinder",
-                    "stars": 821,
+                    "stars": 820,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5727,7 +5727,7 @@
                     "open_issues": 75,
                     "owner": "modzero",
                     "repo": "mod0BurpUploadScanner",
-                    "stars": 493,
+                    "stars": 492,
                     "topics": [
                       "burp",
                       "extension",
@@ -6080,7 +6080,7 @@
                     "open_issues": 46,
                     "owner": "epinna",
                     "repo": "tplmap",
-                    "stars": 4208,
+                    "stars": 4206,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6178,7 +6178,7 @@
                 "open_issues": 5,
                 "owner": "c0ny1",
                 "repo": "chunked-coding-converter",
-                "stars": 2026,
+                "stars": 2025,
                 "topics": [
                   "burpsuite-extender",
                   "chunked",
@@ -6240,7 +6240,7 @@
                 "open_issues": 1,
                 "owner": "nccgroup",
                 "repo": "BurpSuiteHTTPSmuggler",
-                "stars": 744,
+                "stars": 743,
                 "topics": [
                   "burpsuite",
                   "burpsuite-extender",
@@ -6266,7 +6266,7 @@
                 "open_issues": 1,
                 "owner": "nccgroup",
                 "repo": "BurpSuiteHTTPSmuggler",
-                "stars": 744,
+                "stars": 743,
                 "topics": [
                   "burpsuite",
                   "burpsuite-extender",
@@ -6913,7 +6913,7 @@
                 "open_issues": 19,
                 "owner": "PortSwigger",
                 "repo": "turbo-intruder",
-                "stars": 1814,
+                "stars": 1813,
                 "topics": [
                   "extension"
                 ]
@@ -6936,7 +6936,7 @@
                 "open_issues": 0,
                 "owner": "d3vilbug",
                 "repo": "HackBar",
-                "stars": 1635,
+                "stars": 1634,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -8424,7 +8424,7 @@
                 "open_issues": 12,
                 "owner": "bugcrowd",
                 "repo": "HUNT",
-                "stars": 2338,
+                "stars": 2337,
                 "topics": [
                   "burpsuite",
                   "hunt",
@@ -8485,7 +8485,7 @@
                 "open_issues": 0,
                 "owner": "d3vilbug",
                 "repo": "HackBar",
-                "stars": 1635,
+                "stars": 1634,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -9352,7 +9352,7 @@
             {
               "node_type": "item",
               "title": "Developing Burp Suite Extensions - Doyensec",
-              "description": null,
+              "description": "doyensec/burpdeveltraining",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9379,7 +9379,7 @@
             {
               "node_type": "item",
               "title": "Burp Extension Generator",
-              "description": null,
+              "description": "rsrdesarrollo/generator-burp-extension",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9400,7 +9400,7 @@
             {
               "node_type": "item",
               "title": "AIAIAI",
-              "description": null,
+              "description": "Hipapheralkus/AIAIAI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9428,7 +9428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:43:02.284Z",
+    "last_updated": "2026-10-03T04:39:07.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
@@ -9440,7 +9440,7 @@
       "open_issues": 1,
       "owner": "snoopysecurity",
       "repo": "awesome-burp-extensions",
-      "stars": 3447,
+      "stars": 3446,
       "topics": []
     },
     "original_repository_sha": "7cbf7fdf4d690af55b33be6fcf5cb7e6ac093e8c",
