@@ -3180,8 +3180,8 @@
                 "id": 189564945,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-07-09T03:20:37Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-04T08:32:12Z",
+                "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
                 "stars": 2144,
@@ -3812,8 +3812,8 @@
                 "id": 468860328,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T17:48:06Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-03T15:22:53Z",
+                "open_issues": 2,
                 "owner": "DolphFlynn",
                 "repo": "jwt-editor",
                 "stars": 30,
@@ -5148,7 +5148,7 @@
                     "open_issues": 6,
                     "owner": "InitRoot",
                     "repo": "BurpJSLinkFinder",
-                    "stars": 820,
+                    "stars": 821,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5540,7 +5540,7 @@
                     "open_issues": 2,
                     "owner": "JGillam",
                     "repo": "burp-co2",
-                    "stars": 154,
+                    "stars": 155,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -7119,7 +7119,7 @@
                 "open_issues": 2,
                 "owner": "JGillam",
                 "repo": "burp-co2",
-                "stars": 154,
+                "stars": 155,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8963,8 +8963,8 @@
                 "id": 698176149,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T07:23:41Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-03T15:42:44Z",
+                "open_issues": 5,
                 "owner": "joshspindler",
                 "repo": "extensibility-helper",
                 "stars": 10,
@@ -9428,7 +9428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T13:21:31.525Z",
+    "last_updated": "2026-10-04T14:04:43.809Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
