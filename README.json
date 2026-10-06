@@ -5,6 +5,27 @@
       "items": [
         {
           "node_type": "item",
+          "title": "BurpShiroPassiveScan",
+          "description": "A passive shiro detection plug-in based on BurpSuite",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "一款基于BurpSuite的被动式shiro检测插件",
+            "homepage": null,
+            "id": 279794074,
+            "language": "Java",
+            "license": null,
+            "last_commit": "2022-12-14T20:55:01Z",
+            "open_issues": 8,
+            "owner": "pmiaowu",
+            "repo": "BurpShiroPassiveScan",
+            "stars": 1809,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:11:33.961Z"
+        },
+        {
+          "node_type": "item",
           "title": "InQL Scanner",
           "description": "A Comprehensive Burp Extension for GraphQL Security Testing",
           "children": [],
@@ -38,27 +59,6 @@
         },
         {
           "node_type": "item",
-          "title": "BurpShiroPassiveScan",
-          "description": "A passive shiro detection plug-in based on BurpSuite",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "一款基于BurpSuite的被动式shiro检测插件",
-            "homepage": null,
-            "id": 279794074,
-            "language": "Java",
-            "license": null,
-            "last_commit": "2022-12-14T20:55:01Z",
-            "open_issues": 8,
-            "owner": "pmiaowu",
-            "repo": "BurpShiroPassiveScan",
-            "stars": 1808,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:11:33.961Z"
-        },
-        {
-          "node_type": "item",
           "title": "403Bypasser",
           "description": "An burpsuite extension to bypass 403 restricted directory.",
           "children": [],
@@ -73,7 +73,7 @@
             "open_issues": 7,
             "owner": "sting8k",
             "repo": "BurpSuite_403Bypasser",
-            "stars": 1705,
+            "stars": 1706,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4395,
+                "stars": 4396,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -1492,7 +1492,7 @@
                 "open_issues": 7,
                 "owner": "wagiro",
                 "repo": "BurpBounty",
-                "stars": 1811,
+                "stars": 1813,
                 "topics": [
                   "bug-bounty",
                   "bugbounty",
@@ -1541,7 +1541,7 @@
                 "open_issues": 20,
                 "owner": "yeswehack",
                 "repo": "PwnFox",
-                "stars": 1350,
+                "stars": 1351,
                 "topics": [
                   "bugbounty",
                   "firefox-extension",
@@ -1591,7 +1591,7 @@
                 "language": "Java",
                 "license": "AGPL-3.0",
                 "last_commit": "2024-12-17T09:12:47Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "C0DEbrained",
                 "repo": "BurpCustomizer",
                 "stars": 585,
@@ -3812,8 +3812,8 @@
                 "id": 468860328,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T15:22:53Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-05T17:44:08Z",
+                "open_issues": 3,
                 "owner": "DolphFlynn",
                 "repo": "jwt-editor",
                 "stars": 30,
@@ -4316,6 +4316,32 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "jsonp",
+                  "description": "jsonp is a Burp Extension which attempts to reveal JSONP functionality behind JSON endpoints. This could help reveal cross-site script inclusion vulnerabilities or aid in bypassing content security policies.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "jsonp is a Burp Extension which attempts to reveal JSONP functionality behind JSON endpoints.",
+                    "homepage": null,
+                    "id": 204151159,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2021-02-15T10:34:00Z",
+                    "open_issues": 1,
+                    "owner": "kapytein",
+                    "repo": "jsonp",
+                    "stars": 153,
+                    "topics": [
+                      "burp",
+                      "burp-extensions",
+                      "infosec",
+                      "pentesting"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T20:11:33.961Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Burp Hunter",
                   "description": "XSS Hunter Burp Plugin.",
                   "children": [],
@@ -4332,32 +4358,6 @@
                     "repo": "Burp-Hunter",
                     "stars": 152,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:11:33.961Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "jsonp",
-                  "description": "jsonp is a Burp Extension which attempts to reveal JSONP functionality behind JSON endpoints. This could help reveal cross-site script inclusion vulnerabilities or aid in bypassing content security policies.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": true,
-                    "description": "jsonp is a Burp Extension which attempts to reveal JSONP functionality behind JSON endpoints.",
-                    "homepage": null,
-                    "id": 204151159,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2021-02-15T10:34:00Z",
-                    "open_issues": 1,
-                    "owner": "kapytein",
-                    "repo": "jsonp",
-                    "stars": 152,
-                    "topics": [
-                      "burp",
-                      "burp-extensions",
-                      "infosec",
-                      "pentesting"
-                    ]
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
                 },
@@ -6080,7 +6080,7 @@
                     "open_issues": 46,
                     "owner": "epinna",
                     "repo": "tplmap",
-                    "stars": 4205,
+                    "stars": 4207,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6178,7 +6178,7 @@
                 "open_issues": 5,
                 "owner": "c0ny1",
                 "repo": "chunked-coding-converter",
-                "stars": 2025,
+                "stars": 2026,
                 "topics": [
                   "burpsuite-extender",
                   "chunked",
@@ -6936,7 +6936,7 @@
                 "open_issues": 0,
                 "owner": "d3vilbug",
                 "repo": "HackBar",
-                "stars": 1634,
+                "stars": 1635,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -6986,7 +6986,7 @@
                 "open_issues": 5,
                 "owner": "synacktiv",
                 "repo": "HopLa",
-                "stars": 839,
+                "stars": 840,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -8485,7 +8485,7 @@
                 "open_issues": 0,
                 "owner": "d3vilbug",
                 "repo": "HackBar",
-                "stars": 1634,
+                "stars": 1635,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -8511,7 +8511,7 @@
                 "language": "Java",
                 "license": "AGPL-3.0",
                 "last_commit": "2024-12-17T09:12:47Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "C0DEbrained",
                 "repo": "BurpCustomizer",
                 "stars": 585,
@@ -9428,7 +9428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T17:07:17.062Z",
+    "last_updated": "2026-10-06T10:48:38.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
