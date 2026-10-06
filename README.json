@@ -5,6 +5,39 @@
       "items": [
         {
           "node_type": "item",
+          "title": "InQL Scanner",
+          "description": "A Comprehensive Burp Extension for GraphQL Security Testing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "InQL is a robust, open-source Burp Suite extension for advanced GraphQL testing, offering intuitive vulnerability detection, customizable scans, and seamless Burp integration.",
+            "homepage": "https://doyensec.com/",
+            "id": 130329493,
+            "language": "Kotlin",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-09T15:13:58Z",
+            "open_issues": 29,
+            "owner": "doyensec",
+            "repo": "inql",
+            "stars": 1809,
+            "topics": [
+              "api-documentation-tool",
+              "bugbounty",
+              "bugbounty-tool",
+              "burp-extensions",
+              "burpsuite",
+              "graphql",
+              "graphql-security",
+              "penetration-testing",
+              "security-audit",
+              "security-scanner",
+              "security-tools"
+            ]
+          },
+          "first_seen": "2026-08-28T20:11:33.961Z"
+        },
+        {
+          "node_type": "item",
           "title": "BurpShiroPassiveScan",
           "description": "A passive shiro detection plug-in based on BurpSuite",
           "children": [],
@@ -21,39 +54,6 @@
             "repo": "BurpShiroPassiveScan",
             "stars": 1809,
             "topics": []
-          },
-          "first_seen": "2026-08-28T20:11:33.961Z"
-        },
-        {
-          "node_type": "item",
-          "title": "InQL Scanner",
-          "description": "A Comprehensive Burp Extension for GraphQL Security Testing",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "InQL is a robust, open-source Burp Suite extension for advanced GraphQL testing, offering intuitive vulnerability detection, customizable scans, and seamless Burp integration.",
-            "homepage": "https://doyensec.com/",
-            "id": 130329493,
-            "language": "Kotlin",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-09T15:13:58Z",
-            "open_issues": 29,
-            "owner": "doyensec",
-            "repo": "inql",
-            "stars": 1808,
-            "topics": [
-              "api-documentation-tool",
-              "bugbounty",
-              "bugbounty-tool",
-              "burp-extensions",
-              "burpsuite",
-              "graphql",
-              "graphql-security",
-              "penetration-testing",
-              "security-audit",
-              "security-scanner",
-              "security-tools"
-            ]
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
         },
@@ -1520,7 +1520,7 @@
                 "open_issues": 5,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1533,
+                "stars": 1534,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1541,7 +1541,7 @@
                 "open_issues": 20,
                 "owner": "yeswehack",
                 "repo": "PwnFox",
-                "stars": 1351,
+                "stars": 1352,
                 "topics": [
                   "bugbounty",
                   "firefox-extension",
@@ -1590,8 +1590,8 @@
                 "id": 325787801,
                 "language": "Java",
                 "license": "AGPL-3.0",
-                "last_commit": "2024-12-17T09:12:47Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-06T14:15:59Z",
+                "open_issues": 11,
                 "owner": "C0DEbrained",
                 "repo": "BurpCustomizer",
                 "stars": 585,
@@ -4377,7 +4377,7 @@
                     "open_issues": 0,
                     "owner": "BitTheByte",
                     "repo": "BitBlinder",
-                    "stars": 121,
+                    "stars": 122,
                     "topics": [
                       "burp-extensions",
                       "burp-plugin",
@@ -5127,7 +5127,7 @@
                     "open_issues": 5,
                     "owner": "xnl-h4ck3r",
                     "repo": "GAP-Burp-Extension",
-                    "stars": 1533,
+                    "stars": 1534,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5148,7 +5148,7 @@
                     "open_issues": 6,
                     "owner": "InitRoot",
                     "repo": "BurpJSLinkFinder",
-                    "stars": 819,
+                    "stars": 820,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6203,7 +6203,7 @@
                 "open_issues": 9,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1897,
+                "stars": 1898,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -6965,7 +6965,7 @@
                 "open_issues": 5,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1533,
+                "stars": 1534,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8147,7 +8147,7 @@
                 "open_issues": 1,
                 "owner": "projectdiscovery",
                 "repo": "nuclei-burp-plugin",
-                "stars": 1354,
+                "stars": 1355,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8510,8 +8510,8 @@
                 "id": 325787801,
                 "language": "Java",
                 "license": "AGPL-3.0",
-                "last_commit": "2024-12-17T09:12:47Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-06T14:15:59Z",
+                "open_issues": 11,
                 "owner": "C0DEbrained",
                 "repo": "BurpCustomizer",
                 "stars": 585,
@@ -9428,7 +9428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:48:38.318Z",
+    "last_updated": "2026-10-06T15:08:27.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
