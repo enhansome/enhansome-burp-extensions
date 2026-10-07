@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "doyensec",
             "repo": "inql",
-            "stars": 1809,
+            "stars": 1810,
             "topics": [
               "api-documentation-tool",
               "bugbounty",
@@ -73,7 +73,7 @@
             "open_issues": 7,
             "owner": "sting8k",
             "repo": "BurpSuite_403Bypasser",
-            "stars": 1706,
+            "stars": 1707,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -136,7 +136,7 @@
             "open_issues": 13,
             "owner": "PortSwigger",
             "repo": "http-request-smuggler",
-            "stars": 1248,
+            "stars": 1249,
             "topics": [
               "extension"
             ]
@@ -266,7 +266,7 @@
             "open_issues": 6,
             "owner": "albinowax",
             "repo": "ActiveScanPlusPlus",
-            "stars": 667,
+            "stars": 668,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -337,7 +337,7 @@
             "open_issues": 0,
             "owner": "volkandindar",
             "repo": "agartha",
-            "stars": 412,
+            "stars": 413,
             "topics": [
               "application-security",
               "appsec",
@@ -1541,7 +1541,7 @@
                 "open_issues": 20,
                 "owner": "yeswehack",
                 "repo": "PwnFox",
-                "stars": 1352,
+                "stars": 1353,
                 "topics": [
                   "bugbounty",
                   "firefox-extension",
@@ -3184,7 +3184,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2145,
+                "stars": 2147,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -4551,7 +4551,7 @@
                     "open_issues": 29,
                     "owner": "SecurityInnovation",
                     "repo": "AuthMatrix",
-                    "stars": 644,
+                    "stars": 645,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5389,8 +5389,8 @@
                     "id": 556012246,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T02:03:04Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-10-07T15:06:00Z",
+                    "open_issues": 1,
                     "owner": "levoai",
                     "repo": "levoai-burp-extension",
                     "stars": 31,
@@ -6203,7 +6203,7 @@
                 "open_issues": 9,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1898,
+                "stars": 1899,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -6909,7 +6909,7 @@
                 "id": 166008413,
                 "language": "Kotlin",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-23T09:03:53Z",
+                "last_commit": "2026-10-07T10:14:13Z",
                 "open_issues": 19,
                 "owner": "PortSwigger",
                 "repo": "turbo-intruder",
@@ -7044,7 +7044,7 @@
                 "open_issues": 0,
                 "owner": "volkandindar",
                 "repo": "agartha",
-                "stars": 412,
+                "stars": 413,
                 "topics": [
                   "application-security",
                   "appsec",
@@ -8449,7 +8449,7 @@
                 "open_issues": 35,
                 "owner": "bit4woo",
                 "repo": "knife",
-                "stars": 1969,
+                "stars": 1970,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -9428,7 +9428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T15:08:27.197Z",
+    "last_updated": "2026-10-07T15:32:02.670Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
