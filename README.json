@@ -15,11 +15,11 @@
             "id": 130329493,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T15:13:58Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-08T14:26:34Z",
+            "open_issues": 18,
             "owner": "doyensec",
             "repo": "inql",
-            "stars": 1810,
+            "stars": 1811,
             "topics": [
               "api-documentation-tool",
               "bugbounty",
@@ -73,7 +73,7 @@
             "open_issues": 7,
             "owner": "sting8k",
             "repo": "BurpSuite_403Bypasser",
-            "stars": 1707,
+            "stars": 1706,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -94,7 +94,7 @@
             "open_issues": 11,
             "owner": "F6JO",
             "repo": "RouteVulScan",
-            "stars": 1333,
+            "stars": 1335,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -115,7 +115,7 @@
             "open_issues": 11,
             "owner": "F6JO",
             "repo": "RouteVulScan",
-            "stars": 1333,
+            "stars": 1335,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1684,8 +1684,8 @@
                 "id": 195959897,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T20:00:56Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-08T11:41:02Z",
+                "open_issues": 14,
                 "owner": "usdAG",
                 "repo": "cstc",
                 "stars": 266,
@@ -1807,7 +1807,7 @@
                 "open_issues": 1,
                 "owner": "moeinfatehi",
                 "repo": "Backup-Finder",
-                "stars": 166,
+                "stars": 165,
                 "topics": [
                   "application-security",
                   "appsecurity",
@@ -2677,8 +2677,8 @@
                 "id": 195959897,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T20:00:56Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-08T11:41:02Z",
+                "open_issues": 14,
                 "owner": "usdAG",
                 "repo": "cstc",
                 "stars": 266,
@@ -3669,7 +3669,7 @@
                 "open_issues": 1,
                 "owner": "akabe1",
                 "repo": "OAUTHScan",
-                "stars": 180,
+                "stars": 181,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6080,7 +6080,7 @@
                     "open_issues": 46,
                     "owner": "epinna",
                     "repo": "tplmap",
-                    "stars": 4207,
+                    "stars": 4209,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6199,11 +6199,11 @@
                 "id": 451267945,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-24T21:13:39Z",
+                "last_commit": "2026-10-07T21:26:50Z",
                 "open_issues": 9,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1899,
+                "stars": 1900,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -6378,7 +6378,7 @@
                 "open_issues": 0,
                 "owner": "Robin528919",
                 "repo": "burp-awesome-tls-plus",
-                "stars": 2,
+                "stars": 3,
                 "topics": [
                   "anti-bot",
                   "burp",
@@ -6450,7 +6450,7 @@
                 "open_issues": 35,
                 "owner": "nccgroup",
                 "repo": "LoggerPlusPlus",
-                "stars": 710,
+                "stars": 711,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8445,7 +8445,7 @@
                 "id": 137083276,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-06-26T04:55:43Z",
+                "last_commit": "2026-10-08T06:37:09Z",
                 "open_issues": 35,
                 "owner": "bit4woo",
                 "repo": "knife",
@@ -9428,7 +9428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T15:32:02.670Z",
+    "last_updated": "2026-10-08T15:33:52.792Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
