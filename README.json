@@ -15,8 +15,8 @@
             "id": 130329493,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T13:48:04Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-09T21:47:16Z",
+            "open_issues": 16,
             "owner": "doyensec",
             "repo": "inql",
             "stars": 1811,
@@ -314,7 +314,7 @@
             "open_issues": 21,
             "owner": "PortSwigger",
             "repo": "collaborator-everywhere",
-            "stars": 452,
+            "stars": 453,
             "topics": [
               "extension"
             ]
@@ -1462,11 +1462,11 @@
                 "id": 249674874,
                 "language": null,
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T07:35:14Z",
+                "last_commit": "2026-10-10T06:27:10Z",
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4398,
+                "stars": 4399,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -1520,7 +1520,7 @@
                 "open_issues": 5,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1534,
+                "stars": 1535,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -3476,7 +3476,7 @@
                 "open_issues": 3,
                 "owner": "cyal1",
                 "repo": "PyBurp",
-                "stars": 38,
+                "stars": 39,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -5127,7 +5127,7 @@
                     "open_issues": 5,
                     "owner": "xnl-h4ck3r",
                     "repo": "GAP-Burp-Extension",
-                    "stars": 1534,
+                    "stars": 1535,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5389,8 +5389,8 @@
                     "id": 556012246,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-07T15:06:00Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-10-10T02:05:17Z",
+                    "open_issues": 2,
                     "owner": "levoai",
                     "repo": "levoai-burp-extension",
                     "stars": 31,
@@ -6910,7 +6910,7 @@
                 "language": "Kotlin",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-07T10:14:13Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "PortSwigger",
                 "repo": "turbo-intruder",
                 "stars": 1813,
@@ -6965,7 +6965,7 @@
                 "open_issues": 5,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1534,
+                "stars": 1535,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -7485,7 +7485,7 @@
                 "open_issues": 15,
                 "owner": "whwlsfb",
                 "repo": "BurpCrypto",
-                "stars": 1653,
+                "stars": 1655,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -8556,7 +8556,7 @@
                 "open_issues": 6,
                 "owner": "0x4D31",
                 "repo": "burpa",
-                "stars": 534,
+                "stars": 535,
                 "topics": [
                   "automation",
                   "burp",
@@ -9428,7 +9428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T15:16:35.768Z",
+    "last_updated": "2026-10-10T14:27:14.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
