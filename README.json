@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "doyensec",
             "repo": "inql",
-            "stars": 1811,
+            "stars": 1810,
             "topics": [
               "api-documentation-tool",
               "bugbounty",
@@ -52,7 +52,7 @@
             "open_issues": 8,
             "owner": "pmiaowu",
             "repo": "BurpShiroPassiveScan",
-            "stars": 1809,
+            "stars": 1808,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -73,7 +73,7 @@
             "open_issues": 7,
             "owner": "sting8k",
             "repo": "BurpSuite_403Bypasser",
-            "stars": 1707,
+            "stars": 1708,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -136,7 +136,7 @@
             "open_issues": 13,
             "owner": "PortSwigger",
             "repo": "http-request-smuggler",
-            "stars": 1249,
+            "stars": 1248,
             "topics": [
               "extension"
             ]
@@ -618,7 +618,7 @@
             "open_issues": 1,
             "owner": "moeinfatehi",
             "repo": "Admin-Panel_Finder",
-            "stars": 123,
+            "stars": 124,
             "topics": [
               "admin-dashboard-finder",
               "admin-finder",
@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4399,
+                "stars": 4400,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -1567,7 +1567,7 @@
                 "open_issues": 2,
                 "owner": "RhinoSecurityLabs",
                 "repo": "IPRotate_Burp_Extension",
-                "stars": 896,
+                "stars": 897,
                 "topics": [
                   "aws-apigateway",
                   "burpsuite",
@@ -1718,7 +1718,7 @@
                 "open_issues": 4,
                 "owner": "hackvertor",
                 "repo": "hackvertor",
-                "stars": 250,
+                "stars": 251,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -3184,7 +3184,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2147,
+                "stars": 2148,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -4011,7 +4011,7 @@
                 "open_issues": 1,
                 "owner": "moeinfatehi",
                 "repo": "Admin-Panel_Finder",
-                "stars": 123,
+                "stars": 124,
                 "topics": [
                   "admin-dashboard-finder",
                   "admin-finder",
@@ -4625,7 +4625,7 @@
                     "open_issues": 1,
                     "owner": "moeinfatehi",
                     "repo": "Admin-Panel_Finder",
-                    "stars": 123,
+                    "stars": 124,
                     "topics": [
                       "admin-dashboard-finder",
                       "admin-finder",
@@ -6203,7 +6203,7 @@
                 "open_issues": 10,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1901,
+                "stars": 1902,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -6913,7 +6913,7 @@
                 "open_issues": 20,
                 "owner": "PortSwigger",
                 "repo": "turbo-intruder",
-                "stars": 1813,
+                "stars": 1814,
                 "topics": [
                   "extension"
                 ]
@@ -8449,7 +8449,7 @@
                 "open_issues": 35,
                 "owner": "bit4woo",
                 "repo": "knife",
-                "stars": 1971,
+                "stars": 1970,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -9428,7 +9428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T14:27:14.895Z",
+    "last_updated": "2026-10-11T14:54:00.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
