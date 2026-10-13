@@ -15,11 +15,11 @@
             "id": 130329493,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T21:47:16Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-13T12:55:02Z",
+            "open_issues": 19,
             "owner": "doyensec",
             "repo": "inql",
-            "stars": 1811,
+            "stars": 1812,
             "topics": [
               "api-documentation-tool",
               "bugbounty",
@@ -136,7 +136,7 @@
             "open_issues": 13,
             "owner": "PortSwigger",
             "repo": "http-request-smuggler",
-            "stars": 1249,
+            "stars": 1248,
             "topics": [
               "extension"
             ]
@@ -1492,7 +1492,7 @@
                 "open_issues": 7,
                 "owner": "wagiro",
                 "repo": "BurpBounty",
-                "stars": 1813,
+                "stars": 1814,
                 "topics": [
                   "bug-bounty",
                   "bugbounty",
@@ -1520,7 +1520,7 @@
                 "open_issues": 5,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1535,
+                "stars": 1536,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1567,7 +1567,7 @@
                 "open_issues": 2,
                 "owner": "RhinoSecurityLabs",
                 "repo": "IPRotate_Burp_Extension",
-                "stars": 896,
+                "stars": 897,
                 "topics": [
                   "aws-apigateway",
                   "burpsuite",
@@ -3184,7 +3184,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2147,
+                "stars": 2146,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -4267,7 +4267,7 @@
                     "open_issues": 14,
                     "owner": "elkokc",
                     "repo": "reflector",
-                    "stars": 1217,
+                    "stars": 1216,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -4498,7 +4498,7 @@
                     "open_issues": 11,
                     "owner": "Quitten",
                     "repo": "Autorize",
-                    "stars": 1173,
+                    "stars": 1172,
                     "topics": [
                       "application-security",
                       "authorization",
@@ -4551,7 +4551,7 @@
                     "open_issues": 29,
                     "owner": "SecurityInnovation",
                     "repo": "AuthMatrix",
-                    "stars": 645,
+                    "stars": 646,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5127,7 +5127,7 @@
                     "open_issues": 5,
                     "owner": "xnl-h4ck3r",
                     "repo": "GAP-Burp-Extension",
-                    "stars": 1535,
+                    "stars": 1536,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5624,7 +5624,7 @@
                     "open_issues": 0,
                     "owner": "lucacapacci",
                     "repo": "SqlmapDnsCollaborator",
-                    "stars": 12,
+                    "stars": 13,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5858,7 +5858,7 @@
                     "open_issues": 0,
                     "owner": "twelvesec",
                     "repo": "BearerAuthToken",
-                    "stars": 49,
+                    "stars": 50,
                     "topics": [
                       "authorization",
                       "burp",
@@ -6199,8 +6199,8 @@
                 "id": 451267945,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-08T16:38:09Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-13T12:36:13Z",
+                "open_issues": 13,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
                 "stars": 1903,
@@ -6965,7 +6965,7 @@
                 "open_issues": 5,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1535,
+                "stars": 1536,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -7740,7 +7740,7 @@
                 "open_issues": 22,
                 "owner": "summitt",
                 "repo": "Nope-Proxy",
-                "stars": 1660,
+                "stars": 1661,
                 "topics": [
                   "appsec",
                   "appsecurity",
@@ -7778,7 +7778,7 @@
                 "open_issues": 6,
                 "owner": "NetSPI",
                 "repo": "Wsdler",
-                "stars": 282,
+                "stars": 283,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8424,7 +8424,7 @@
                 "open_issues": 12,
                 "owner": "bugcrowd",
                 "repo": "HUNT",
-                "stars": 2337,
+                "stars": 2338,
                 "topics": [
                   "burpsuite",
                   "hunt",
@@ -8449,7 +8449,7 @@
                 "open_issues": 35,
                 "owner": "bit4woo",
                 "repo": "knife",
-                "stars": 1970,
+                "stars": 1971,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -9428,7 +9428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T17:51:53.747Z",
+    "last_updated": "2026-10-13T15:55:44.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
