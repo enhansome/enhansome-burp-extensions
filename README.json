@@ -52,7 +52,7 @@
             "open_issues": 8,
             "owner": "pmiaowu",
             "repo": "BurpShiroPassiveScan",
-            "stars": 1808,
+            "stars": 1809,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -73,7 +73,7 @@
             "open_issues": 7,
             "owner": "sting8k",
             "repo": "BurpSuite_403Bypasser",
-            "stars": 1708,
+            "stars": 1709,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -94,7 +94,7 @@
             "open_issues": 11,
             "owner": "F6JO",
             "repo": "RouteVulScan",
-            "stars": 1335,
+            "stars": 1336,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -115,7 +115,7 @@
             "open_issues": 11,
             "owner": "F6JO",
             "repo": "RouteVulScan",
-            "stars": 1335,
+            "stars": 1336,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -180,7 +180,7 @@
             "open_issues": 12,
             "owner": "whwlsfb",
             "repo": "Log4j2Scan",
-            "stars": 833,
+            "stars": 835,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -266,7 +266,7 @@
             "open_issues": 6,
             "owner": "albinowax",
             "repo": "ActiveScanPlusPlus",
-            "stars": 668,
+            "stars": 669,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -337,7 +337,7 @@
             "open_issues": 0,
             "owner": "volkandindar",
             "repo": "agartha",
-            "stars": 413,
+            "stars": 412,
             "topics": [
               "application-security",
               "appsec",
@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4400,
+                "stars": 4401,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -1492,7 +1492,7 @@
                 "open_issues": 7,
                 "owner": "wagiro",
                 "repo": "BurpBounty",
-                "stars": 1814,
+                "stars": 1815,
                 "topics": [
                   "bug-bounty",
                   "bugbounty",
@@ -1520,7 +1520,7 @@
                 "open_issues": 5,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1536,
+                "stars": 1538,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1684,11 +1684,11 @@
                 "id": 195959897,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-12T17:38:45Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-14T13:25:33Z",
+                "open_issues": 8,
                 "owner": "usdAG",
                 "repo": "cstc",
-                "stars": 266,
+                "stars": 267,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -1718,7 +1718,7 @@
                 "open_issues": 4,
                 "owner": "hackvertor",
                 "repo": "hackvertor",
-                "stars": 251,
+                "stars": 252,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -2677,11 +2677,11 @@
                 "id": 195959897,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-12T17:38:45Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-14T13:25:33Z",
+                "open_issues": 8,
                 "owner": "usdAG",
                 "repo": "cstc",
-                "stars": 266,
+                "stars": 267,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -3816,7 +3816,7 @@
                 "open_issues": 3,
                 "owner": "DolphFlynn",
                 "repo": "jwt-editor",
-                "stars": 30,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -4526,7 +4526,7 @@
                     "open_issues": 30,
                     "owner": "nccgroup",
                     "repo": "AutoRepeater",
-                    "stars": 893,
+                    "stars": 894,
                     "topics": [
                       "burp-plugin",
                       "burpsuite",
@@ -4551,7 +4551,7 @@
                     "open_issues": 29,
                     "owner": "SecurityInnovation",
                     "repo": "AuthMatrix",
-                    "stars": 646,
+                    "stars": 647,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -4978,7 +4978,7 @@
                     "open_issues": 0,
                     "owner": "BishopFox",
                     "repo": "GadgetProbe",
-                    "stars": 618,
+                    "stars": 619,
                     "topics": [
                       "burp-extensions",
                       "java",
@@ -5127,7 +5127,7 @@
                     "open_issues": 5,
                     "owner": "xnl-h4ck3r",
                     "repo": "GAP-Burp-Extension",
-                    "stars": 1536,
+                    "stars": 1538,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5148,7 +5148,7 @@
                     "open_issues": 6,
                     "owner": "InitRoot",
                     "repo": "BurpJSLinkFinder",
-                    "stars": 820,
+                    "stars": 821,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5288,7 +5288,7 @@
                     "open_issues": 3,
                     "owner": "CYS4srl",
                     "repo": "SensitiveDiscoverer",
-                    "stars": 52,
+                    "stars": 53,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5309,7 +5309,7 @@
                     "open_issues": 3,
                     "owner": "CYS4srl",
                     "repo": "SensitiveDiscoverer",
-                    "stars": 52,
+                    "stars": 53,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6080,7 +6080,7 @@
                     "open_issues": 46,
                     "owner": "epinna",
                     "repo": "tplmap",
-                    "stars": 4209,
+                    "stars": 4210,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6178,7 +6178,7 @@
                 "open_issues": 5,
                 "owner": "c0ny1",
                 "repo": "chunked-coding-converter",
-                "stars": 2026,
+                "stars": 2027,
                 "topics": [
                   "burpsuite-extender",
                   "chunked",
@@ -6240,7 +6240,7 @@
                 "open_issues": 1,
                 "owner": "nccgroup",
                 "repo": "BurpSuiteHTTPSmuggler",
-                "stars": 744,
+                "stars": 745,
                 "topics": [
                   "burpsuite",
                   "burpsuite-extender",
@@ -6266,7 +6266,7 @@
                 "open_issues": 1,
                 "owner": "nccgroup",
                 "repo": "BurpSuiteHTTPSmuggler",
-                "stars": 744,
+                "stars": 745,
                 "topics": [
                   "burpsuite",
                   "burpsuite-extender",
@@ -6320,6 +6320,27 @@
             },
             {
               "node_type": "item",
+              "title": "WAF Bypadd",
+              "description": "This Burp Suite extension is designed to bypass Web Application Firewalls (WAFs) by padding HTTP requests with dummy data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This Burp Suite extension is designed to bypass Web Application Firewalls (WAFs) by padding HTTP requests with dummy data.",
+                "homepage": null,
+                "id": 669106539,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2023-07-23T17:41:09Z",
+                "open_issues": 0,
+                "owner": "julianjm",
+                "repo": "waf_bypadd",
+                "stars": 7,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:11:33.961Z"
+            },
+            {
+              "node_type": "item",
               "title": "Random IP Address Header",
               "description": "This extension automatically generates IPV6 and IPV4 fake source address headers to evade WAF filtering.",
               "children": [],
@@ -6338,27 +6359,6 @@
                 "topics": [
                   "extension"
                 ]
-              },
-              "first_seen": "2026-08-28T20:11:33.961Z"
-            },
-            {
-              "node_type": "item",
-              "title": "WAF Bypadd",
-              "description": "This Burp Suite extension is designed to bypass Web Application Firewalls (WAFs) by padding HTTP requests with dummy data.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This Burp Suite extension is designed to bypass Web Application Firewalls (WAFs) by padding HTTP requests with dummy data.",
-                "homepage": null,
-                "id": 669106539,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2023-07-23T17:41:09Z",
-                "open_issues": 0,
-                "owner": "julianjm",
-                "repo": "waf_bypadd",
-                "stars": 6,
-                "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
             },
@@ -6450,7 +6450,7 @@
                 "open_issues": 35,
                 "owner": "nccgroup",
                 "repo": "LoggerPlusPlus",
-                "stars": 711,
+                "stars": 712,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6965,7 +6965,7 @@
                 "open_issues": 5,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1536,
+                "stars": 1538,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -7044,7 +7044,7 @@
                 "open_issues": 0,
                 "owner": "volkandindar",
                 "repo": "agartha",
-                "stars": 413,
+                "stars": 412,
                 "topics": [
                   "application-security",
                   "appsec",
@@ -7482,7 +7482,7 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2023-08-04T02:54:21Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "whwlsfb",
                 "repo": "BurpCrypto",
                 "stars": 1655,
@@ -7553,7 +7553,7 @@
                 "open_issues": 10,
                 "owner": "romanzaikin",
                 "repo": "BurpExtension-WhatsApp-Decryption-CheckPoint",
-                "stars": 643,
+                "stars": 644,
                 "topics": [
                   "burpsuite-extender",
                   "hacking-tool",
@@ -7740,7 +7740,7 @@
                 "open_issues": 22,
                 "owner": "summitt",
                 "repo": "Nope-Proxy",
-                "stars": 1661,
+                "stars": 1663,
                 "topics": [
                   "appsec",
                   "appsecurity",
@@ -7778,7 +7778,7 @@
                 "open_issues": 6,
                 "owner": "NetSPI",
                 "repo": "Wsdler",
-                "stars": 283,
+                "stars": 284,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8168,7 +8168,7 @@
                 "open_issues": 11,
                 "owner": "yeswehack",
                 "repo": "YesWeBurp",
-                "stars": 113,
+                "stars": 116,
                 "topics": [
                   "bugbounty",
                   "burp-extensions",
@@ -8449,7 +8449,7 @@
                 "open_issues": 35,
                 "owner": "bit4woo",
                 "repo": "knife",
-                "stars": 1971,
+                "stars": 1974,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -8556,7 +8556,7 @@
                 "open_issues": 6,
                 "owner": "0x4D31",
                 "repo": "burpa",
-                "stars": 534,
+                "stars": 535,
                 "topics": [
                   "automation",
                   "burp",
@@ -9428,7 +9428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T15:55:44.346Z",
+    "last_updated": "2026-10-14T13:41:22.667Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
