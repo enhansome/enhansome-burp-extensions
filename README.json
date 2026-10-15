@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4401,
+                "stars": 4403,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -1492,7 +1492,7 @@
                 "open_issues": 7,
                 "owner": "wagiro",
                 "repo": "BurpBounty",
-                "stars": 1815,
+                "stars": 1816,
                 "topics": [
                   "bug-bounty",
                   "bugbounty",
@@ -1541,7 +1541,7 @@
                 "open_issues": 20,
                 "owner": "yeswehack",
                 "repo": "PwnFox",
-                "stars": 1353,
+                "stars": 1354,
                 "topics": [
                   "bugbounty",
                   "firefox-extension",
@@ -1684,8 +1684,8 @@
                 "id": 195959897,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-14T13:25:33Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-14T15:38:27Z",
+                "open_issues": 6,
                 "owner": "usdAG",
                 "repo": "cstc",
                 "stars": 267,
@@ -2677,8 +2677,8 @@
                 "id": 195959897,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-14T13:25:33Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-14T15:38:27Z",
+                "open_issues": 6,
                 "owner": "usdAG",
                 "repo": "cstc",
                 "stars": 267,
@@ -3184,7 +3184,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2146,
+                "stars": 2147,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -3645,7 +3645,7 @@
                 "open_issues": 15,
                 "owner": "CompassSecurity",
                 "repo": "SAMLRaider",
-                "stars": 452,
+                "stars": 453,
                 "topics": [
                   "burp",
                   "saml"
@@ -5389,8 +5389,8 @@
                     "id": 556012246,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-10T02:05:17Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-10-15T02:03:02Z",
+                    "open_issues": 3,
                     "owner": "levoai",
                     "repo": "levoai-burp-extension",
                     "stars": 31,
@@ -6203,7 +6203,7 @@
                 "open_issues": 13,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1903,
+                "stars": 1905,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -6986,7 +6986,7 @@
                 "open_issues": 5,
                 "owner": "synacktiv",
                 "repo": "HopLa",
-                "stars": 840,
+                "stars": 841,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -8535,7 +8535,7 @@
                 "open_issues": 1,
                 "owner": "vmware-archive",
                 "repo": "burp-rest-api",
-                "stars": 566,
+                "stars": 565,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -9428,7 +9428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T13:41:22.667Z",
+    "last_updated": "2026-10-15T13:23:15.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
