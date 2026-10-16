@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4403,
+                "stars": 4404,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -1541,7 +1541,7 @@
                 "open_issues": 20,
                 "owner": "yeswehack",
                 "repo": "PwnFox",
-                "stars": 1354,
+                "stars": 1355,
                 "topics": [
                   "bugbounty",
                   "firefox-extension",
@@ -1684,8 +1684,8 @@
                 "id": 195959897,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-14T15:38:27Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-15T15:31:25Z",
+                "open_issues": 5,
                 "owner": "usdAG",
                 "repo": "cstc",
                 "stars": 267,
@@ -2677,8 +2677,8 @@
                 "id": 195959897,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-14T15:38:27Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-15T15:31:25Z",
+                "open_issues": 5,
                 "owner": "usdAG",
                 "repo": "cstc",
                 "stars": 267,
@@ -3184,7 +3184,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2147,
+                "stars": 2148,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -3208,7 +3208,7 @@
                 "open_issues": 13,
                 "owner": "VirtueSecurity",
                 "repo": "aws-extender",
-                "stars": 257,
+                "stars": 256,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -4405,7 +4405,7 @@
                     "open_issues": 0,
                     "owner": "attackercan",
                     "repo": "burp-xss-sql-plugin",
-                    "stars": 45,
+                    "stars": 46,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -4551,7 +4551,7 @@
                     "open_issues": 29,
                     "owner": "SecurityInnovation",
                     "repo": "AuthMatrix",
-                    "stars": 647,
+                    "stars": 646,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5582,7 +5582,7 @@
                     "open_issues": 0,
                     "owner": "attackercan",
                     "repo": "burp-xss-sql-plugin",
-                    "stars": 45,
+                    "stars": 46,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6080,7 +6080,7 @@
                     "open_issues": 46,
                     "owner": "epinna",
                     "repo": "tplmap",
-                    "stars": 4210,
+                    "stars": 4212,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6203,7 +6203,7 @@
                 "open_issues": 13,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1905,
+                "stars": 1906,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -8126,7 +8126,7 @@
                 "open_issues": 11,
                 "owner": "federicodotta",
                 "repo": "Brida",
-                "stars": 1899,
+                "stars": 1900,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -9428,7 +9428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T13:23:15.010Z",
+    "last_updated": "2026-10-16T13:13:48.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
@@ -9440,7 +9440,7 @@
       "open_issues": 1,
       "owner": "snoopysecurity",
       "repo": "awesome-burp-extensions",
-      "stars": 3446,
+      "stars": 3447,
       "topics": []
     },
     "original_repository_sha": "7cbf7fdf4d690af55b33be6fcf5cb7e6ac093e8c",
