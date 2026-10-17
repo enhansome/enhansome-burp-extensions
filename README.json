@@ -52,7 +52,7 @@
             "open_issues": 8,
             "owner": "pmiaowu",
             "repo": "BurpShiroPassiveScan",
-            "stars": 1809,
+            "stars": 1810,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -94,7 +94,7 @@
             "open_issues": 11,
             "owner": "F6JO",
             "repo": "RouteVulScan",
-            "stars": 1336,
+            "stars": 1337,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -115,7 +115,7 @@
             "open_issues": 11,
             "owner": "F6JO",
             "repo": "RouteVulScan",
-            "stars": 1336,
+            "stars": 1337,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -136,7 +136,7 @@
             "open_issues": 13,
             "owner": "PortSwigger",
             "repo": "http-request-smuggler",
-            "stars": 1248,
+            "stars": 1249,
             "topics": [
               "extension"
             ]
@@ -1492,7 +1492,7 @@
                 "open_issues": 7,
                 "owner": "wagiro",
                 "repo": "BurpBounty",
-                "stars": 1816,
+                "stars": 1817,
                 "topics": [
                   "bug-bounty",
                   "bugbounty",
@@ -1520,7 +1520,7 @@
                 "open_issues": 5,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1538,
+                "stars": 1539,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1538,7 +1538,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2024-08-07T14:49:45Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "yeswehack",
                 "repo": "PwnFox",
                 "stars": 1355,
@@ -3409,7 +3409,7 @@
                 "open_issues": 1,
                 "owner": "PortSwigger",
                 "repo": "copy-as-python-requests",
-                "stars": 67,
+                "stars": 66,
                 "topics": [
                   "extension"
                 ]
@@ -4267,7 +4267,7 @@
                     "open_issues": 14,
                     "owner": "elkokc",
                     "repo": "reflector",
-                    "stars": 1216,
+                    "stars": 1218,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5127,7 +5127,7 @@
                     "open_issues": 5,
                     "owner": "xnl-h4ck3r",
                     "repo": "GAP-Burp-Extension",
-                    "stars": 1538,
+                    "stars": 1539,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6178,7 +6178,7 @@
                 "open_issues": 5,
                 "owner": "c0ny1",
                 "repo": "chunked-coding-converter",
-                "stars": 2027,
+                "stars": 2028,
                 "topics": [
                   "burpsuite-extender",
                   "chunked",
@@ -6203,7 +6203,7 @@
                 "open_issues": 13,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1906,
+                "stars": 1907,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -6629,6 +6629,27 @@
             },
             {
               "node_type": "item",
+              "title": "Burp Suite Importer",
+              "description": "Connect to multiple web servers while populating the sitemap.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Burp Suite Importer - Connect to multiple web servers while populating the sitemap.",
+                "homepage": null,
+                "id": 50900883,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2020-05-15T16:09:29Z",
+                "open_issues": 2,
+                "owner": "SmeegeSec",
+                "repo": "Burp-Importer",
+                "stars": 48,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:11:33.961Z"
+            },
+            {
+              "node_type": "item",
               "title": "Sink Logger",
               "description": "Sink Logger is a Burp Suite Extension that allows to transparently monitor various JavaScript sinks.",
               "children": [],
@@ -6651,27 +6672,6 @@
                   "javascript",
                   "jython"
                 ]
-              },
-              "first_seen": "2026-08-28T20:11:33.961Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Burp Suite Importer",
-              "description": "Connect to multiple web servers while populating the sitemap.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Burp Suite Importer - Connect to multiple web servers while populating the sitemap.",
-                "homepage": null,
-                "id": 50900883,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2020-05-15T16:09:29Z",
-                "open_issues": 2,
-                "owner": "SmeegeSec",
-                "repo": "Burp-Importer",
-                "stars": 47,
-                "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
             },
@@ -6936,7 +6936,7 @@
                 "open_issues": 0,
                 "owner": "d3vilbug",
                 "repo": "HackBar",
-                "stars": 1635,
+                "stars": 1636,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -6965,7 +6965,7 @@
                 "open_issues": 5,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1538,
+                "stars": 1539,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -7485,7 +7485,7 @@
                 "open_issues": 16,
                 "owner": "whwlsfb",
                 "repo": "BurpCrypto",
-                "stars": 1655,
+                "stars": 1656,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -7553,7 +7553,7 @@
                 "open_issues": 10,
                 "owner": "romanzaikin",
                 "repo": "BurpExtension-WhatsApp-Decryption-CheckPoint",
-                "stars": 644,
+                "stars": 645,
                 "topics": [
                   "burpsuite-extender",
                   "hacking-tool",
@@ -7740,7 +7740,7 @@
                 "open_issues": 22,
                 "owner": "summitt",
                 "repo": "Nope-Proxy",
-                "stars": 1663,
+                "stars": 1664,
                 "topics": [
                   "appsec",
                   "appsecurity",
@@ -8126,7 +8126,7 @@
                 "open_issues": 11,
                 "owner": "federicodotta",
                 "repo": "Brida",
-                "stars": 1900,
+                "stars": 1901,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8147,7 +8147,7 @@
                 "open_issues": 1,
                 "owner": "projectdiscovery",
                 "repo": "nuclei-burp-plugin",
-                "stars": 1356,
+                "stars": 1357,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8168,7 +8168,7 @@
                 "open_issues": 11,
                 "owner": "yeswehack",
                 "repo": "YesWeBurp",
-                "stars": 116,
+                "stars": 117,
                 "topics": [
                   "bugbounty",
                   "burp-extensions",
@@ -8449,7 +8449,7 @@
                 "open_issues": 35,
                 "owner": "bit4woo",
                 "repo": "knife",
-                "stars": 1974,
+                "stars": 1976,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -8485,7 +8485,7 @@
                 "open_issues": 0,
                 "owner": "d3vilbug",
                 "repo": "HackBar",
-                "stars": 1635,
+                "stars": 1636,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -9428,7 +9428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T13:13:48.551Z",
+    "last_updated": "2026-10-17T12:10:07.218Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
