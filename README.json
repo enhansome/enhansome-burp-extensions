@@ -222,7 +222,7 @@
             "open_issues": 2,
             "owner": "PortSwigger",
             "repo": "backslash-powered-scanner",
-            "stars": 717,
+            "stars": 718,
             "topics": [
               "extension"
             ]
@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4405,
+                "stars": 4404,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -1492,7 +1492,7 @@
                 "open_issues": 7,
                 "owner": "wagiro",
                 "repo": "BurpBounty",
-                "stars": 1817,
+                "stars": 1818,
                 "topics": [
                   "bug-bounty",
                   "bugbounty",
@@ -1520,7 +1520,7 @@
                 "open_issues": 5,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1539,
+                "stars": 1540,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -3184,7 +3184,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2148,
+                "stars": 2149,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -5127,7 +5127,7 @@
                     "open_issues": 5,
                     "owner": "xnl-h4ck3r",
                     "repo": "GAP-Burp-Extension",
-                    "stars": 1539,
+                    "stars": 1540,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6080,7 +6080,7 @@
                     "open_issues": 46,
                     "owner": "epinna",
                     "repo": "tplmap",
-                    "stars": 4212,
+                    "stars": 4213,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6178,7 +6178,7 @@
                 "open_issues": 5,
                 "owner": "c0ny1",
                 "repo": "chunked-coding-converter",
-                "stars": 2028,
+                "stars": 2027,
                 "topics": [
                   "burpsuite-extender",
                   "chunked",
@@ -6199,7 +6199,7 @@
                 "id": 451267945,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-13T12:36:13Z",
+                "last_commit": "2026-10-20T10:10:17Z",
                 "open_issues": 13,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
@@ -6240,7 +6240,7 @@
                 "open_issues": 1,
                 "owner": "nccgroup",
                 "repo": "BurpSuiteHTTPSmuggler",
-                "stars": 745,
+                "stars": 744,
                 "topics": [
                   "burpsuite",
                   "burpsuite-extender",
@@ -6266,7 +6266,7 @@
                 "open_issues": 1,
                 "owner": "nccgroup",
                 "repo": "BurpSuiteHTTPSmuggler",
-                "stars": 745,
+                "stars": 744,
                 "topics": [
                   "burpsuite",
                   "burpsuite-extender",
@@ -6450,7 +6450,7 @@
                 "open_issues": 35,
                 "owner": "nccgroup",
                 "repo": "LoggerPlusPlus",
-                "stars": 712,
+                "stars": 713,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6913,7 +6913,7 @@
                 "open_issues": 20,
                 "owner": "PortSwigger",
                 "repo": "turbo-intruder",
-                "stars": 1815,
+                "stars": 1816,
                 "topics": [
                   "extension"
                 ]
@@ -6965,7 +6965,7 @@
                 "open_issues": 5,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1539,
+                "stars": 1540,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -7485,7 +7485,7 @@
                 "open_issues": 16,
                 "owner": "whwlsfb",
                 "repo": "BurpCrypto",
-                "stars": 1655,
+                "stars": 1654,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -8449,7 +8449,7 @@
                 "open_issues": 35,
                 "owner": "bit4woo",
                 "repo": "knife",
-                "stars": 1977,
+                "stars": 1976,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -9428,7 +9428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T15:34:15.252Z",
+    "last_updated": "2026-10-20T13:32:27.747Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
