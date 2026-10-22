@@ -15,11 +15,11 @@
             "id": 130329493,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T10:33:48Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-22T12:30:37Z",
+            "open_issues": 20,
             "owner": "doyensec",
             "repo": "inql",
-            "stars": 1813,
+            "stars": 1812,
             "topics": [
               "api-documentation-tool",
               "bugbounty",
@@ -73,7 +73,7 @@
             "open_issues": 7,
             "owner": "sting8k",
             "repo": "BurpSuite_403Bypasser",
-            "stars": 1709,
+            "stars": 1708,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -201,7 +201,7 @@
             "open_issues": 11,
             "owner": "federicodotta",
             "repo": "Java-Deserialization-Scanner",
-            "stars": 804,
+            "stars": 805,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -245,7 +245,7 @@
             "open_issues": 17,
             "owner": "ilmila",
             "repo": "J2EEScan",
-            "stars": 679,
+            "stars": 678,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -263,7 +263,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-20T14:06:08Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "albinowax",
             "repo": "ActiveScanPlusPlus",
             "stars": 669,
@@ -820,34 +820,6 @@
         },
         {
           "node_type": "item",
-          "title": "FlareQuench",
-          "description": "Burp Suite plugin that adds additional checks to the passive scanner to reveal the origin IP(s) of Cloudflare-protected web applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Burp Suite plugin that adds additional checks to the passive scanner to reveal the origin IP(s) of Cloudflare-protected web applications.",
-            "homepage": null,
-            "id": 210455143,
-            "language": "Java",
-            "license": "Apache-2.0",
-            "last_commit": "2022-11-29T13:00:52Z",
-            "open_issues": 1,
-            "owner": "aress31",
-            "repo": "flarequench",
-            "stars": 66,
-            "topics": [
-              "burp-extensions",
-              "burp-plugin",
-              "burpsuite",
-              "cloudflare",
-              "cloudflare-bypass",
-              "crimeflare"
-            ]
-          },
-          "first_seen": "2026-08-28T20:11:33.961Z"
-        },
-        {
-          "node_type": "item",
           "title": "Error Message Checks",
           "description": "Burp Suite extension to passively scan for applications revealing server error messages.",
           "children": [],
@@ -872,6 +844,34 @@
               "penetration-testing",
               "pentest",
               "scanning"
+            ]
+          },
+          "first_seen": "2026-08-28T20:11:33.961Z"
+        },
+        {
+          "node_type": "item",
+          "title": "FlareQuench",
+          "description": "Burp Suite plugin that adds additional checks to the passive scanner to reveal the origin IP(s) of Cloudflare-protected web applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Burp Suite plugin that adds additional checks to the passive scanner to reveal the origin IP(s) of Cloudflare-protected web applications.",
+            "homepage": null,
+            "id": 210455143,
+            "language": "Java",
+            "license": "Apache-2.0",
+            "last_commit": "2022-11-29T13:00:52Z",
+            "open_issues": 1,
+            "owner": "aress31",
+            "repo": "flarequench",
+            "stars": 65,
+            "topics": [
+              "burp-extensions",
+              "burp-plugin",
+              "burpsuite",
+              "cloudflare",
+              "cloudflare-bypass",
+              "crimeflare"
             ]
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4402,
+                "stars": 4403,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -1520,7 +1520,7 @@
                 "open_issues": 5,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1540,
+                "stars": 1539,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -2072,7 +2072,7 @@
                 "open_issues": 0,
                 "owner": "honoki",
                 "repo": "burp-copy-regex-matches",
-                "stars": 35,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -3184,7 +3184,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2149,
+                "stars": 2152,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -4957,7 +4957,7 @@
                     "open_issues": 11,
                     "owner": "federicodotta",
                     "repo": "Java-Deserialization-Scanner",
-                    "stars": 804,
+                    "stars": 805,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5127,7 +5127,7 @@
                     "open_issues": 5,
                     "owner": "xnl-h4ck3r",
                     "repo": "GAP-Burp-Extension",
-                    "stars": 1540,
+                    "stars": 1539,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5727,7 +5727,7 @@
                     "open_issues": 75,
                     "owner": "modzero",
                     "repo": "mod0BurpUploadScanner",
-                    "stars": 492,
+                    "stars": 491,
                     "topics": [
                       "burp",
                       "extension",
@@ -6080,7 +6080,7 @@
                     "open_issues": 46,
                     "owner": "epinna",
                     "repo": "tplmap",
-                    "stars": 4213,
+                    "stars": 4216,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6197,10 +6197,10 @@
                 "description": "Burp extension to evade TLS fingerprinting. Bypass WAF, spoof any browser.",
                 "homepage": null,
                 "id": 451267945,
-                "language": "Java",
+                "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-21T06:35:52Z",
-                "open_issues": 16,
+                "last_commit": "2026-10-22T09:14:57Z",
+                "open_issues": 8,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
                 "stars": 1908,
@@ -6936,7 +6936,7 @@
                 "open_issues": 0,
                 "owner": "d3vilbug",
                 "repo": "HackBar",
-                "stars": 1637,
+                "stars": 1638,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -6965,7 +6965,7 @@
                 "open_issues": 5,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1540,
+                "stars": 1539,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -7517,7 +7517,7 @@
                 "open_issues": 7,
                 "owner": "Ebryx",
                 "repo": "AES-Killer",
-                "stars": 653,
+                "stars": 654,
                 "topics": [
                   "aes-decryption",
                   "aes-encryption",
@@ -7740,7 +7740,7 @@
                 "open_issues": 22,
                 "owner": "summitt",
                 "repo": "Nope-Proxy",
-                "stars": 1664,
+                "stars": 1663,
                 "topics": [
                   "appsec",
                   "appsecurity",
@@ -8485,7 +8485,7 @@
                 "open_issues": 0,
                 "owner": "d3vilbug",
                 "repo": "HackBar",
-                "stars": 1637,
+                "stars": 1638,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -9428,7 +9428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T13:44:35.798Z",
+    "last_updated": "2026-10-22T13:45:02.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
@@ -9440,7 +9440,7 @@
       "open_issues": 1,
       "owner": "snoopysecurity",
       "repo": "awesome-burp-extensions",
-      "stars": 3447,
+      "stars": 3448,
       "topics": []
     },
     "original_repository_sha": "7cbf7fdf4d690af55b33be6fcf5cb7e6ac093e8c",
