@@ -15,8 +15,8 @@
             "id": 130329493,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T16:55:38Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-23T16:06:38Z",
+            "open_issues": 20,
             "owner": "doyensec",
             "repo": "inql",
             "stars": 1812,
@@ -222,7 +222,7 @@
             "open_issues": 2,
             "owner": "PortSwigger",
             "repo": "backslash-powered-scanner",
-            "stars": 719,
+            "stars": 720,
             "topics": [
               "extension"
             ]
@@ -714,7 +714,7 @@
             "open_issues": 0,
             "owner": "0xDexter0us",
             "repo": "Log4J-Scanner",
-            "stars": 101,
+            "stars": 102,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4401,
+                "stars": 4400,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -1541,7 +1541,7 @@
                 "open_issues": 21,
                 "owner": "yeswehack",
                 "repo": "PwnFox",
-                "stars": 1359,
+                "stars": 1360,
                 "topics": [
                   "bugbounty",
                   "firefox-extension",
@@ -3690,7 +3690,7 @@
                 "open_issues": 4,
                 "owner": "pwntester",
                 "repo": "DupeKeyInjector",
-                "stars": 133,
+                "stars": 134,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5309,7 +5309,7 @@
                     "open_issues": 1,
                     "owner": "xxux11",
                     "repo": "http-methods-discloser",
-                    "stars": 44,
+                    "stars": 45,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5368,7 +5368,7 @@
                     "id": 556012246,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-15T02:03:02Z",
+                    "last_commit": "2026-10-24T02:03:37Z",
                     "open_issues": 3,
                     "owner": "levoai",
                     "repo": "levoai-burp-extension",
@@ -6178,8 +6178,8 @@
                 "id": 451267945,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-22T22:54:48Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-24T02:43:12Z",
+                "open_issues": 6,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
                 "stars": 1908,
@@ -6357,7 +6357,7 @@
                 "open_issues": 0,
                 "owner": "Robin528919",
                 "repo": "burp-awesome-tls-plus",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "anti-bot",
                   "burp",
@@ -7778,7 +7778,7 @@
                 "open_issues": 13,
                 "owner": "aress31",
                 "repo": "openapi-parser",
-                "stars": 209,
+                "stars": 210,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -8514,7 +8514,7 @@
                 "open_issues": 1,
                 "owner": "vmware-archive",
                 "repo": "burp-rest-api",
-                "stars": 565,
+                "stars": 564,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8535,7 +8535,7 @@
                 "open_issues": 6,
                 "owner": "0x4D31",
                 "repo": "burpa",
-                "stars": 535,
+                "stars": 534,
                 "topics": [
                   "automation",
                   "burp",
@@ -9407,7 +9407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T13:22:47.775Z",
+    "last_updated": "2026-10-24T12:39:12.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
