@@ -19,7 +19,7 @@
             "open_issues": 20,
             "owner": "doyensec",
             "repo": "inql",
-            "stars": 1812,
+            "stars": 1813,
             "topics": [
               "api-documentation-tool",
               "bugbounty",
@@ -133,7 +133,7 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2026-08-13T10:42:16Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "PortSwigger",
             "repo": "http-request-smuggler",
             "stars": 1250,
@@ -533,7 +533,7 @@
             "open_issues": 4,
             "owner": "0xAnuj",
             "repo": "Blinks",
-            "stars": 145,
+            "stars": 144,
             "topics": [
               "burp",
               "burp-extensions",
@@ -3163,7 +3163,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2151,
+                "stars": 2153,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -3367,7 +3367,7 @@
                 "open_issues": 1,
                 "owner": "debasishm89",
                 "repo": "burpy",
-                "stars": 124,
+                "stars": 122,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -4477,7 +4477,7 @@
                     "open_issues": 11,
                     "owner": "Quitten",
                     "repo": "Autorize",
-                    "stars": 1173,
+                    "stars": 1174,
                     "topics": [
                       "application-security",
                       "authorization",
@@ -4505,7 +4505,7 @@
                     "open_issues": 30,
                     "owner": "nccgroup",
                     "repo": "AutoRepeater",
-                    "stars": 893,
+                    "stars": 894,
                     "topics": [
                       "burp-plugin",
                       "burpsuite",
@@ -4530,7 +4530,7 @@
                     "open_issues": 29,
                     "owner": "SecurityInnovation",
                     "repo": "AuthMatrix",
-                    "stars": 647,
+                    "stars": 648,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -4551,7 +4551,7 @@
                     "open_issues": 13,
                     "owner": "simioni87",
                     "repo": "auth_analyzer",
-                    "stars": 227,
+                    "stars": 225,
                     "topics": [
                       "application-security",
                       "auth",
@@ -6115,7 +6115,7 @@
                     "open_issues": 0,
                     "owner": "e1abrador",
                     "repo": "Burp-Encode-IP",
-                    "stars": 48,
+                    "stars": 49,
                     "topics": [
                       "bugbounty",
                       "bugbounty-tool",
@@ -6182,7 +6182,7 @@
                 "open_issues": 6,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1908,
+                "stars": 1907,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -6357,7 +6357,7 @@
                 "open_issues": 0,
                 "owner": "Robin528919",
                 "repo": "burp-awesome-tls-plus",
-                "stars": 5,
+                "stars": 6,
                 "topics": [
                   "anti-bot",
                   "burp",
@@ -6915,7 +6915,7 @@
                 "open_issues": 0,
                 "owner": "d3vilbug",
                 "repo": "HackBar",
-                "stars": 1638,
+                "stars": 1636,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -7719,7 +7719,7 @@
                 "open_issues": 22,
                 "owner": "summitt",
                 "repo": "Nope-Proxy",
-                "stars": 1663,
+                "stars": 1662,
                 "topics": [
                   "appsec",
                   "appsecurity",
@@ -8105,7 +8105,7 @@
                 "open_issues": 11,
                 "owner": "federicodotta",
                 "repo": "Brida",
-                "stars": 1901,
+                "stars": 1899,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8428,7 +8428,7 @@
                 "open_issues": 34,
                 "owner": "bit4woo",
                 "repo": "knife",
-                "stars": 1975,
+                "stars": 1976,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -8464,7 +8464,7 @@
                 "open_issues": 0,
                 "owner": "d3vilbug",
                 "repo": "HackBar",
-                "stars": 1638,
+                "stars": 1636,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -9407,7 +9407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T12:39:12.657Z",
+    "last_updated": "2026-10-25T13:10:01.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
