@@ -136,7 +136,7 @@
             "open_issues": 14,
             "owner": "PortSwigger",
             "repo": "http-request-smuggler",
-            "stars": 1251,
+            "stars": 1252,
             "topics": [
               "extension"
             ]
@@ -2051,7 +2051,7 @@
                 "open_issues": 0,
                 "owner": "honoki",
                 "repo": "burp-copy-regex-matches",
-                "stars": 34,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -3367,7 +3367,7 @@
                 "open_issues": 1,
                 "owner": "debasishm89",
                 "repo": "burpy",
-                "stars": 122,
+                "stars": 123,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -4530,7 +4530,7 @@
                     "open_issues": 29,
                     "owner": "SecurityInnovation",
                     "repo": "AuthMatrix",
-                    "stars": 648,
+                    "stars": 649,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6059,7 +6059,7 @@
                     "open_issues": 46,
                     "owner": "epinna",
                     "repo": "tplmap",
-                    "stars": 4217,
+                    "stars": 4218,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6157,7 +6157,7 @@
                 "open_issues": 5,
                 "owner": "c0ny1",
                 "repo": "chunked-coding-converter",
-                "stars": 2026,
+                "stars": 2025,
                 "topics": [
                   "burpsuite-extender",
                   "chunked",
@@ -6892,7 +6892,7 @@
                 "open_issues": 20,
                 "owner": "PortSwigger",
                 "repo": "turbo-intruder",
-                "stars": 1816,
+                "stars": 1817,
                 "topics": [
                   "extension"
                 ]
@@ -6915,7 +6915,7 @@
                 "open_issues": 0,
                 "owner": "d3vilbug",
                 "repo": "HackBar",
-                "stars": 1636,
+                "stars": 1637,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -6993,7 +6993,7 @@
                 "open_issues": 5,
                 "owner": "bit4woo",
                 "repo": "reCAPTCHA",
-                "stars": 809,
+                "stars": 808,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -8105,7 +8105,7 @@
                 "open_issues": 11,
                 "owner": "federicodotta",
                 "repo": "Brida",
-                "stars": 1900,
+                "stars": 1901,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8126,7 +8126,7 @@
                 "open_issues": 3,
                 "owner": "projectdiscovery",
                 "repo": "nuclei-burp-plugin",
-                "stars": 1353,
+                "stars": 1354,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8403,7 +8403,7 @@
                 "open_issues": 12,
                 "owner": "bugcrowd",
                 "repo": "HUNT",
-                "stars": 2340,
+                "stars": 2341,
                 "topics": [
                   "burpsuite",
                   "hunt",
@@ -8464,7 +8464,7 @@
                 "open_issues": 0,
                 "owner": "d3vilbug",
                 "repo": "HackBar",
-                "stars": 1636,
+                "stars": 1637,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -9407,7 +9407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T14:27:28.295Z",
+    "last_updated": "2026-10-28T15:04:59.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
