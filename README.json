@@ -19,7 +19,7 @@
             "open_issues": 20,
             "owner": "doyensec",
             "repo": "inql",
-            "stars": 1812,
+            "stars": 1813,
             "topics": [
               "api-documentation-tool",
               "bugbounty",
@@ -52,7 +52,7 @@
             "open_issues": 8,
             "owner": "pmiaowu",
             "repo": "BurpShiroPassiveScan",
-            "stars": 1807,
+            "stars": 1806,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4401,
+                "stars": 4403,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -3163,7 +3163,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2154,
+                "stars": 2155,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -6059,7 +6059,7 @@
                     "open_issues": 46,
                     "owner": "epinna",
                     "repo": "tplmap",
-                    "stars": 4217,
+                    "stars": 4216,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6157,7 +6157,7 @@
                 "open_issues": 5,
                 "owner": "c0ny1",
                 "repo": "chunked-coding-converter",
-                "stars": 2025,
+                "stars": 2024,
                 "topics": [
                   "burpsuite-extender",
                   "chunked",
@@ -6182,7 +6182,7 @@
                 "open_issues": 8,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1909,
+                "stars": 1910,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -6892,7 +6892,7 @@
                 "open_issues": 20,
                 "owner": "PortSwigger",
                 "repo": "turbo-intruder",
-                "stars": 1817,
+                "stars": 1816,
                 "topics": [
                   "extension"
                 ]
@@ -6993,7 +6993,7 @@
                 "open_issues": 5,
                 "owner": "bit4woo",
                 "repo": "reCAPTCHA",
-                "stars": 808,
+                "stars": 807,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -8126,7 +8126,7 @@
                 "open_issues": 3,
                 "owner": "projectdiscovery",
                 "repo": "nuclei-burp-plugin",
-                "stars": 1353,
+                "stars": 1354,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -9407,7 +9407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T15:12:21.038Z",
+    "last_updated": "2026-10-30T15:01:23.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
