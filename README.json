@@ -15,11 +15,11 @@
             "id": 130329493,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T16:06:38Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-01T06:28:07Z",
+            "open_issues": 21,
             "owner": "doyensec",
             "repo": "inql",
-            "stars": 1813,
+            "stars": 1814,
             "topics": [
               "api-documentation-tool",
               "bugbounty",
@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4405,
+                "stars": 4407,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -1520,7 +1520,7 @@
                 "open_issues": 5,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1540,
+                "stars": 1541,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1541,7 +1541,7 @@
                 "open_issues": 21,
                 "owner": "yeswehack",
                 "repo": "PwnFox",
-                "stars": 1362,
+                "stars": 1361,
                 "topics": [
                   "bugbounty",
                   "firefox-extension",
@@ -1697,7 +1697,7 @@
                 "open_issues": 4,
                 "owner": "hackvertor",
                 "repo": "hackvertor",
-                "stars": 252,
+                "stars": 253,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -3163,7 +3163,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2157,
+                "stars": 2158,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -3876,7 +3876,7 @@
                 "open_issues": 5,
                 "owner": "bit4woo",
                 "repo": "domain_hunter",
-                "stars": 675,
+                "stars": 674,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -4505,7 +4505,7 @@
                     "open_issues": 30,
                     "owner": "nccgroup",
                     "repo": "AutoRepeater",
-                    "stars": 894,
+                    "stars": 893,
                     "topics": [
                       "burp-plugin",
                       "burpsuite",
@@ -5106,7 +5106,7 @@
                     "open_issues": 5,
                     "owner": "xnl-h4ck3r",
                     "repo": "GAP-Burp-Extension",
-                    "stars": 1540,
+                    "stars": 1541,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6157,7 +6157,7 @@
                 "open_issues": 5,
                 "owner": "c0ny1",
                 "repo": "chunked-coding-converter",
-                "stars": 2024,
+                "stars": 2023,
                 "topics": [
                   "burpsuite-extender",
                   "chunked",
@@ -6915,7 +6915,7 @@
                 "open_issues": 0,
                 "owner": "d3vilbug",
                 "repo": "HackBar",
-                "stars": 1637,
+                "stars": 1636,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -6944,7 +6944,7 @@
                 "open_issues": 5,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1540,
+                "stars": 1541,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8464,7 +8464,7 @@
                 "open_issues": 0,
                 "owner": "d3vilbug",
                 "repo": "HackBar",
-                "stars": 1637,
+                "stars": 1636,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -8942,8 +8942,8 @@
                 "id": 698176149,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T15:42:44Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-01T07:24:04Z",
+                "open_issues": 6,
                 "owner": "joshspindler",
                 "repo": "extensibility-helper",
                 "stars": 10,
@@ -9407,7 +9407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T14:30:40.872Z",
+    "last_updated": "2026-11-01T15:04:40.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
