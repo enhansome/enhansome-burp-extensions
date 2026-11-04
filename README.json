@@ -180,7 +180,7 @@
             "open_issues": 12,
             "owner": "whwlsfb",
             "repo": "Log4j2Scan",
-            "stars": 833,
+            "stars": 832,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4412,
+                "stars": 4408,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -2845,7 +2845,7 @@
                 "open_issues": 3,
                 "owner": "augustd",
                 "repo": "burp-suite-jsonpath",
-                "stars": 30,
+                "stars": 31,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -2874,7 +2874,7 @@
                 "open_issues": 3,
                 "owner": "augustd",
                 "repo": "burp-suite-jsonpath",
-                "stars": 30,
+                "stars": 31,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -4246,7 +4246,7 @@
                     "open_issues": 14,
                     "owner": "elkokc",
                     "repo": "reflector",
-                    "stars": 1217,
+                    "stars": 1218,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6157,7 +6157,7 @@
                 "open_issues": 5,
                 "owner": "c0ny1",
                 "repo": "chunked-coding-converter",
-                "stars": 2023,
+                "stars": 2022,
                 "topics": [
                   "burpsuite-extender",
                   "chunked",
@@ -6915,7 +6915,7 @@
                 "open_issues": 0,
                 "owner": "d3vilbug",
                 "repo": "HackBar",
-                "stars": 1635,
+                "stars": 1633,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -8105,7 +8105,7 @@
                 "open_issues": 11,
                 "owner": "federicodotta",
                 "repo": "Brida",
-                "stars": 1901,
+                "stars": 1900,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8464,7 +8464,7 @@
                 "open_issues": 0,
                 "owner": "d3vilbug",
                 "repo": "HackBar",
-                "stars": 1635,
+                "stars": 1633,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -9407,7 +9407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T16:12:28.671Z",
+    "last_updated": "2026-11-04T16:16:05.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
