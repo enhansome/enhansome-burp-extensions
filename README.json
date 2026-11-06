@@ -19,7 +19,7 @@
             "open_issues": 21,
             "owner": "doyensec",
             "repo": "inql",
-            "stars": 1813,
+            "stars": 1814,
             "topics": [
               "api-documentation-tool",
               "bugbounty",
@@ -73,7 +73,7 @@
             "open_issues": 7,
             "owner": "sting8k",
             "repo": "BurpSuite_403Bypasser",
-            "stars": 1706,
+            "stars": 1707,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -136,7 +136,7 @@
             "open_issues": 14,
             "owner": "PortSwigger",
             "repo": "http-request-smuggler",
-            "stars": 1250,
+            "stars": 1249,
             "topics": [
               "extension"
             ]
@@ -222,7 +222,7 @@
             "open_issues": 2,
             "owner": "PortSwigger",
             "repo": "backslash-powered-scanner",
-            "stars": 719,
+            "stars": 718,
             "topics": [
               "extension"
             ]
@@ -287,7 +287,7 @@
             "open_issues": 3,
             "owner": "silentsignal",
             "repo": "burp-log4shell",
-            "stars": 486,
+            "stars": 488,
             "topics": [
               "burp-extensions",
               "burp-plugin",
@@ -337,7 +337,7 @@
             "open_issues": 0,
             "owner": "volkandindar",
             "repo": "agartha",
-            "stars": 411,
+            "stars": 412,
             "topics": [
               "application-security",
               "appsec",
@@ -1492,7 +1492,7 @@
                 "open_issues": 7,
                 "owner": "wagiro",
                 "repo": "BurpBounty",
-                "stars": 1817,
+                "stars": 1816,
                 "topics": [
                   "bug-bounty",
                   "bugbounty",
@@ -1541,7 +1541,7 @@
                 "open_issues": 21,
                 "owner": "yeswehack",
                 "repo": "PwnFox",
-                "stars": 1361,
+                "stars": 1362,
                 "topics": [
                   "bugbounty",
                   "firefox-extension",
@@ -1667,7 +1667,7 @@
                 "open_issues": 6,
                 "owner": "usdAG",
                 "repo": "cstc",
-                "stars": 268,
+                "stars": 269,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -1852,7 +1852,7 @@
                 "open_issues": 8,
                 "owner": "silentsignal",
                 "repo": "burp-piper",
-                "stars": 128,
+                "stars": 129,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -2660,7 +2660,7 @@
                 "open_issues": 6,
                 "owner": "usdAG",
                 "repo": "cstc",
-                "stars": 268,
+                "stars": 269,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -3163,7 +3163,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2160,
+                "stars": 2159,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -3229,7 +3229,7 @@
                 "open_issues": 1,
                 "owner": "codewatchorg",
                 "repo": "Burp-AnonymousCloud",
-                "stars": 47,
+                "stars": 46,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -3343,7 +3343,7 @@
                 "open_issues": 1,
                 "owner": "silentsignal",
                 "repo": "burp-requests",
-                "stars": 147,
+                "stars": 148,
                 "topics": [
                   "burp",
                   "python-requests"
@@ -3876,7 +3876,7 @@
                 "open_issues": 5,
                 "owner": "bit4woo",
                 "repo": "domain_hunter",
-                "stars": 675,
+                "stars": 674,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -4288,7 +4288,7 @@
                     "open_issues": 1,
                     "owner": "wish-i-was",
                     "repo": "femida",
-                    "stars": 281,
+                    "stars": 282,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -4957,7 +4957,7 @@
                     "open_issues": 0,
                     "owner": "BishopFox",
                     "repo": "GadgetProbe",
-                    "stars": 618,
+                    "stars": 617,
                     "topics": [
                       "burp-extensions",
                       "java",
@@ -6157,7 +6157,7 @@
                 "open_issues": 5,
                 "owner": "c0ny1",
                 "repo": "chunked-coding-converter",
-                "stars": 2021,
+                "stars": 2022,
                 "topics": [
                   "burpsuite-extender",
                   "chunked",
@@ -6182,7 +6182,7 @@
                 "open_issues": 8,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1908,
+                "stars": 1911,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -6430,7 +6430,7 @@
                 "open_issues": 0,
                 "owner": "Anof-cyber",
                 "repo": "Pentest-Mapper",
-                "stars": 118,
+                "stars": 119,
                 "topics": [
                   "appsec",
                   "bugbounty",
@@ -6982,7 +6982,7 @@
                 "open_issues": 0,
                 "owner": "volkandindar",
                 "repo": "agartha",
-                "stars": 411,
+                "stars": 412,
                 "topics": [
                   "application-security",
                   "appsec",
@@ -7517,7 +7517,7 @@
                 "open_issues": 0,
                 "owner": "Anof-cyber",
                 "repo": "PyCript",
-                "stars": 221,
+                "stars": 222,
                 "topics": [
                   "application-security",
                   "bug-bounty",
@@ -7737,7 +7737,7 @@
                 "open_issues": 13,
                 "owner": "aress31",
                 "repo": "openapi-parser",
-                "stars": 210,
+                "stars": 211,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -8085,7 +8085,7 @@
                 "open_issues": 3,
                 "owner": "projectdiscovery",
                 "repo": "nuclei-burp-plugin",
-                "stars": 1353,
+                "stars": 1354,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8362,7 +8362,7 @@
                 "open_issues": 12,
                 "owner": "bugcrowd",
                 "repo": "HUNT",
-                "stars": 2338,
+                "stars": 2339,
                 "topics": [
                   "burpsuite",
                   "hunt",
@@ -8901,8 +8901,8 @@
                 "id": 698176149,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-01T07:24:04Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-06T07:22:57Z",
+                "open_issues": 8,
                 "owner": "joshspindler",
                 "repo": "extensibility-helper",
                 "stars": 10,
@@ -9366,7 +9366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T16:26:32.479Z",
+    "last_updated": "2026-11-06T15:54:00.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
