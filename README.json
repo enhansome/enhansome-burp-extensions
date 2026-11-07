@@ -686,7 +686,7 @@
             "open_issues": 1,
             "owner": "fcavallarin",
             "repo": "burp-dom-scanner",
-            "stars": 106,
+            "stars": 105,
             "topics": [
               "crawling",
               "dom",
@@ -1443,7 +1443,7 @@
             "open_issues": 0,
             "owner": "alexcowperthwaite",
             "repo": "PasskeyScanner",
-            "stars": 3,
+            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4407,
+                "stars": 4406,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -6178,8 +6178,8 @@
                 "id": 451267945,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-28T19:58:58Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-06T18:06:45Z",
+                "open_issues": 9,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
                 "stars": 1911,
@@ -7678,7 +7678,7 @@
                 "open_issues": 22,
                 "owner": "summitt",
                 "repo": "Nope-Proxy",
-                "stars": 1662,
+                "stars": 1661,
                 "topics": [
                   "appsec",
                   "appsecurity",
@@ -8064,7 +8064,7 @@
                 "open_issues": 11,
                 "owner": "federicodotta",
                 "repo": "Brida",
-                "stars": 1900,
+                "stars": 1901,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8387,7 +8387,7 @@
                 "open_issues": 34,
                 "owner": "bit4woo",
                 "repo": "knife",
-                "stars": 1974,
+                "stars": 1975,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -9366,7 +9366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T15:54:00.092Z",
+    "last_updated": "2026-11-07T14:52:56.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
