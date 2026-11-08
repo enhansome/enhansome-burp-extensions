@@ -136,7 +136,7 @@
             "open_issues": 14,
             "owner": "PortSwigger",
             "repo": "http-request-smuggler",
-            "stars": 1249,
+            "stars": 1250,
             "topics": [
               "extension"
             ]
@@ -180,7 +180,7 @@
             "open_issues": 12,
             "owner": "whwlsfb",
             "repo": "Log4j2Scan",
-            "stars": 831,
+            "stars": 830,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -337,7 +337,7 @@
             "open_issues": 0,
             "owner": "volkandindar",
             "repo": "agartha",
-            "stars": 412,
+            "stars": 411,
             "topics": [
               "application-security",
               "appsec",
@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4406,
+                "stars": 4405,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -3301,7 +3301,7 @@
                 "open_issues": 6,
                 "owner": "allfro",
                 "repo": "BurpKit",
-                "stars": 459,
+                "stars": 458,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -3367,7 +3367,7 @@
                 "open_issues": 1,
                 "owner": "debasishm89",
                 "repo": "burpy",
-                "stars": 123,
+                "stars": 122,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -3791,8 +3791,8 @@
                 "id": 468860328,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T17:44:10Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-08T14:58:43Z",
+                "open_issues": 2,
                 "owner": "DolphFlynn",
                 "repo": "jwt-editor",
                 "stars": 31,
@@ -4477,7 +4477,7 @@
                     "open_issues": 11,
                     "owner": "Quitten",
                     "repo": "Autorize",
-                    "stars": 1174,
+                    "stars": 1173,
                     "topics": [
                       "application-security",
                       "authorization",
@@ -6059,7 +6059,7 @@
                     "open_issues": 46,
                     "owner": "epinna",
                     "repo": "tplmap",
-                    "stars": 4215,
+                    "stars": 4213,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6874,7 +6874,7 @@
                 "open_issues": 0,
                 "owner": "d3vilbug",
                 "repo": "HackBar",
-                "stars": 1632,
+                "stars": 1631,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -6982,7 +6982,7 @@
                 "open_issues": 0,
                 "owner": "volkandindar",
                 "repo": "agartha",
-                "stars": 412,
+                "stars": 411,
                 "topics": [
                   "application-security",
                   "appsec",
@@ -7423,7 +7423,7 @@
                 "open_issues": 16,
                 "owner": "whwlsfb",
                 "repo": "BurpCrypto",
-                "stars": 1655,
+                "stars": 1654,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -7455,7 +7455,7 @@
                 "open_issues": 7,
                 "owner": "Ebryx",
                 "repo": "AES-Killer",
-                "stars": 654,
+                "stars": 653,
                 "topics": [
                   "aes-decryption",
                   "aes-encryption",
@@ -8423,7 +8423,7 @@
                 "open_issues": 0,
                 "owner": "d3vilbug",
                 "repo": "HackBar",
-                "stars": 1632,
+                "stars": 1631,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -8901,8 +8901,8 @@
                 "id": 698176149,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-06T07:22:57Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-08T14:59:58Z",
+                "open_issues": 5,
                 "owner": "joshspindler",
                 "repo": "extensibility-helper",
                 "stars": 10,
@@ -9366,7 +9366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T14:52:56.334Z",
+    "last_updated": "2026-11-08T15:09:07.713Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
@@ -9378,7 +9378,7 @@
       "open_issues": 1,
       "owner": "snoopysecurity",
       "repo": "awesome-burp-extensions",
-      "stars": 3451,
+      "stars": 3453,
       "topics": []
     },
     "original_repository_sha": "7cbf7fdf4d690af55b33be6fcf5cb7e6ac093e8c",
