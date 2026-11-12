@@ -52,7 +52,7 @@
             "open_issues": 8,
             "owner": "pmiaowu",
             "repo": "BurpShiroPassiveScan",
-            "stars": 1806,
+            "stars": 1805,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -94,7 +94,7 @@
             "open_issues": 11,
             "owner": "F6JO",
             "repo": "RouteVulScan",
-            "stars": 1335,
+            "stars": 1334,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -115,7 +115,7 @@
             "open_issues": 11,
             "owner": "F6JO",
             "repo": "RouteVulScan",
-            "stars": 1335,
+            "stars": 1334,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -136,7 +136,7 @@
             "open_issues": 14,
             "owner": "PortSwigger",
             "repo": "http-request-smuggler",
-            "stars": 1250,
+            "stars": 1251,
             "topics": [
               "extension"
             ]
@@ -222,7 +222,7 @@
             "open_issues": 2,
             "owner": "PortSwigger",
             "repo": "backslash-powered-scanner",
-            "stars": 718,
+            "stars": 719,
             "topics": [
               "extension"
             ]
@@ -266,7 +266,7 @@
             "open_issues": 8,
             "owner": "albinowax",
             "repo": "ActiveScanPlusPlus",
-            "stars": 667,
+            "stars": 669,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -314,7 +314,7 @@
             "open_issues": 21,
             "owner": "PortSwigger",
             "repo": "collaborator-everywhere",
-            "stars": 454,
+            "stars": 455,
             "topics": [
               "extension"
             ]
@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4411,
+                "stars": 4410,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -1517,7 +1517,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-01-08T19:23:17Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
                 "stars": 1540,
@@ -1541,7 +1541,7 @@
                 "open_issues": 22,
                 "owner": "yeswehack",
                 "repo": "PwnFox",
-                "stars": 1362,
+                "stars": 1364,
                 "topics": [
                   "bugbounty",
                   "firefox-extension",
@@ -1693,7 +1693,7 @@
                 "id": 110985160,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-09-17T12:05:41Z",
+                "last_commit": "2026-11-12T13:05:05Z",
                 "open_issues": 4,
                 "owner": "hackvertor",
                 "repo": "hackvertor",
@@ -1786,7 +1786,7 @@
                 "open_issues": 1,
                 "owner": "moeinfatehi",
                 "repo": "Backup-Finder",
-                "stars": 164,
+                "stars": 165,
                 "topics": [
                   "application-security",
                   "appsecurity",
@@ -3163,7 +3163,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2161,
+                "stars": 2162,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -4477,7 +4477,7 @@
                     "open_issues": 11,
                     "owner": "Quitten",
                     "repo": "Autorize",
-                    "stars": 1173,
+                    "stars": 1174,
                     "topics": [
                       "application-security",
                       "authorization",
@@ -5103,7 +5103,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2026-01-08T19:23:17Z",
-                    "open_issues": 5,
+                    "open_issues": 4,
                     "owner": "xnl-h4ck3r",
                     "repo": "GAP-Burp-Extension",
                     "stars": 1540,
@@ -6178,11 +6178,11 @@
                 "id": 451267945,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-10T22:28:49Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-11T21:26:33Z",
+                "open_issues": 9,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1912,
+                "stars": 1913,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -6385,7 +6385,7 @@
                 "language": "Java",
                 "license": "AGPL-3.0",
                 "last_commit": "2024-05-31T05:48:24Z",
-                "open_issues": 35,
+                "open_issues": 36,
                 "owner": "nccgroup",
                 "repo": "LoggerPlusPlus",
                 "stars": 712,
@@ -6848,10 +6848,10 @@
                 "language": "Kotlin",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-07T10:14:13Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "PortSwigger",
                 "repo": "turbo-intruder",
-                "stars": 1820,
+                "stars": 1821,
                 "topics": [
                   "extension"
                 ]
@@ -6874,7 +6874,7 @@
                 "open_issues": 0,
                 "owner": "d3vilbug",
                 "repo": "HackBar",
-                "stars": 1633,
+                "stars": 1632,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -6900,7 +6900,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-01-08T19:23:17Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
                 "stars": 1540,
@@ -7455,7 +7455,7 @@
                 "open_issues": 7,
                 "owner": "Ebryx",
                 "repo": "AES-Killer",
-                "stars": 653,
+                "stars": 654,
                 "topics": [
                   "aes-decryption",
                   "aes-encryption",
@@ -8359,7 +8359,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-26T04:21:39Z",
-                "open_issues": 12,
+                "open_issues": 11,
                 "owner": "bugcrowd",
                 "repo": "HUNT",
                 "stars": 2339,
@@ -8387,7 +8387,7 @@
                 "open_issues": 34,
                 "owner": "bit4woo",
                 "repo": "knife",
-                "stars": 1975,
+                "stars": 1974,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -8423,7 +8423,7 @@
                 "open_issues": 0,
                 "owner": "d3vilbug",
                 "repo": "HackBar",
-                "stars": 1633,
+                "stars": 1632,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -9366,7 +9366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T16:08:00.882Z",
+    "last_updated": "2026-11-12T16:46:22.815Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
