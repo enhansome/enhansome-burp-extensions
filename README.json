@@ -15,8 +15,8 @@
             "id": 130329493,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T21:49:29Z",
-            "open_issues": 23,
+            "last_commit": "2026-11-13T19:02:27Z",
+            "open_issues": 25,
             "owner": "doyensec",
             "repo": "inql",
             "stars": 1814,
@@ -52,7 +52,7 @@
             "open_issues": 8,
             "owner": "pmiaowu",
             "repo": "BurpShiroPassiveScan",
-            "stars": 1805,
+            "stars": 1806,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -94,7 +94,7 @@
             "open_issues": 11,
             "owner": "F6JO",
             "repo": "RouteVulScan",
-            "stars": 1334,
+            "stars": 1335,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -115,7 +115,7 @@
             "open_issues": 11,
             "owner": "F6JO",
             "repo": "RouteVulScan",
-            "stars": 1334,
+            "stars": 1335,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -198,7 +198,7 @@
             "language": "Java",
             "license": null,
             "last_commit": "2021-11-07T18:30:53Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "federicodotta",
             "repo": "Java-Deserialization-Scanner",
             "stars": 805,
@@ -245,7 +245,7 @@
             "open_issues": 17,
             "owner": "ilmila",
             "repo": "J2EEScan",
-            "stars": 676,
+            "stars": 677,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4412,
+                "stars": 4410,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -1492,7 +1492,7 @@
                 "open_issues": 7,
                 "owner": "wagiro",
                 "repo": "BurpBounty",
-                "stars": 1816,
+                "stars": 1815,
                 "topics": [
                   "bug-bounty",
                   "bugbounty",
@@ -4933,7 +4933,7 @@
                     "language": "Java",
                     "license": null,
                     "last_commit": "2021-11-07T18:30:53Z",
-                    "open_issues": 11,
+                    "open_issues": 12,
                     "owner": "federicodotta",
                     "repo": "Java-Deserialization-Scanner",
                     "stars": 805,
@@ -6157,7 +6157,7 @@
                 "open_issues": 5,
                 "owner": "c0ny1",
                 "repo": "chunked-coding-converter",
-                "stars": 2021,
+                "stars": 2022,
                 "topics": [
                   "burpsuite-extender",
                   "chunked",
@@ -6182,7 +6182,7 @@
                 "open_issues": 9,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1914,
+                "stars": 1916,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -7423,7 +7423,7 @@
                 "open_issues": 16,
                 "owner": "whwlsfb",
                 "repo": "BurpCrypto",
-                "stars": 1653,
+                "stars": 1655,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -7678,7 +7678,7 @@
                 "open_issues": 22,
                 "owner": "summitt",
                 "repo": "Nope-Proxy",
-                "stars": 1661,
+                "stars": 1662,
                 "topics": [
                   "appsec",
                   "appsecurity",
@@ -8064,7 +8064,7 @@
                 "open_issues": 12,
                 "owner": "federicodotta",
                 "repo": "Brida",
-                "stars": 1902,
+                "stars": 1903,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8085,7 +8085,7 @@
                 "open_issues": 3,
                 "owner": "projectdiscovery",
                 "repo": "nuclei-burp-plugin",
-                "stars": 1354,
+                "stars": 1355,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8384,10 +8384,10 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2026-10-08T06:37:09Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "bit4woo",
                 "repo": "knife",
-                "stars": 1973,
+                "stars": 1974,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -9366,7 +9366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T16:17:31.499Z",
+    "last_updated": "2026-11-14T15:01:20.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
