@@ -15,7 +15,7 @@
             "id": 130329493,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T19:02:27Z",
+            "last_commit": "2026-11-17T14:39:12Z",
             "open_issues": 25,
             "owner": "doyensec",
             "repo": "inql",
@@ -91,7 +91,7 @@
             "language": "Java",
             "license": null,
             "last_commit": "2026-07-10T04:28:46Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "F6JO",
             "repo": "RouteVulScan",
             "stars": 1334,
@@ -112,7 +112,7 @@
             "language": "Java",
             "license": null,
             "last_commit": "2026-07-10T04:28:46Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "F6JO",
             "repo": "RouteVulScan",
             "stars": 1334,
@@ -1520,7 +1520,7 @@
                 "open_issues": 4,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1540,
+                "stars": 1541,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1541,7 +1541,7 @@
                 "open_issues": 22,
                 "owner": "yeswehack",
                 "repo": "PwnFox",
-                "stars": 1364,
+                "stars": 1365,
                 "topics": [
                   "bugbounty",
                   "firefox-extension",
@@ -3455,7 +3455,7 @@
                 "open_issues": 3,
                 "owner": "cyal1",
                 "repo": "PyBurp",
-                "stars": 39,
+                "stars": 40,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -3876,7 +3876,7 @@
                 "open_issues": 5,
                 "owner": "bit4woo",
                 "repo": "domain_hunter",
-                "stars": 674,
+                "stars": 673,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -4986,7 +4986,7 @@
                     "open_issues": 2,
                     "owner": "bigsizeme",
                     "repo": "fastjson-check",
-                    "stars": 367,
+                    "stars": 368,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5106,7 +5106,7 @@
                     "open_issues": 4,
                     "owner": "xnl-h4ck3r",
                     "repo": "GAP-Burp-Extension",
-                    "stars": 1540,
+                    "stars": 1541,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -5148,7 +5148,7 @@
                     "open_issues": 11,
                     "owner": "pathetiq",
                     "repo": "BurpSmartBuster",
-                    "stars": 378,
+                    "stars": 379,
                     "topics": [
                       "brute",
                       "bruteforce",
@@ -6059,7 +6059,7 @@
                     "open_issues": 46,
                     "owner": "epinna",
                     "repo": "tplmap",
-                    "stars": 4218,
+                    "stars": 4220,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6851,7 +6851,7 @@
                 "open_issues": 20,
                 "owner": "PortSwigger",
                 "repo": "turbo-intruder",
-                "stars": 1823,
+                "stars": 1824,
                 "topics": [
                   "extension"
                 ]
@@ -6903,7 +6903,7 @@
                 "open_issues": 4,
                 "owner": "xnl-h4ck3r",
                 "repo": "GAP-Burp-Extension",
-                "stars": 1540,
+                "stars": 1541,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6924,7 +6924,7 @@
                 "open_issues": 5,
                 "owner": "synacktiv",
                 "repo": "HopLa",
-                "stars": 844,
+                "stars": 845,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -6952,7 +6952,7 @@
                 "open_issues": 6,
                 "owner": "bit4woo",
                 "repo": "reCAPTCHA",
-                "stars": 806,
+                "stars": 807,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -9366,7 +9366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T18:28:48.343Z",
+    "last_updated": "2026-11-17T17:36:28.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
