@@ -15,8 +15,8 @@
             "id": 130329493,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T14:39:12Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-18T16:14:11Z",
+            "open_issues": 16,
             "owner": "doyensec",
             "repo": "inql",
             "stars": 1814,
@@ -52,7 +52,7 @@
             "open_issues": 8,
             "owner": "pmiaowu",
             "repo": "BurpShiroPassiveScan",
-            "stars": 1806,
+            "stars": 1805,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -73,7 +73,7 @@
             "open_issues": 7,
             "owner": "sting8k",
             "repo": "BurpSuite_403Bypasser",
-            "stars": 1710,
+            "stars": 1712,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -94,7 +94,7 @@
             "open_issues": 12,
             "owner": "F6JO",
             "repo": "RouteVulScan",
-            "stars": 1334,
+            "stars": 1333,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -115,7 +115,7 @@
             "open_issues": 12,
             "owner": "F6JO",
             "repo": "RouteVulScan",
-            "stars": 1334,
+            "stars": 1333,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -136,7 +136,7 @@
             "open_issues": 14,
             "owner": "PortSwigger",
             "repo": "http-request-smuggler",
-            "stars": 1251,
+            "stars": 1250,
             "topics": [
               "extension"
             ]
@@ -180,7 +180,7 @@
             "open_issues": 12,
             "owner": "whwlsfb",
             "repo": "Log4j2Scan",
-            "stars": 831,
+            "stars": 830,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -266,7 +266,7 @@
             "open_issues": 8,
             "owner": "albinowax",
             "repo": "ActiveScanPlusPlus",
-            "stars": 669,
+            "stars": 670,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4410,
+                "stars": 4408,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -1492,7 +1492,7 @@
                 "open_issues": 7,
                 "owner": "wagiro",
                 "repo": "BurpBounty",
-                "stars": 1815,
+                "stars": 1814,
                 "topics": [
                   "bug-bounty",
                   "bugbounty",
@@ -1693,7 +1693,7 @@
                 "id": 110985160,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-11-12T13:05:05Z",
+                "last_commit": "2026-11-18T13:17:39Z",
                 "open_issues": 4,
                 "owner": "hackvertor",
                 "repo": "hackvertor",
@@ -4719,6 +4719,46 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "ReproCase",
+                  "description": "Send selected requests from Burp to ReproCase, which reproduces IDOR/BOLA findings with fresh test accounts and gives a reproduced / not reproduced / inconclusive verdict.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "ReproCase: prove IDOR/BOLA, role and CORS findings with fresh test accounts, then reuse the proof as a template. Desktop app for Windows, macOS and Linux, plus Docker and a Burp extension. Open source, no API key needed.",
+                    "homepage": "https://theasbug.github.io/reprocase/",
+                    "id": 1454289971,
+                    "language": "TypeScript",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-11-18T16:06:47Z",
+                    "open_issues": 2,
+                    "owner": "theasbug",
+                    "repo": "reprocase",
+                    "stars": 17,
+                    "topics": [
+                      "access-control",
+                      "ai-agent",
+                      "appsec",
+                      "arjun",
+                      "authorization",
+                      "bola",
+                      "bug-bounty",
+                      "bugbounty",
+                      "burp-extension",
+                      "docker",
+                      "electron",
+                      "ffuf",
+                      "idor",
+                      "mcp",
+                      "pentesting",
+                      "playwright",
+                      "security-testing",
+                      "typescript"
+                    ]
+                  },
+                  "first_seen": "2026-11-18T17:13:26.824Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "IncrementMe Please",
                   "description": "Burp extension to increment a parameter in each active scan request.",
                   "children": [],
@@ -5368,7 +5408,7 @@
                     "id": 556012246,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-16T03:03:51Z",
+                    "last_commit": "2026-11-18T03:03:30Z",
                     "open_issues": 4,
                     "owner": "levoai",
                     "repo": "levoai-burp-extension",
@@ -5763,7 +5803,7 @@
                     "open_issues": 2,
                     "owner": "bayotop",
                     "repo": "off-by-slash",
-                    "stars": 267,
+                    "stars": 268,
                     "topics": [
                       "burpsuite",
                       "nginx",
@@ -6157,7 +6197,7 @@
                 "open_issues": 5,
                 "owner": "c0ny1",
                 "repo": "chunked-coding-converter",
-                "stars": 2022,
+                "stars": 2020,
                 "topics": [
                   "burpsuite-extender",
                   "chunked",
@@ -6182,7 +6222,7 @@
                 "open_issues": 9,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1917,
+                "stars": 1915,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -6219,7 +6259,7 @@
                 "open_issues": 1,
                 "owner": "nccgroup",
                 "repo": "BurpSuiteHTTPSmuggler",
-                "stars": 744,
+                "stars": 745,
                 "topics": [
                   "burpsuite",
                   "burpsuite-extender",
@@ -6245,7 +6285,7 @@
                 "open_issues": 1,
                 "owner": "nccgroup",
                 "repo": "BurpSuiteHTTPSmuggler",
-                "stars": 744,
+                "stars": 745,
                 "topics": [
                   "burpsuite",
                   "burpsuite-extender",
@@ -6851,7 +6891,7 @@
                 "open_issues": 20,
                 "owner": "PortSwigger",
                 "repo": "turbo-intruder",
-                "stars": 1824,
+                "stars": 1825,
                 "topics": [
                   "extension"
                 ]
@@ -7423,7 +7463,7 @@
                 "open_issues": 16,
                 "owner": "whwlsfb",
                 "repo": "BurpCrypto",
-                "stars": 1655,
+                "stars": 1653,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -7491,7 +7531,7 @@
                 "open_issues": 10,
                 "owner": "romanzaikin",
                 "repo": "BurpExtension-WhatsApp-Decryption-CheckPoint",
-                "stars": 645,
+                "stars": 646,
                 "topics": [
                   "burpsuite-extender",
                   "hacking-tool",
@@ -8387,7 +8427,7 @@
                 "open_issues": 35,
                 "owner": "bit4woo",
                 "repo": "knife",
-                "stars": 1973,
+                "stars": 1971,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -9366,7 +9406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T17:36:28.367Z",
+    "last_updated": "2026-11-18T17:13:26.824Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
@@ -9374,14 +9414,14 @@
       "id": 157096490,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-15T21:15:14Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-18T14:53:59Z",
+      "open_issues": 1,
       "owner": "snoopysecurity",
       "repo": "awesome-burp-extensions",
       "stars": 3456,
       "topics": []
     },
-    "original_repository_sha": "7cbf7fdf4d690af55b33be6fcf5cb7e6ac093e8c",
+    "original_repository_sha": "1d3b1d41f6dacf3dfd59993bd8c25b2aa7e40fa8",
     "enhanced_repository": "enhansome/enhansome-burp-extensions",
     "enhanced_repository_description": null,
     "title": "Awesome Burp Extensions with stars"
