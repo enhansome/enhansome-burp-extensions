@@ -15,11 +15,11 @@
             "id": 130329493,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T16:14:11Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-18T18:27:57Z",
+            "open_issues": 15,
             "owner": "doyensec",
             "repo": "inql",
-            "stars": 1814,
+            "stars": 1815,
             "topics": [
               "api-documentation-tool",
               "bugbounty",
@@ -136,7 +136,7 @@
             "open_issues": 14,
             "owner": "PortSwigger",
             "repo": "http-request-smuggler",
-            "stars": 1250,
+            "stars": 1252,
             "topics": [
               "extension"
             ]
@@ -222,7 +222,7 @@
             "open_issues": 2,
             "owner": "PortSwigger",
             "repo": "backslash-powered-scanner",
-            "stars": 719,
+            "stars": 718,
             "topics": [
               "extension"
             ]
@@ -245,7 +245,7 @@
             "open_issues": 17,
             "owner": "ilmila",
             "repo": "J2EEScan",
-            "stars": 677,
+            "stars": 678,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -533,7 +533,7 @@
             "open_issues": 4,
             "owner": "0xAnuj",
             "repo": "Blinks",
-            "stars": 144,
+            "stars": 145,
             "topics": [
               "burp",
               "burp-extensions",
@@ -618,7 +618,7 @@
             "open_issues": 1,
             "owner": "moeinfatehi",
             "repo": "Admin-Panel_Finder",
-            "stars": 124,
+            "stars": 123,
             "topics": [
               "admin-dashboard-finder",
               "admin-finder",
@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4408,
+                "stars": 4409,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -1541,7 +1541,7 @@
                 "open_issues": 22,
                 "owner": "yeswehack",
                 "repo": "PwnFox",
-                "stars": 1365,
+                "stars": 1366,
                 "topics": [
                   "bugbounty",
                   "firefox-extension",
@@ -1663,8 +1663,8 @@
                 "id": 195959897,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-16T06:07:05Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-19T16:07:16Z",
+                "open_issues": 5,
                 "owner": "usdAG",
                 "repo": "cstc",
                 "stars": 269,
@@ -2656,8 +2656,8 @@
                 "id": 195959897,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-16T06:07:05Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-19T16:07:16Z",
+                "open_issues": 5,
                 "owner": "usdAG",
                 "repo": "cstc",
                 "stars": 269,
@@ -3163,7 +3163,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2167,
+                "stars": 2168,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -3990,7 +3990,7 @@
                 "open_issues": 1,
                 "owner": "moeinfatehi",
                 "repo": "Admin-Panel_Finder",
-                "stars": 124,
+                "stars": 123,
                 "topics": [
                   "admin-dashboard-finder",
                   "admin-finder",
@@ -4604,7 +4604,7 @@
                     "open_issues": 1,
                     "owner": "moeinfatehi",
                     "repo": "Admin-Panel_Finder",
-                    "stars": 124,
+                    "stars": 123,
                     "topics": [
                       "admin-dashboard-finder",
                       "admin-finder",
@@ -4733,7 +4733,7 @@
                     "open_issues": 2,
                     "owner": "theasbug",
                     "repo": "reprocase",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": [
                       "access-control",
                       "ai-agent",
@@ -6155,7 +6155,7 @@
                     "open_issues": 0,
                     "owner": "e1abrador",
                     "repo": "Burp-Encode-IP",
-                    "stars": 48,
+                    "stars": 47,
                     "topics": [
                       "bugbounty",
                       "bugbounty-tool",
@@ -6222,7 +6222,7 @@
                 "open_issues": 9,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1915,
+                "stars": 1918,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -6992,7 +6992,7 @@
                 "open_issues": 6,
                 "owner": "bit4woo",
                 "repo": "reCAPTCHA",
-                "stars": 807,
+                "stars": 806,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -8125,7 +8125,7 @@
                 "open_issues": 2,
                 "owner": "projectdiscovery",
                 "repo": "nuclei-burp-plugin",
-                "stars": 1356,
+                "stars": 1357,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8173,7 +8173,7 @@
                 "open_issues": 2,
                 "owner": "gand3lf",
                 "repo": "semgrepper",
-                "stars": 89,
+                "stars": 88,
                 "topics": [
                   "burpsuite-extension",
                   "security-scanner",
@@ -8635,7 +8635,7 @@
                 "open_issues": 1,
                 "owner": "0xDexter0us",
                 "repo": "uproot-JS",
-                "stars": 98,
+                "stars": 99,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -9406,7 +9406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T17:13:26.824Z",
+    "last_updated": "2026-11-19T17:20:55.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
