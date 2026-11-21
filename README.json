@@ -1786,7 +1786,7 @@
                 "open_issues": 1,
                 "owner": "moeinfatehi",
                 "repo": "Backup-Finder",
-                "stars": 165,
+                "stars": 166,
                 "topics": [
                   "application-security",
                   "appsecurity",
@@ -9406,7 +9406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T16:55:59.332Z",
+    "last_updated": "2026-11-21T16:07:10.238Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
@@ -9418,7 +9418,7 @@
       "open_issues": 1,
       "owner": "snoopysecurity",
       "repo": "awesome-burp-extensions",
-      "stars": 3456,
+      "stars": 3455,
       "topics": []
     },
     "original_repository_sha": "1d3b1d41f6dacf3dfd59993bd8c25b2aa7e40fa8",
