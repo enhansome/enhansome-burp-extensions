@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "doyensec",
             "repo": "inql",
-            "stars": 1815,
+            "stars": 1814,
             "topics": [
               "api-documentation-tool",
               "bugbounty",
@@ -3343,7 +3343,7 @@
                 "open_issues": 1,
                 "owner": "silentsignal",
                 "repo": "burp-requests",
-                "stars": 148,
+                "stars": 149,
                 "topics": [
                   "burp",
                   "python-requests"
@@ -3388,7 +3388,7 @@
                 "open_issues": 1,
                 "owner": "PortSwigger",
                 "repo": "copy-as-python-requests",
-                "stars": 66,
+                "stars": 67,
                 "topics": [
                   "extension"
                 ]
@@ -4733,7 +4733,7 @@
                     "open_issues": 2,
                     "owner": "theasbug",
                     "repo": "reprocase",
-                    "stars": 18,
+                    "stars": 19,
                     "topics": [
                       "access-control",
                       "ai-agent",
@@ -5216,7 +5216,7 @@
                     "open_issues": 2,
                     "owner": "vsec7",
                     "repo": "BurpSuite-Xkeys",
-                    "stars": 313,
+                    "stars": 312,
                     "topics": [
                       "burp-extensions",
                       "burpsuite",
@@ -6428,7 +6428,7 @@
                 "open_issues": 36,
                 "owner": "nccgroup",
                 "repo": "LoggerPlusPlus",
-                "stars": 711,
+                "stars": 712,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -9406,7 +9406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T16:07:10.238Z",
+    "last_updated": "2026-11-22T16:14:29.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
@@ -9418,7 +9418,7 @@
       "open_issues": 1,
       "owner": "snoopysecurity",
       "repo": "awesome-burp-extensions",
-      "stars": 3455,
+      "stars": 3456,
       "topics": []
     },
     "original_repository_sha": "1d3b1d41f6dacf3dfd59993bd8c25b2aa7e40fa8",

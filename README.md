@@ -47,7 +47,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 
 *Passive and Active scan plugins.*
 
-* [InQL Scanner](https://github.com/doyensec/inql) ⭐ 1,815 | 🐛 15 | 🌐 Kotlin | 📅 2026-11-20 -  A Comprehensive Burp Extension for GraphQL Security Testing
+* [InQL Scanner](https://github.com/doyensec/inql) ⭐ 1,814 | 🐛 15 | 🌐 Kotlin | 📅 2026-11-20 -  A Comprehensive Burp Extension for GraphQL Security Testing
 * [BurpShiroPassiveScan](https://github.com/pmiaowu/BurpShiroPassiveScan) ⭐ 1,804 | 🐛 8 | 🌐 Java | 📅 2022-12-14 - A passive shiro detection plug-in based on BurpSuite
 * [403Bypasser](https://github.com/sting8k/BurpSuite_403Bypasser) ⭐ 1,712 | 🐛 7 | 🌐 Python | 📅 2023-06-29 - An burpsuite extension to bypass 403 restricted directory.
 * [RouteVulScan](https://github.com/F6JO/RouteVulScan) ⭐ 1,332 | 🐛 12 | 🌐 Java | 📅 2026-07-10 - Route Vulnerable scanning
@@ -236,9 +236,9 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 
 * [Burpkit](https://github.com/allfro/BurpKit) ⭐ 458 | 🐛 6 | 🌐 JavaScript | 📅 2016-01-27 - BurpKit is a BurpSuite plugin which helps in assessing complex web apps that render the contents of their pages dynamically.
 * [Burp Buddy](https://github.com/tomsteele/burpbuddy) ⭐ 158 | 🐛 2 | 🌐 Java | 📅 2018-11-29 - burpbuddy exposes Burp Suites's extender API over the network through various mediums, with the goal of enabling development in any language without the restrictions of the JVM.
-* [Burp Requests](https://github.com/silentsignal/burp-requests) ⭐ 148 | 🐛 1 | 🌐 Java | 📅 2024-08-22 - Copy as requests plugin for Burp Suite.
+* [Burp Requests](https://github.com/silentsignal/burp-requests) ⭐ 149 | 🐛 1 | 🌐 Java | 📅 2024-08-22 - Copy as requests plugin for Burp Suite.
 * [Burpy](https://github.com/debasishm89/burpy) ⭐ 123 | 🐛 1 | 🌐 Python | 📅 2018-04-04 - Portable and flexible web application security assessment tool.It parses Burp Suite log and performs various tests depending on the module provided and finally generate a HTML report.
-* [Copy As Python-Requests](https://github.com/portswigger/copy-as-python-requests) ⭐ 66 | 🐛 1 | 🌐 Java | 📅 2024-09-24 - This extension copies selected request(s) as Python-Requests invocations.
+* [Copy As Python-Requests](https://github.com/portswigger/copy-as-python-requests) ⭐ 67 | 🐛 1 | 🌐 Java | 📅 2024-09-24 - This extension copies selected request(s) as Python-Requests invocations.
 * [Python Scripter](https://github.com/portswigger/python-scripter) ⭐ 59 | 🐛 6 | 🌐 Python | 📅 2022-05-20 - This extension allows execution of a custom Python script on each HTTP
   request and response processed by Burp.
 * [Buby](https://github.com/tduehr/buby) ⭐ 58 | 🐛 1 | 🌐 Ruby | 📅 2015-05-01 - A JRuby implementation of the BurpExtender interface for PortSwigger Burp Suite.
@@ -325,7 +325,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Authz](https://github.com/wuntee/BurpAuthzPlugin) ⭐ 76 | 🐛 3 | 🌐 Java | 📅 2013-07-22 - Burp plugin to test for authorization flaws.
 * [UUID issues for Burp Suite](https://github.com/silentsignal/burp-uuid) ⭐ 54 | 🐛 2 | 🌐 Java | 📅 2022-06-02 - UUID issues for Burp Suite.
 * [Burp SessionAuth](https://github.com/thomaspatzke/Burp-SessionAuthTool) ⚠️ Archived - Burp plugin which supports in finding privilege escalation vulnerabilities.
-* [ReproCase](https://github.com/theasbug/reprocase) ⭐ 18 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-18 - Send selected requests from Burp to ReproCase, which reproduces IDOR/BOLA findings with fresh test accounts and gives a reproduced / not reproduced / inconclusive verdict.
+* [ReproCase](https://github.com/theasbug/reprocase) ⭐ 19 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-18 - Send selected requests from Burp to ReproCase, which reproduces IDOR/BOLA findings with fresh test accounts and gives a reproduced / not reproduced / inconclusive verdict.
 * [IncrementMe Please](https://github.com/alexlauerman/IncrementMePlease) ⭐ 13 | 🐛 0 | 🌐 Java | 📅 2026-08-06 - Burp extension to increment a parameter in each active scan request.
 * [Auto Repeater](https://portswigger.net/bappstore/f89f2837c22c4ab4b772f31522647ed8) - This extension automatically repeats requests, with replacement rules and response diffing. It provides a general-purpose solution for streamlining authorization testing within web applications.
 
@@ -361,7 +361,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [GAP-Burp-Extension](https://github.com/xnl-h4ck3r/GAP-Burp-Extension) ⭐ 1,541 | 🐛 4 | 🌐 Python | 📅 2026-01-08 - This is an evolution of the original getAllParams extension for Burp. Not only does it find more potential parameters for you to investigate, but it also finds potential links to try these parameters on.
 * [JS Link Finder](https://github.com/InitRoot/BurpJSLinkFinder) ⭐ 818 | 🐛 6 | 🌐 Python | 📅 2024-03-22 - Burp Extension for a passively scanning JavaScript files for endpoint links. - Export results the text file - Exclude specific 'js' files e.g. jquery, google-analytics.
 * [Burp Smart Buster](https://github.com/pathetiq/BurpSmartBuster) ⭐ 378 | 🐛 11 | 🌐 Python | 📅 2020-10-12 - A Burp Suite content discovery plugin that add the smart into the Buster!.
-* [Xkeys](https://github.com/vsec7/BurpSuite-Xkeys) ⭐ 313 | 🐛 2 | 🌐 Python | 📅 2024-07-09 - A Burp Suite Extension to extract interesting strings (key, secret, token, or etc.) from a webpage. and lists them as information issues.
+* [Xkeys](https://github.com/vsec7/BurpSuite-Xkeys) ⭐ 312 | 🐛 2 | 🌐 Python | 📅 2024-07-09 - A Burp Suite Extension to extract interesting strings (key, secret, token, or etc.) from a webpage. and lists them as information issues.
 * [Burp JS Miner](https://github.com/minamo7sen/burp-JS-Miner) ⭐ 59 | 🐛 4 | 🌐 Java | 📅 2023-05-30 - This tool tries to find interesting stuff inside static files; mainly JavaScript and JSON files.
 * [Interesting Files Scanner](https://github.com/modzero/interestingFileScanner) ⚠️ Archived - Interesting Files Scanner extends Burp Suite's active scanner, with scans for interesting files and directories. A main feature of the extension is the check for false positives with tested patterns for each case.
 * [BeanStack - Stack-trace Fingerprinter](https://github.com/x41sec/BeanStack) ⭐ 54 | 🐛 0 | 🌐 Java | 📅 2025-12-03 - Java Fingerprinting using Stack Traces. Note that this extension sends potentially private stack-traces to a third party for processing.
@@ -474,7 +474,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 
 *Extensions related to logging HTTP traffic during assessments and storing Burp traffic.*
 
-* [Logger++](https://github.com/nccgroup/BurpSuiteLoggerPlusPlus) ⭐ 711 | 🐛 36 | 🌐 Java | 📅 2024-05-31 - Burp Suite Logger++: Log activities of all the tools in Burp Suite.
+* [Logger++](https://github.com/nccgroup/BurpSuiteLoggerPlusPlus) ⭐ 712 | 🐛 36 | 🌐 Java | 📅 2024-05-31 - Burp Suite Logger++: Log activities of all the tools in Burp Suite.
 * [Burp Scope Monitor Extension](https://github.com/Regala/burp-scope-monitor) ⭐ 197 | 🐛 10 | 🌐 Python | 📅 2021-03-31 - A Burp Suite Extension to monitor and keep track of tested endpoints.
 * [Pentest Mapper](https://github.com/Anof-cyber/Pentest-Mapper) ⭐ 119 | 🐛 0 | 🌐 Python | 📅 2023-08-02 - A Burp Suite Extension for Application Penetration Testing to map flows and vulnerabilities and write test cases for each flow, API and http request.
 * [Burp Replicator](https://github.com/portswigger/replicator) ⭐ 69 | 🐛 6 | 🌐 Java | 📅 2024-07-22 - Burp extension to help developers replicate findings from pen tests.
@@ -697,4 +697,4 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
