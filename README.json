@@ -73,7 +73,7 @@
             "open_issues": 7,
             "owner": "sting8k",
             "repo": "BurpSuite_403Bypasser",
-            "stars": 1712,
+            "stars": 1714,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -159,7 +159,7 @@
             "open_issues": 7,
             "owner": "vulnersCom",
             "repo": "burp-vulners-scanner",
-            "stars": 898,
+            "stars": 899,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -370,7 +370,7 @@
             "open_issues": 0,
             "owner": "hisxo",
             "repo": "JSpector",
-            "stars": 375,
+            "stars": 374,
             "topics": [
               "burp-extensions",
               "burpsuite",
@@ -416,7 +416,7 @@
             "open_issues": 8,
             "owner": "h3xstream",
             "repo": "burp-retire-js",
-            "stars": 215,
+            "stars": 214,
             "topics": [
               "burp-plugin",
               "javascript",
@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4409,
+                "stars": 4414,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -1492,7 +1492,7 @@
                 "open_issues": 7,
                 "owner": "wagiro",
                 "repo": "BurpBounty",
-                "stars": 1813,
+                "stars": 1814,
                 "topics": [
                   "bug-bounty",
                   "bugbounty",
@@ -1591,7 +1591,7 @@
                 "language": "Java",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-06T14:15:59Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "C0DEbrained",
                 "repo": "BurpCustomizer",
                 "stars": 582,
@@ -1641,7 +1641,7 @@
                 "open_issues": 6,
                 "owner": "1ultimat3",
                 "repo": "BadIntent",
-                "stars": 323,
+                "stars": 324,
                 "topics": [
                   "android",
                   "burp-extensions",
@@ -2069,7 +2069,7 @@
                 "language": "Java",
                 "license": null,
                 "last_commit": "2026-11-16T14:48:31Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "CompassSecurity",
                 "repo": "burp-copy-request-response",
                 "stars": 33,
@@ -4246,7 +4246,7 @@
                     "open_issues": 14,
                     "owner": "elkokc",
                     "repo": "reflector",
-                    "stars": 1217,
+                    "stars": 1216,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -4477,7 +4477,7 @@
                     "open_issues": 11,
                     "owner": "Quitten",
                     "repo": "Autorize",
-                    "stars": 1173,
+                    "stars": 1174,
                     "topics": [
                       "application-security",
                       "authorization",
@@ -4733,7 +4733,7 @@
                     "open_issues": 2,
                     "owner": "theasbug",
                     "repo": "reprocase",
-                    "stars": 19,
+                    "stars": 20,
                     "topics": [
                       "access-control",
                       "ai-agent",
@@ -5803,7 +5803,7 @@
                     "open_issues": 2,
                     "owner": "bayotop",
                     "repo": "off-by-slash",
-                    "stars": 268,
+                    "stars": 267,
                     "topics": [
                       "burpsuite",
                       "nginx",
@@ -6222,7 +6222,7 @@
                 "open_issues": 9,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1917,
+                "stars": 1918,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -8121,7 +8121,7 @@
                 "id": 448849019,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-16T14:56:17Z",
+                "last_commit": "2026-11-23T05:54:22Z",
                 "open_issues": 2,
                 "owner": "projectdiscovery",
                 "repo": "nuclei-burp-plugin",
@@ -8146,7 +8146,7 @@
                 "open_issues": 11,
                 "owner": "yeswehack",
                 "repo": "YesWeBurp",
-                "stars": 118,
+                "stars": 117,
                 "topics": [
                   "bugbounty",
                   "burp-extensions",
@@ -8489,7 +8489,7 @@
                 "language": "Java",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-06T14:15:59Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "C0DEbrained",
                 "repo": "BurpCustomizer",
                 "stars": 582,
@@ -9159,7 +9159,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2024-05-17T06:13:27Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "phlmox",
                 "repo": "burp_copy_as_ffuf_command",
                 "stars": 4,
@@ -9406,7 +9406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T16:14:29.162Z",
+    "last_updated": "2026-11-23T20:10:01.095Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
