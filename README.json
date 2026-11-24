@@ -1541,7 +1541,7 @@
                 "open_issues": 22,
                 "owner": "yeswehack",
                 "repo": "PwnFox",
-                "stars": 1367,
+                "stars": 1368,
                 "topics": [
                   "bugbounty",
                   "firefox-extension",
@@ -1693,7 +1693,7 @@
                 "id": 110985160,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-11-18T13:17:39Z",
+                "last_commit": "2026-11-24T11:11:41Z",
                 "open_issues": 4,
                 "owner": "hackvertor",
                 "repo": "hackvertor",
@@ -3163,7 +3163,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2167,
+                "stars": 2168,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -6099,7 +6099,7 @@
                     "open_issues": 46,
                     "owner": "epinna",
                     "repo": "tplmap",
-                    "stars": 4219,
+                    "stars": 4220,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6222,7 +6222,7 @@
                 "open_issues": 9,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1918,
+                "stars": 1919,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -8236,7 +8236,7 @@
                 "id": 733648946,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-08T20:41:17Z",
+                "last_commit": "2026-11-23T21:58:11Z",
                 "open_issues": 1,
                 "owner": "factionsecurity",
                 "repo": "Faction-Burp",
@@ -8402,7 +8402,7 @@
                 "open_issues": 11,
                 "owner": "bugcrowd",
                 "repo": "HUNT",
-                "stars": 2338,
+                "stars": 2339,
                 "topics": [
                   "burpsuite",
                   "hunt",
@@ -9406,7 +9406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T20:10:01.095Z",
+    "last_updated": "2026-11-24T19:29:13.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
@@ -9418,7 +9418,7 @@
       "open_issues": 1,
       "owner": "snoopysecurity",
       "repo": "awesome-burp-extensions",
-      "stars": 3456,
+      "stars": 3455,
       "topics": []
     },
     "original_repository_sha": "1d3b1d41f6dacf3dfd59993bd8c25b2aa7e40fa8",
