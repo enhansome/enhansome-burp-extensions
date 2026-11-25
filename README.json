@@ -52,7 +52,7 @@
             "open_issues": 8,
             "owner": "pmiaowu",
             "repo": "BurpShiroPassiveScan",
-            "stars": 1804,
+            "stars": 1805,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4414,
+                "stars": 4416,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -1594,7 +1594,7 @@
                 "open_issues": 12,
                 "owner": "C0DEbrained",
                 "repo": "BurpCustomizer",
-                "stars": 582,
+                "stars": 581,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1973,7 +1973,7 @@
                 "open_issues": 0,
                 "owner": "Anof-cyber",
                 "repo": "PyCript-WebSocket",
-                "stars": 81,
+                "stars": 82,
                 "topics": [
                   "bugbounty",
                   "burp-extensions",
@@ -3229,7 +3229,7 @@
                 "open_issues": 1,
                 "owner": "codewatchorg",
                 "repo": "Burp-AnonymousCloud",
-                "stars": 46,
+                "stars": 45,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -4477,7 +4477,7 @@
                     "open_issues": 11,
                     "owner": "Quitten",
                     "repo": "Autorize",
-                    "stars": 1174,
+                    "stars": 1173,
                     "topics": [
                       "application-security",
                       "authorization",
@@ -4729,11 +4729,11 @@
                     "id": 1454289971,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-18T16:06:47Z",
+                    "last_commit": "2026-11-25T16:29:19Z",
                     "open_issues": 2,
                     "owner": "theasbug",
                     "repo": "reprocase",
-                    "stars": 20,
+                    "stars": 22,
                     "topics": [
                       "access-control",
                       "ai-agent",
@@ -5167,7 +5167,7 @@
                     "open_issues": 6,
                     "owner": "InitRoot",
                     "repo": "BurpJSLinkFinder",
-                    "stars": 818,
+                    "stars": 819,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6099,7 +6099,7 @@
                     "open_issues": 46,
                     "owner": "epinna",
                     "repo": "tplmap",
-                    "stars": 4220,
+                    "stars": 4219,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6222,7 +6222,7 @@
                 "open_issues": 9,
                 "owner": "sleeyax",
                 "repo": "burp-awesome-tls",
-                "stars": 1919,
+                "stars": 1920,
                 "topics": [
                   "burp",
                   "burp-cloudflare-bypass",
@@ -6891,7 +6891,7 @@
                 "open_issues": 20,
                 "owner": "PortSwigger",
                 "repo": "turbo-intruder",
-                "stars": 1825,
+                "stars": 1824,
                 "topics": [
                   "extension"
                 ]
@@ -7495,7 +7495,7 @@
                 "open_issues": 7,
                 "owner": "Ebryx",
                 "repo": "AES-Killer",
-                "stars": 654,
+                "stars": 653,
                 "topics": [
                   "aes-decryption",
                   "aes-encryption",
@@ -8104,7 +8104,7 @@
                 "open_issues": 12,
                 "owner": "federicodotta",
                 "repo": "Brida",
-                "stars": 1902,
+                "stars": 1903,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8125,7 +8125,7 @@
                 "open_issues": 2,
                 "owner": "projectdiscovery",
                 "repo": "nuclei-burp-plugin",
-                "stars": 1357,
+                "stars": 1358,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8423,7 +8423,7 @@
                 "id": 137083276,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-08T06:37:09Z",
+                "last_commit": "2026-11-25T04:45:00Z",
                 "open_issues": 35,
                 "owner": "bit4woo",
                 "repo": "knife",
@@ -8492,7 +8492,7 @@
                 "open_issues": 12,
                 "owner": "C0DEbrained",
                 "repo": "BurpCustomizer",
-                "stars": 582,
+                "stars": 581,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -9406,7 +9406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T19:29:13.852Z",
+    "last_updated": "2026-11-25T18:37:50.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
