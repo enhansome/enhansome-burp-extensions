@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "doyensec",
             "repo": "inql",
-            "stars": 1814,
+            "stars": 1816,
             "topics": [
               "api-documentation-tool",
               "bugbounty",
@@ -94,7 +94,7 @@
             "open_issues": 12,
             "owner": "F6JO",
             "repo": "RouteVulScan",
-            "stars": 1332,
+            "stars": 1333,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -115,7 +115,7 @@
             "open_issues": 12,
             "owner": "F6JO",
             "repo": "RouteVulScan",
-            "stars": 1332,
+            "stars": 1333,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -136,7 +136,7 @@
             "open_issues": 14,
             "owner": "PortSwigger",
             "repo": "http-request-smuggler",
-            "stars": 1252,
+            "stars": 1253,
             "topics": [
               "extension"
             ]
@@ -159,7 +159,7 @@
             "open_issues": 7,
             "owner": "vulnersCom",
             "repo": "burp-vulners-scanner",
-            "stars": 899,
+            "stars": 900,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -201,7 +201,7 @@
             "open_issues": 12,
             "owner": "federicodotta",
             "repo": "Java-Deserialization-Scanner",
-            "stars": 804,
+            "stars": 805,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -245,7 +245,7 @@
             "open_issues": 17,
             "owner": "ilmila",
             "repo": "J2EEScan",
-            "stars": 678,
+            "stars": 679,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -266,7 +266,7 @@
             "open_issues": 8,
             "owner": "albinowax",
             "repo": "ActiveScanPlusPlus",
-            "stars": 670,
+            "stars": 671,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -337,7 +337,7 @@
             "open_issues": 0,
             "owner": "volkandindar",
             "repo": "agartha",
-            "stars": 411,
+            "stars": 412,
             "topics": [
               "application-security",
               "appsec",
@@ -486,7 +486,7 @@
             "open_issues": 3,
             "owner": "moloch--",
             "repo": "CSP-Bypass",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "burp-plugin",
               "content-security-policy",
@@ -512,7 +512,7 @@
             "open_issues": 17,
             "owner": "dobin",
             "repo": "BurpSentinel",
-            "stars": 152,
+            "stars": 153,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -590,7 +590,7 @@
             "open_issues": 0,
             "owner": "yandex",
             "repo": "burp-molly-pack",
-            "stars": 138,
+            "stars": 139,
             "topics": [
               "burp-extensions",
               "burp-plugin",
@@ -1049,7 +1049,7 @@
             "open_issues": 4,
             "owner": "augustd",
             "repo": "burp-suite-software-version-checks",
-            "stars": 32,
+            "stars": 33,
             "topics": [
               "burp",
               "burp-extensions",
@@ -1079,7 +1079,7 @@
             "open_issues": 0,
             "owner": "PortSwigger",
             "repo": "additional-scanner-checks",
-            "stars": 31,
+            "stars": 32,
             "topics": [
               "extension"
             ]
@@ -1123,7 +1123,7 @@
             "open_issues": 0,
             "owner": "rip1s",
             "repo": "CTFHelper",
-            "stars": 29,
+            "stars": 30,
             "topics": [
               "burp",
               "burp-extensions",
@@ -1148,7 +1148,7 @@
             "open_issues": 5,
             "owner": "ah8r",
             "repo": "csrf",
-            "stars": 21,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1319,6 +1319,50 @@
         },
         {
           "node_type": "item",
+          "title": "HTML5 Auditor",
+          "description": "This extension checks for usage of HTML5 features that have potential security risks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 78388098,
+            "language": "Java",
+            "license": null,
+            "last_commit": "2023-12-01T17:21:43Z",
+            "open_issues": 1,
+            "owner": "PortSwigger",
+            "repo": "html5-auditor",
+            "stars": 5,
+            "topics": [
+              "extension"
+            ]
+          },
+          "first_seen": "2026-08-28T20:11:33.961Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Noopener Burp Extension",
+          "description": "Find Target=_blank values within web pages that are set without noopener and noreferrer attributes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Find Target=\"_blank\" values within web pages that are set without 'noopener' and 'noreferrer' attributes",
+            "homepage": null,
+            "id": 131343128,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2018-06-08T18:18:09Z",
+            "open_issues": 0,
+            "owner": "snoopysecurity",
+            "repo": "Noopener-Burp-Extension",
+            "stars": 5,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:11:33.961Z"
+        },
+        {
+          "node_type": "item",
           "title": "Discover Reverse Tabnabbing",
           "description": "Identify areas in your application that are vulnerable to Reverse Tabnabbing.",
           "children": [],
@@ -1355,50 +1399,6 @@
             "owner": "kugg",
             "repo": "irule-detector",
             "stars": 5,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:11:33.961Z"
-        },
-        {
-          "node_type": "item",
-          "title": "HTML5 Auditor",
-          "description": "This extension checks for usage of HTML5 features that have potential security risks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 78388098,
-            "language": "Java",
-            "license": null,
-            "last_commit": "2023-12-01T17:21:43Z",
-            "open_issues": 1,
-            "owner": "PortSwigger",
-            "repo": "html5-auditor",
-            "stars": 4,
-            "topics": [
-              "extension"
-            ]
-          },
-          "first_seen": "2026-08-28T20:11:33.961Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Noopener Burp Extension",
-          "description": "Find Target=_blank values within web pages that are set without noopener and noreferrer attributes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Find Target=\"_blank\" values within web pages that are set without 'noopener' and 'noreferrer' attributes",
-            "homepage": null,
-            "id": 131343128,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2018-06-08T18:18:09Z",
-            "open_issues": 0,
-            "owner": "snoopysecurity",
-            "repo": "Noopener-Burp-Extension",
-            "stars": 4,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:33.961Z"
@@ -1466,7 +1466,7 @@
                 "open_issues": 0,
                 "owner": "overspace-labs",
                 "repo": "HaE",
-                "stars": 4416,
+                "stars": 4419,
                 "topics": [
                   "bughunter",
                   "burpsuite",
@@ -2100,27 +2100,6 @@
             },
             {
               "node_type": "item",
-              "title": "Taborator",
-              "description": "Improved Collaborator client in its own tab.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Burp extension to show the Collaborator client in a tab",
-                "homepage": null,
-                "id": 191518017,
-                "language": "Java",
-                "license": null,
-                "last_commit": "2022-12-23T13:54:44Z",
-                "open_issues": 3,
-                "owner": "hackvertor",
-                "repo": "taborator",
-                "stars": 24,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:11:33.961Z"
-            },
-            {
-              "node_type": "item",
               "title": "MagicByteSelector",
               "description": "Burp Suite Extension for inserting a magic byte into responder's request",
               "children": [],
@@ -2135,6 +2114,27 @@
                 "open_issues": 0,
                 "owner": "websecnl",
                 "repo": "MagicByteSelector",
+                "stars": 25,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:11:33.961Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Taborator",
+              "description": "Improved Collaborator client in its own tab.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Burp extension to show the Collaborator client in a tab",
+                "homepage": null,
+                "id": 191518017,
+                "language": "Java",
+                "license": null,
+                "last_commit": "2022-12-23T13:54:44Z",
+                "open_issues": 3,
+                "owner": "hackvertor",
+                "repo": "taborator",
                 "stars": 24,
                 "topics": []
               },
@@ -2531,6 +2531,30 @@
             },
             {
               "node_type": "item",
+              "title": "CookieMonster",
+              "description": "A Burp Suite plugin to easily manage cookies",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Burp Suite plugin to easily manage cookies",
+                "homepage": null,
+                "id": 777249890,
+                "language": "Java",
+                "license": null,
+                "last_commit": "2024-03-25T13:54:48Z",
+                "open_issues": 0,
+                "owner": "baegmon",
+                "repo": "CookieMonster",
+                "stars": 3,
+                "topics": [
+                  "burpsuite",
+                  "burpsuite-extension"
+                ]
+              },
+              "first_seen": "2026-08-28T20:11:33.961Z"
+            },
+            {
+              "node_type": "item",
               "title": "Decoder Pro",
               "description": "Burp Suite Plugin to decode and clean up garbage response text.",
               "children": [],
@@ -2568,30 +2592,6 @@
                 "repo": "cmar",
                 "stars": 2,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T20:11:33.961Z"
-            },
-            {
-              "node_type": "item",
-              "title": "CookieMonster",
-              "description": "A Burp Suite plugin to easily manage cookies",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Burp Suite plugin to easily manage cookies",
-                "homepage": null,
-                "id": 777249890,
-                "language": "Java",
-                "license": null,
-                "last_commit": "2024-03-25T13:54:48Z",
-                "open_issues": 0,
-                "owner": "baegmon",
-                "repo": "CookieMonster",
-                "stars": 2,
-                "topics": [
-                  "burpsuite",
-                  "burpsuite-extension"
-                ]
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
             },
@@ -2753,7 +2753,7 @@
                 "open_issues": 9,
                 "owner": "irsdl",
                 "repo": "BurpSuiteJSBeautifier",
-                "stars": 100,
+                "stars": 101,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -3163,7 +3163,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2168,
+                "stars": 2171,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -3941,7 +3941,7 @@
                 "open_issues": 2,
                 "owner": "P3GLEG",
                 "repo": "PwnBack",
-                "stars": 227,
+                "stars": 228,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -4505,7 +4505,7 @@
                     "open_issues": 30,
                     "owner": "nccgroup",
                     "repo": "AutoRepeater",
-                    "stars": 892,
+                    "stars": 893,
                     "topics": [
                       "burp-plugin",
                       "burpsuite",
@@ -4853,7 +4853,7 @@
                     "open_issues": 5,
                     "owner": "ah8r",
                     "repo": "csrf",
-                    "stars": 21,
+                    "stars": 22,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -4976,7 +4976,7 @@
                     "open_issues": 12,
                     "owner": "federicodotta",
                     "repo": "Java-Deserialization-Scanner",
-                    "stars": 804,
+                    "stars": 805,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6099,7 +6099,7 @@
                     "open_issues": 46,
                     "owner": "epinna",
                     "repo": "tplmap",
-                    "stars": 4219,
+                    "stars": 4221,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:33.961Z"
@@ -6259,7 +6259,7 @@
                 "open_issues": 1,
                 "owner": "nccgroup",
                 "repo": "BurpSuiteHTTPSmuggler",
-                "stars": 745,
+                "stars": 746,
                 "topics": [
                   "burpsuite",
                   "burpsuite-extender",
@@ -6285,7 +6285,7 @@
                 "open_issues": 1,
                 "owner": "nccgroup",
                 "repo": "BurpSuiteHTTPSmuggler",
-                "stars": 745,
+                "stars": 746,
                 "topics": [
                   "burpsuite",
                   "burpsuite-extender",
@@ -6914,7 +6914,7 @@
                 "open_issues": 0,
                 "owner": "d3vilbug",
                 "repo": "HackBar",
-                "stars": 1632,
+                "stars": 1633,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -7022,7 +7022,7 @@
                 "open_issues": 0,
                 "owner": "volkandindar",
                 "repo": "agartha",
-                "stars": 411,
+                "stars": 412,
                 "topics": [
                   "application-security",
                   "appsec",
@@ -8125,7 +8125,7 @@
                 "open_issues": 2,
                 "owner": "projectdiscovery",
                 "repo": "nuclei-burp-plugin",
-                "stars": 1358,
+                "stars": 1359,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -8463,7 +8463,7 @@
                 "open_issues": 0,
                 "owner": "d3vilbug",
                 "repo": "HackBar",
-                "stars": 1632,
+                "stars": 1633,
                 "topics": [
                   "burp",
                   "burp-extensions",
@@ -8534,7 +8534,7 @@
                 "open_issues": 6,
                 "owner": "0x4D31",
                 "repo": "burpa",
-                "stars": 533,
+                "stars": 534,
                 "topics": [
                   "automation",
                   "burp",
@@ -8566,7 +8566,7 @@
                 "open_issues": 3,
                 "owner": "Static-Flow",
                 "repo": "BurpSuite-Team-Extension",
-                "stars": 260,
+                "stars": 261,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -9406,7 +9406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T18:37:50.812Z",
+    "last_updated": "2026-11-26T18:23:37.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
