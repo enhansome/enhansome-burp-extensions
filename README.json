@@ -370,7 +370,7 @@
             "open_issues": 0,
             "owner": "hisxo",
             "repo": "JSpector",
-            "stars": 374,
+            "stars": 375,
             "topics": [
               "burp-extensions",
               "burpsuite",
@@ -1492,7 +1492,7 @@
                 "open_issues": 7,
                 "owner": "wagiro",
                 "repo": "BurpBounty",
-                "stars": 1814,
+                "stars": 1813,
                 "topics": [
                   "bug-bounty",
                   "bugbounty",
@@ -1567,7 +1567,7 @@
                 "open_issues": 2,
                 "owner": "RhinoSecurityLabs",
                 "repo": "IPRotate_Burp_Extension",
-                "stars": 897,
+                "stars": 898,
                 "topics": [
                   "aws-apigateway",
                   "burpsuite",
@@ -3163,7 +3163,7 @@
                 "open_issues": 0,
                 "owner": "initstring",
                 "repo": "cloud_enum",
-                "stars": 2171,
+                "stars": 2172,
                 "topics": [
                   "osint",
                   "penetration-testing"
@@ -4505,7 +4505,7 @@
                     "open_issues": 30,
                     "owner": "nccgroup",
                     "repo": "AutoRepeater",
-                    "stars": 893,
+                    "stars": 892,
                     "topics": [
                       "burp-plugin",
                       "burpsuite",
@@ -6428,7 +6428,7 @@
                 "open_issues": 36,
                 "owner": "nccgroup",
                 "repo": "LoggerPlusPlus",
-                "stars": 712,
+                "stars": 711,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:11:33.961Z"
@@ -7463,7 +7463,7 @@
                 "open_issues": 16,
                 "owner": "whwlsfb",
                 "repo": "BurpCrypto",
-                "stars": 1652,
+                "stars": 1653,
                 "topics": [
                   "burp-extensions",
                   "burp-plugin",
@@ -8402,7 +8402,7 @@
                 "open_issues": 11,
                 "owner": "bugcrowd",
                 "repo": "HUNT",
-                "stars": 2339,
+                "stars": 2340,
                 "topics": [
                   "burpsuite",
                   "hunt",
@@ -9406,7 +9406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T18:09:19.941Z",
+    "last_updated": "2026-11-28T16:51:06.148Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Burp Extensions",
